@@ -1,4 +1,5 @@
 import React from 'react';
+import CircularProgress from '@material-ui/core/CircularProgress';
 import Show from './Show';
 import Practice from './Practice';
 
@@ -90,12 +91,12 @@ export default class Content extends React.Component{
             all: [],
             wrong: [],
             correct: [],
-            update: false
+            update: false,
+            loading: true
         }
     }
 
     componentDidMount(){
-        
         const {level} = this.props;
         var request = new XMLHttpRequest();
         request.open('GET', `https://melqonyang.github.io/improve-your-english/words/${level}.txt`, true);
@@ -105,7 +106,7 @@ export default class Content extends React.Component{
                 var type = request.getResponseHeader('Content-Type');                
                 if (type.indexOf("text") !== 1){                   
                     const words = request.responseText.split('\n');
-                    this.setState({all: words, update: true});
+                    this.setState({all: words, update: true, loading: false});
                     document.getElementById("wordsCount").innerHTML = `(${words.length - 1} words)`;
                 }
             }
@@ -114,6 +115,7 @@ export default class Content extends React.Component{
 
     UNSAFE_componentWillReceiveProps(nextProps){
         if(this.props.level !== nextProps.level){
+            this.setState({loading: true})
             const {level} = nextProps;
             var request = new XMLHttpRequest();
             request.open('GET', `https://melqonyang.github.io/improve-your-english/words/${level}.txt`, true);
@@ -123,7 +125,7 @@ export default class Content extends React.Component{
                     var type = request.getResponseHeader('Content-Type');
                     if (type.indexOf("text") !== 1) {
                         const words = request.responseText.split('\n');
-                        this.setState({all: words, update: true});
+                        this.setState({all: words, update: true, loading: false});
                         document.getElementById("wordsCount").innerHTML = `(${words.length} words)`;
                     }
                 }
@@ -133,7 +135,7 @@ export default class Content extends React.Component{
 
     shouldComponentUpdate(nextProps, nextState) {
         const {mode, direction, count, order} = this.props;              
-        if ( nextState.update || nextProps.mode !== mode || nextProps.direction !== direction || nextProps.count !== count || nextProps.order !== order) {          
+        if ( nextState.update || nextState.loading !== this.state.loading || nextProps.mode !== mode || nextProps.direction !== direction || nextProps.count !== count || nextProps.order !== order) {          
             this.setState({update: false});
             return true;
         } else {
@@ -167,17 +169,19 @@ export default class Content extends React.Component{
     render(){
         const {mode, direction, count, order} = this.props;
         let words = this.state.all;
-        console.log(words);
-        
-               
-        const {correct, wrong} = this.state;
+        const {correct, wrong, loading} = this.state;
         words = fixDirection(words, direction);       
         words = orderWords([...words], order);
         words = fixCorrectness(words, wrong, correct, count);
         
         return (
             <div>
-                {mode === 'show' ? <Show words={words} direction={direction} correct={correct} wrong={wrong}/> : <Practice words={words} direction={direction} addWord={this.addWord}/>}
+                {
+                    loading? <CircularProgress style={{marginTop: "10%", marginLeft: "50%"}} color="secondary"/> : (
+                        mode === 'show' ? <Show words={words} direction={direction} correct={correct} wrong={wrong}/> : 
+                            <Practice words={words} direction={direction} addWord={this.addWord}/>
+                    )
+                }
             </div>
         )
     }
