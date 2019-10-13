@@ -83,7 +83,9 @@ export default class Content extends React.Component{
             if (request.readyState === 4 && request.status === 200) {
                 var type = request.getResponseHeader('Content-Type');
                 if (type.indexOf("text") !== 1){
-                    this.setState({all: request.responseText.split('\n')});
+                    const words = request.responseText.split('\n');
+                    this.setState({all: words});
+                    document.getElementById("wordsCount").innerHTML = `(${words.length - 1} words)`;
                 }
             }
         }
@@ -100,7 +102,9 @@ export default class Content extends React.Component{
                 if (request.readyState === 4 && request.status === 200) {
                     var type = request.getResponseHeader('Content-Type');
                     if (type.indexOf("text") !== 1) {
-                        this.setState({all: request.responseText.split('\n')});
+                        const words = request.responseText.split('\n');
+                        this.setState({all: words});
+                        document.getElementById("wordsCount").innerHTML = `(${words.length} words)`;
                     }
                 }
             } 
