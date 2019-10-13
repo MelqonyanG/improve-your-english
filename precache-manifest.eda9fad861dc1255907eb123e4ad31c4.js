@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "16e9546520c833b540dd6bf68f2a62e4",
+    "revision": "cca72f0c52cdc036f466d6e156e6069a",
     "url": "/improve-your-english/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/improve-your-english/static/js/2.f0a13537.chunk.js"
   },
   {
-    "revision": "a6ea04e3a279ea347de1",
-    "url": "/improve-your-english/static/js/main.97ffe81c.chunk.js"
+    "revision": "34dffdd4ff75070eaa6c",
+    "url": "/improve-your-english/static/js/main.2333ced4.chunk.js"
   },
   {
     "revision": "f70a171edc35fcdae651",
