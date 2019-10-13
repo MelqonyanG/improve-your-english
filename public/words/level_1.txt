@@ -1,5 +1,7 @@
 first name * անուն
+name * անուն
 last name * ազգանուն
+surname * ազգանուն
 nickname * մականուն
 classmate * դասընկեր
 male * տղամարդ
@@ -20,3 +22,118 @@ ten * տաս
 dot * կետ
 dash * գծիկ
 underscore * ընդգծում
+single female * միայնակ կին
+merried female * ամուսնացած կին
+tomorrow * վաղը
+umbrella * անձրևանոց
+cell phone * բջջային հեռախոս
+key * բանալի
+energy bar * էներգետիկական բատոնչիկ
+eraser * ռետին
+pen * գրիչ
+pencil * մատիտ
+notebook * տետր
+clock * ժամացույց
+case * դեպք
+case * պատյան
+paper clip * թղթի ամրակ
+television * հեռուստատեսություն
+phone case * հեռախոսի պատյան
+box * արկղ
+flash drive * ֆլեշ կրիչ
+headphone * ականջակալ
+chair * աթոռ
+under * տակ
+Beijing * Պեկին
+Cairo * Կահիրե
+New York * Նյու Յորք
+Egypt * Եգիպտոս
+Mexico * Մեքսիկա
+India * Հնդկաստան
+Brazil * Բրազիլիա
+the U.S * ԱՄՆ
+Japan * Ճապոնիա
+Delhi *  Դելի
+Tokyo * Տոկիո
+portuguese * պորտուգալերեն
+China * Չինաստան
+South Korea * Հյուսիսային Կորեա
+originally * ծագումով
+Sydney * Սիդնեյ
+mandarin * չինարեն
+brazilian * բրազիլացի
+eleven * տասնմեկ
+twelve * տասներկու
+thirteen * տասներեք
+fourteen * տասնչորս
+fifteen * տասնհինգ
+sixteen * տասնվեց
+seventeen * տասնյոթ
+eighteen * տասնութ
+nineteen * տասնինը
+twenty * քսան
+twenty-one * քսանմեկ
+twenty-two * քսաներկու
+twenty-three * քսաներեք
+twenty-four * քսանչորս
+twenty-five * քսանհինգ
+twenty-six * քսանվեց
+twenty-seven * քսանյոթ
+twenty-eight * քսանութ
+twenty-nine * քսանինը
+thirty * երեսուն
+forty * քառասուն
+fifty * հիսուն
+sixty * վաթսուն
+seventy * յոթանասուն
+eighty * ութանասուն
+ninety * ինսուն
+one hundred * հարյուր
+one hundred (and) one * հարյուր մեկ
+one hundred (and) two * հարյուր երեք
+one hundred (and) three * հարյուր չորս
+What is she like? * Ինչպիսի՞ն է նա։
+talkative * շատախոս
+thin * նիհար
+heavy * ծանր
+funny * զվարճալի
+beige * բեժ
+swimsuit * լողազգեստ
+dry * չոր
+mine * իմը
+yours * քոնը
+their * նրանցը
+cloudy * ամպոտ
+windy * քամոտ
+raincoat * անձրևանոց
+it is two o'clock * ժամը երկուսն է
+it is two-thirty * ժամը երկուսն անց կես է
+it is two-oh-five * ժամը երկուսն անդ հինգ է
+it is five after two * ժամը երկուսն անդ հինգ է
+it is two-forty * ժամը երկուսն անց քառասուն է
+it is twenty to three * ժամը երեքին քսան պակաս է
+it is two-fifteen * ժամը երկուսն անց տասնհինգ է
+it is a quarter after two * ժամը երկուսն անց տասնհինգ է
+it is two forty-five * ժամը երկուսն անց քառասունհինգ է 
+it is a quarter to three * ժամը երեքին քառորդ պակաս է
+in the afternoon * կեսօրին
+in the midnight * կեսգիշերին
+to have breakfast * նախաճաշել
+to dance * պարել
+to listen to music * լսել երաժշտություն
+to play basketball * խաղալ բասկետբոլ
+to ride a bike * հեծանիվ քշել
+to run * վազել
+to shop * գնումներ կատարել
+to take a walk * զբոսնել
+to watch a movie * ֆիլմ դիտել
+couch * թախտ
+to take the train * գնացք նստել
+to walk * քայլել
+to take the subway * մետրո նստել
+to take a taxi * տաքսի նստել
+to ride a motorcycle * մոտոցիկլ վարել
+to serve * մատուցել
+
+
+
