@@ -61,6 +61,8 @@ export default function StickyHeadTable(props) {
     setPage(0);
   };
 
+  const emptyRows = rowsPerPage - Math.min(rowsPerPage, rows.length - page * rowsPerPage);
+
   return (
     <Paper className={classes.root}>
       <div className={classes.tableWrapper}>
@@ -97,6 +99,11 @@ export default function StickyHeadTable(props) {
                   </TableRow>
                 );
               })}
+              {emptyRows > 0 && (
+                <TableRow style={{ height: 53 * emptyRows }}>
+                  <TableCell colSpan={6} />
+                </TableRow>
+              )}
           </TableBody>
         </Table>
       </div>

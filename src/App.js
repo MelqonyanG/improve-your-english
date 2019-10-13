@@ -1,11 +1,23 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { makeStyles } from '@material-ui/core/styles';
+import { makeStyles, createMuiTheme, MuiThemeProvider } from '@material-ui/core/styles';
 import Tabs from '@material-ui/core/Tabs';
 import Tab from '@material-ui/core/Tab';
 import Typography from '@material-ui/core/Typography';
 import Box from '@material-ui/core/Box';
 import Actions from './Actions';
+
+const theme = createMuiTheme({
+  typography: {
+    useNextVariants: true
+  },
+  palette: {
+    primary: { main: '#8ED0B1' },
+    secondary: { main: "#030303" },
+    contrastThreshold: 3,
+    tonalOffset: 0.2
+  }
+});
 
 const SELECTS = ['level_1', 'level_2', 'level_3', 'level_4', 'level_5', 'level_6', 'phrases', 'irregular_verbs', 'another', 'all']; 
 function getLabelName(label){
@@ -68,23 +80,24 @@ export default function AppBar() {
   }
 
   return (
-    <div className={classes.root}>
-      <Tabs
-        orientation="vertical"
-        variant="scrollable"
-        value={value}
-        onChange={handleChange}
-        aria-label="Vertical tabs example"
-        className={classes.tabs}
-      >
-        {
-          SELECTS.map((label, index) => <Tab key={label} label={getLabelName(label)} {...a11yProps(index)} />)
-        }
-      </Tabs>
-      <TabPanel value={value} index={value}>
-        <Actions level={SELECTS[value]} />
-      </TabPanel>
-
-    </div>
+    <MuiThemeProvider theme={theme}>
+      <div className={classes.root}>
+        <Tabs
+          orientation="vertical"
+          variant="scrollable"
+          value={value}
+          onChange={handleChange}
+          aria-label="Vertical tabs example"
+          className={classes.tabs}
+        >
+          {
+            SELECTS.map((label, index) => <Tab key={label} label={getLabelName(label)} {...a11yProps(index)} />)
+          }
+        </Tabs>
+        <TabPanel value={value} index={value}>
+          <Actions level={SELECTS[value]} />
+        </TabPanel>
+      </div>
+    </MuiThemeProvider>
   );
 }

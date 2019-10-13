@@ -3,6 +3,8 @@ import { withStyles } from '@material-ui/core/styles';
 import Paper from '@material-ui/core/Paper';
 import Typography from '@material-ui/core/Typography';
 import TextField from '@material-ui/core/TextField';
+import Grid from '@material-ui/core/Grid';
+import Button from '@material-ui/core/Button';
 
 const CssTextField = withStyles({
   root: {
@@ -33,6 +35,9 @@ const styles = ({
   textField: {
     width: "50%"
   },
+  button: {
+    marginLeft: "48%",
+  },
 });
 
 class Practice extends React.Component{
@@ -41,40 +46,65 @@ class Practice extends React.Component{
     this.state = {
       index: 0,
       answer: "",
+      rightAnswer: props.words[0][1].split(" | "),
+      answered: [],
       helperText: ""
     }
   }
 
-  handleKeyPress = event => {
-    if (event.key === "Enter"){
-      const { index, answer } = this.state;
-      const {words, addWord, direction} = this.props;
-      const word = words[index][1];
-      const practicedWord = direction? `${words[index][1]} * ${words[index][0]}`: `${words[index][0]} * ${words[index][1]}`; 
-      if (word === answer){
-          if(index >= words.length - 1){this.setState({helperText: "Already practiced."})};
-          this.setState({
-            index: index < words.length - 1 ? index+1 : 0,
-            answer: ""
-          });
-          addWord(practicedWord, true);
-      }else{
-          document.getElementById("outlined-name").style.color = 'red';
-          addWord(practicedWord, false);
-      }      
-    }   
-  }
-
-  handleChange = event => {
+  handleChange = event => {      
     if (event.key === 'Enter'){ return; }
-    document.getElementById("outlined-name").style.color = 'black';     
+    document.getElementById("answer").style.color = 'black'; 
     this.setState({answer: event.target.value});
   };
 
+  hint = () => {
+    const {rightAnswer, answered} = this.state;
+    let answer = "";
+    for (let i=0; i<rightAnswer.length; i+=1){
+      if(!answered.includes(rightAnswer[i])){
+        answer = rightAnswer[i];
+        break;
+      }
+    }
+    this.setState({answer});
+  }
+
+  handleKeyPress = event => {   
+    if (event.key === "Enter"){
+      const {rightAnswer, answer, answered, index} = this.state;
+      const {words, addWord, direction} = this.props;
+      const  word = words[index][0];
+      if(rightAnswer.includes(answer) && !answered.includes(answer)){
+        answered.push(answer);
+        let update = false;
+        if(rightAnswer.length <= answered.length){
+          const new_index = index < words.length - 1 ? index+1 : 0;
+          this.setState({index: new_index, answer: "", answered: [], rightAnswer: words[new_index][1].split(" | ")});
+          update = true;
+        }else{
+          this.setState({answered, answer: ""})
+        }
+        const practicedWord = `${direction? answer : word} * ${direction? word: answer}`;
+        addWord(practicedWord, update);
+      }else if(rightAnswer.includes(answer) && answered.includes(answer)){
+        document.getElementById("answer").style.color = 'orange'; 
+      }else{
+        document.getElementById("answer").style.color = 'red'; 
+        const wrongWords = rightAnswer.filter(n => !answered.includes(n));
+        for(let i=0; i<wrongWords.length; i+=1){
+          const practicedWord = `${direction? wrongWords[i] : word} * ${direction? word: wrongWords[i]}`;
+          addWord(practicedWord, false);
+        }
+      }
+      
+    }
+  }
+
   render(){
     const {classes, words, direction} = this.props;
-    const {index, answer, helperText} = this.state;
-    
+    const {index, answer, rightAnswer, answered, helperText} = this.state;  
+        
     return (
       <div>
         <Paper className={classes.root}>
@@ -83,22 +113,34 @@ class Practice extends React.Component{
               <Typography variant="h5" component="h3">
                 No matching words.
               </Typography>: <div>
-                <Typography variant="h5" component="h3">
-                  {words[index][0]}
-                </Typography>
+                <Grid container spacing={2}>
+                  <Grid item xs={5}>
+                    <Typography variant="h4" component="h3" align="right">
+                      {words[index][0]}
+                    </Typography>
+                  </Grid>
+                  <Grid item xs={7}>
+                    <Typography variant="h6" component="h3" align="left">
+                      {`| ${answered.join(" | ")}`}
+                    </Typography>
+                  </Grid>
+                </Grid>
                 <CssTextField
-                  id="outlined-name"
-                  label={direction? "English" : "Armenian"}
-                  className={classes.textField}
-                  value={answer}
-                  onChange={this.handleChange}
-                  onKeyPress={this.handleKeyPress}
-                  margin="normal"
-                  variant="outlined"
-                  autoComplete="off"
-                  autoFocus={true}
-                  helperText={helperText}
-                />
+                        id={"answer"}
+                        label={`${direction? "English" : "Armenian"} ${answered.length+1} - ${rightAnswer.length}`}
+                        className={classes.textField}
+                        value={answer}
+                        onChange={this.handleChange}
+                        onKeyPress={this.handleKeyPress}
+                        margin="normal"
+                        variant="outlined"
+                        autoComplete="off"
+                        autoFocus={true}
+                        helperText={helperText}
+                      /><br/>
+                <Button color="primary" size="small" className={classes.button} onClick={this.hint}>
+                  Hint
+                </Button>
               </div>
           }
         </Paper>

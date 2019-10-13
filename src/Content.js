@@ -34,13 +34,33 @@ function fixDirection(words, direction){
             let arm = words[i].split("*")[1].trim();
             let eng = words[i].split("*")[0].trim();
             if(direction){
-                result.push([arm, eng]);
+                let eng_words = eng;
+                for (let j=0; j<words.length; j+=1){
+                    if(words[j].trim().length > 0 && arm === words[j].split("*")[1].trim() && !eng_words.includes(words[j].split("*")[0].trim())){
+                        eng_words = `${eng_words} | ${words[j].split("*")[0].trim()}`
+                    }
+                }               
+                result.push([arm, eng_words]);
             }else{
-                result.push([eng, arm])
+                let arm_words = arm;
+                for (let j=0; j<words.length; j+=1){
+                    if(words[j].trim().length > 0 && eng === words[j].split("*")[0].trim() && !arm_words.includes(words[j].split("*")[1].trim())){
+                        arm_words = `${arm_words} | ${words[j].split("*")[1].trim()}`
+                    }
+                }
+                result.push([eng, arm_words])
             }
         }
     }
-    return result;
+    const uniqueResult = [];
+    const includesWords = [];
+    for (let i=0; i <result.length; i+=1){
+        if(!includesWords.includes(result[i][0])){
+            includesWords.push(result[i][0]);
+            uniqueResult.push(result[i]);
+        }
+    }    
+    return uniqueResult;
 }
 
 export default class Content extends React.Component{
@@ -62,19 +82,19 @@ export default class Content extends React.Component{
         request.onreadystatechange = () => {
             if (request.readyState === 4 && request.status === 200) {
                 var type = request.getResponseHeader('Content-Type');
-                if (type.indexOf("text") !== 1) {
+                if (type.indexOf("text") !== 1){
                     this.setState({all: request.responseText.split('\n')});
                 }
             }
         }
     }
 
-    componentWillReceiveProps(nextProps){
+    UNSAFE_componentWillReceiveProps(nextProps){
         this.setState({update: true});
         if(this.props.level !== nextProps.level){
             const {level} = nextProps;
             var request = new XMLHttpRequest();
-            request.open('GET', `https://melqonyang.github.io/spelling-checker/words/${level}.txt`, true);
+            request.open('GET', `https://melqonyang.github.io/improve-your-english/words/${level}.txt`, true);
             request.send(null);
             request.onreadystatechange = () => {
                 if (request.readyState === 4 && request.status === 200) {
@@ -123,7 +143,8 @@ export default class Content extends React.Component{
 
     render(){
         const {mode, direction, count, order} = this.props;
-        let words = this.state[count];       
+        let words = this.state[count];
+               
         const {correct, wrong} = this.state;
         words = fixDirection(words, direction);       
         words = orderWords([...words], order);
