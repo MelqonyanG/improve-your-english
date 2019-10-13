@@ -1126,7 +1126,7 @@ wharf * նավամատույց
 plant * բույս
 rain forest * անձրևային անտառ
 toothache * ատամնացավ
-to enjoy * ագտվել
+to enjoy * օգտվել
 dentist's office * ատամնաբուժարան
 research * ուսումնասիրություն
 research * հետազոտություն

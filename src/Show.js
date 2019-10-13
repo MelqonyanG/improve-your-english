@@ -30,7 +30,7 @@ function createColumns(direction){
     [
         { id: "eng", label: "English", minWidth: 200 },
         { id: "arm", label: "Armenian", minWidth: 200 },
-        { id: "wrocorrectnessng", label: "Correctness", minWidth: 200 },
+        { id: "correctness", label: "Correctness", minWidth: 200 },
     ];
 }
 
@@ -62,7 +62,7 @@ export default function StickyHeadTable(props) {
   };
 
   const emptyRows = rowsPerPage - Math.min(rowsPerPage, rows.length - page * rowsPerPage);
-
+ 
   return (
     <Paper className={classes.root}>
       <div className={classes.tableWrapper}>
@@ -90,9 +90,7 @@ export default function StickyHeadTable(props) {
                       const value = row[column.id];
                       return (
                         <TableCell key={`cell${column.label}`} align={column.align}>
-                          {column.format && typeof value === "number"
-                            ? column.format(value)
-                            : value}
+                          {value}
                         </TableCell>
                       );
                     })}

@@ -90,21 +90,22 @@ export default class Content extends React.Component{
             all: [],
             wrong: [],
             correct: [],
-            update: true
+            update: false
         }
     }
 
     componentDidMount(){
+        
         const {level} = this.props;
         var request = new XMLHttpRequest();
         request.open('GET', `https://melqonyang.github.io/improve-your-english/words/${level}.txt`, true);
         request.send(null);
-        request.onreadystatechange = () => {
+        request.onreadystatechange = () => {           
             if (request.readyState === 4 && request.status === 200) {
-                var type = request.getResponseHeader('Content-Type');
-                if (type.indexOf("text") !== 1){
+                var type = request.getResponseHeader('Content-Type');                
+                if (type.indexOf("text") !== 1){                   
                     const words = request.responseText.split('\n');
-                    this.setState({all: words});
+                    this.setState({all: words, update: true});
                     document.getElementById("wordsCount").innerHTML = `(${words.length - 1} words)`;
                 }
             }
@@ -112,7 +113,6 @@ export default class Content extends React.Component{
     }
 
     UNSAFE_componentWillReceiveProps(nextProps){
-        this.setState({update: true});
         if(this.props.level !== nextProps.level){
             const {level} = nextProps;
             var request = new XMLHttpRequest();
@@ -123,18 +123,18 @@ export default class Content extends React.Component{
                     var type = request.getResponseHeader('Content-Type');
                     if (type.indexOf("text") !== 1) {
                         const words = request.responseText.split('\n');
-                        this.setState({all: words});
+                        this.setState({all: words, update: true});
                         document.getElementById("wordsCount").innerHTML = `(${words.length} words)`;
                     }
                 }
             } 
-        }
-        
+        }   
     }
 
     shouldComponentUpdate(nextProps, nextState) {
-        const {mode, direction, count, order, level} = this.props;            
-        if (nextProps.level !== level || nextProps.mode !== mode || nextProps.direction !== direction || nextProps.count !== count || nextProps.order !== order) {          
+        const {mode, direction, count, order} = this.props;              
+        if ( nextState.update || nextProps.mode !== mode || nextProps.direction !== direction || nextProps.count !== count || nextProps.order !== order) {          
+            this.setState({update: false});
             return true;
         } else {
             return false;
@@ -144,7 +144,6 @@ export default class Content extends React.Component{
     addWord = (word, isCorrect) => {
         const {wrong, correct} = this.state;       
         if(!isCorrect){      
-            this.setState({update: false});              
             if (!wrong.includes(word)){
                 wrong.push(word);
                 this.setState({wrong});
@@ -154,7 +153,6 @@ export default class Content extends React.Component{
                 this.setState({correct});
             }
         }else{
-            this.setState({update: true});
             if (!correct.includes(word)){
                 correct.push(word);
                 this.setState({correct});
@@ -169,6 +167,8 @@ export default class Content extends React.Component{
     render(){
         const {mode, direction, count, order} = this.props;
         let words = this.state.all;
+        console.log(words);
+        
                
         const {correct, wrong} = this.state;
         words = fixDirection(words, direction);       
