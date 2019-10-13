@@ -57,7 +57,7 @@ export default class Content extends React.Component{
     componentDidMount(){
         const {level} = this.props;
         var request = new XMLHttpRequest();
-        request.open('GET', `https://melqonyang.github.io/spelling-checker/words/${level}.txt`, true);
+        request.open('GET', `https://melqonyang.github.io/improve-your-english/words/${level}.txt`, true);
         request.send(null);
         request.onreadystatechange = () => {
             if (request.readyState === 4 && request.status === 200) {
