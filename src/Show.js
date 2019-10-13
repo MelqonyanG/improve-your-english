@@ -47,7 +47,7 @@ const useStyles = makeStyles({
 export default function StickyHeadTable(props) {
   const classes = useStyles();
   const [page, setPage] = React.useState(0);
-  const [rowsPerPage, setRowsPerPage] = React.useState(10);
+  const [rowsPerPage, setRowsPerPage] = React.useState(5);
   const {words, direction, wrong, correct} = props;
   const rows = createData(words, direction, wrong, correct);
   const columns = createColumns(direction);
@@ -106,7 +106,7 @@ export default function StickyHeadTable(props) {
         </Table>
       </div>
       <TablePagination
-        rowsPerPageOptions={[10, 25, 100]}
+        rowsPerPageOptions={[5, 10, 20]}
         component="div"
         count={rows.length}
         rowsPerPage={rowsPerPage}
