@@ -8,16 +8,16 @@ import TableHead from "@material-ui/core/TableHead";
 import TablePagination from "@material-ui/core/TablePagination";
 import TableRow from "@material-ui/core/TableRow";
 
-function createData(words, direction, wrong, correct) {  
-    const result = []
-    for (let i=0; i<words.length; i+=1){
-        const arm = direction? words[i][0]: words[i][1];
-        const eng = direction? words[i][1]: words[i][0];
-        const word = `${eng} * ${arm}`;
-        const correctness = wrong.includes(word)? 'wrong': (correct.includes(word)? 'correct': 'not practiced');
-        result.push({ arm, eng, correctness });
-    }
-    return result;
+function createData(words, direction, wrong, correct) { 
+  const result = []
+  for (let i=0; i<words.length; i+=1){
+      const arm = direction? words[i][0]: words[i][1];
+      const eng = direction? words[i][1]: words[i][0];
+      const word = words[i][0];
+      const correctness = wrong.includes(word)? 'wrong': (correct.includes(word)? 'correct': 'not practiced');
+      result.push({ arm, eng, correctness });
+  }
+  return result;
 }
 
 function createColumns(direction){

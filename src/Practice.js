@@ -83,28 +83,24 @@ class Practice extends React.Component{
   handleKeyPress = event => {   
     if (event.key === "Enter"){
       const {rightAnswer, answer, answered, index} = this.state;
-      const {words, addWord, direction} = this.props;
+      const {words, addWord} = this.props;
       const  word = words[index][0];
       if(rightAnswer.includes(answer) && !answered.includes(answer)){
         answered.push(answer);
-        let update = false;
         if(rightAnswer.length <= answered.length){
           const new_index = index < words.length - 1 ? index+1 : 0;
           this.setState({index: new_index, answer: "", answered: [], rightAnswer: words[new_index][1].split(" | ")});
-          update = true;
+          addWord(word, true)
         }else{
           this.setState({answered, answer: ""})
         }
-        const practicedWord = `${direction? answer : word} * ${direction? word: answer}`;
-        addWord(practicedWord, update);
       }else if(rightAnswer.includes(answer) && answered.includes(answer)){
         document.getElementById("answer").style.color = 'orange'; 
       }else{
         document.getElementById("answer").style.color = 'red'; 
         const wrongWords = rightAnswer.filter(n => !answered.includes(n));
         for(let i=0; i<wrongWords.length; i+=1){
-          const practicedWord = `${direction? wrongWords[i] : word} * ${direction? word: wrongWords[i]}`;
-          addWord(practicedWord, false);
+          addWord(word, false);
         }
       }
       

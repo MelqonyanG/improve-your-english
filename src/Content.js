@@ -63,6 +63,26 @@ function fixDirection(words, direction){
     return uniqueResult;
 }
 
+function fixCorrectness(words, wrongs, corrects, count){
+    if (count === 'all') return words;
+    if (count === 'wrong'){
+        const result = [];
+        for (let i=0; i<words.length; i+=1){
+            if(wrongs.includes(words[i][0])){
+                result.push(words[i])
+            }  
+        }
+        return result;
+    }
+    const result = [];
+    for (let i=0; i<words.length; i+=1){
+        if(corrects.includes(words[i][0])){
+            result.push(words[i])
+        }  
+    }
+    return result;
+}
+
 export default class Content extends React.Component{
     constructor(props){
         super(props);        
@@ -148,11 +168,12 @@ export default class Content extends React.Component{
 
     render(){
         const {mode, direction, count, order} = this.props;
-        let words = this.state[count];
+        let words = this.state.all;
                
         const {correct, wrong} = this.state;
         words = fixDirection(words, direction);       
         words = orderWords([...words], order);
+        words = fixCorrectness(words, wrong, correct, count);
         
         return (
             <div>
