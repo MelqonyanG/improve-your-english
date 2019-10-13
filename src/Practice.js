@@ -114,7 +114,7 @@ class Practice extends React.Component{
   render(){
     const {classes, words, direction} = this.props;
     const {index, answer, rightAnswer, answered, helperText, editIndex} = this.state;  
-        
+    
     return (
       <div>
         <Paper className={classes.root}>

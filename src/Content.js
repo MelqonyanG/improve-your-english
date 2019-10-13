@@ -112,8 +112,9 @@ export default class Content extends React.Component{
         
     }
 
-    shouldComponentUpdate(nextProps, nextState) {            
-        if (nextState.update || nextProps.mode === 'show') {          
+    shouldComponentUpdate(nextProps, nextState) {
+        const {mode, direction, count, order} = this.props;            
+        if (nextProps.mode !== mode || nextProps.direction !== direction || nextProps.count !== count || nextProps.order !== order) {          
             return true;
         } else {
             return false;
