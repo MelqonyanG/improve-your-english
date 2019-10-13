@@ -211,7 +211,7 @@ export default function CenteredGrid(props) {
             <FormControlLabel
               value="your"
               control={<CRadio />}
-              label="Your order"
+              label="My order"
               labelPlacement="start"
             />
           </RadioGroup>

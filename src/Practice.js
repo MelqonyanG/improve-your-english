@@ -2,8 +2,10 @@ import React from "react";
 import { withStyles } from '@material-ui/core/styles';
 import Paper from '@material-ui/core/Paper';
 import Typography from '@material-ui/core/Typography';
-import TextField from '@material-ui/core/TextField';
-import Grid from '@material-ui/core/Grid';
+import DeleteIcon from '@material-ui/icons/Cancel';
+import EditIcon from '@material-ui/icons/Edit';
+import SaveIcon from '@material-ui/icons/Save';
+import TextField from '@material-ui/core/TextField';import Grid from '@material-ui/core/Grid';
 import Button from '@material-ui/core/Button';
 
 const CssTextField = withStyles({
@@ -48,7 +50,8 @@ class Practice extends React.Component{
       answer: "",
       rightAnswer: props.words[0][1].split(" | "),
       answered: [],
-      helperText: ""
+      helperText: "",
+      editIndex: false
     }
   }
 
@@ -68,6 +71,13 @@ class Practice extends React.Component{
       }
     }
     this.setState({answer});
+  }
+
+  changeIndex = () =>{
+    const {words} = this.props;
+    const new_index = parseInt(document.getElementById("newIndex").value, 10) - 1;
+    if (new_index > words.length) return;
+    this.setState({editIndex: false, index: new_index, answer: "", answered: [], rightAnswer: words[new_index][1].split(" | ")})
   }
 
   handleKeyPress = event => {   
@@ -103,7 +113,7 @@ class Practice extends React.Component{
 
   render(){
     const {classes, words, direction} = this.props;
-    const {index, answer, rightAnswer, answered, helperText} = this.state;  
+    const {index, answer, rightAnswer, answered, helperText, editIndex} = this.state;  
         
     return (
       <div>
@@ -113,6 +123,20 @@ class Practice extends React.Component{
               <Typography variant="h5" component="h3">
                 No matching words.
               </Typography>: <div>
+                  <Button variant="text" 
+                    size="large" 
+                    className={classes.button} 
+                    endIcon={editIndex? <DeleteIcon onClick={() => {this.setState({editIndex: false})}} />: <EditIcon onClick={() => {this.setState({editIndex: true})}} />}>
+                      {editIndex? <TextField
+                        id="newIndex"
+                        label="Max 15"
+                        defaultValue={index+1}
+                        className={classes.textField}
+                        variant="outlined"
+                        style={{width: "70px"}}
+                      /> : `${index+1}.`}
+                    {editIndex && <SaveIcon onClick={this.changeIndex} />}
+                </Button>
                 <Grid container spacing={2}>
                   <Grid item xs={5}>
                     <Typography variant="h4" component="h3" align="right">
