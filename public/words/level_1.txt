@@ -149,8 +149,6 @@ classmate * դասընկեր
 female * տղամարդ
 male * կին
 math * մաթեմատիկա
-name * անուն
-nickname * մականուն
 phone number * հեռախոսի համար
 teacher * ուսուցիչ
 pronoun * դերանուն
@@ -237,17 +235,11 @@ board * տախտակ
 English book * անգլերենի գիրք 
 book bag * գրքերի պայուսակ
 cassette player * ձայներիզի նվագարկիչ
-chair * աթոռ
-clock * ժամացույց
 desk * գրասեղան
 dictionary * բառարան 
 door * դուռ
 encyclopedia * հանրագիտարան
-eraser * ռետին
 map * քարտեզ
-notebook * տետր
-pen * գրիչ
-pencil * մատիտ
 table * սեղան
 table * աղյուսակ
 wall * պատ
@@ -260,7 +252,6 @@ briefcase * պայուսակ
 briefcase * պորտֆել
 camera * տեսախցիկ
 CD player * ձայնային նվագարկիչ
-cell phone * բջջային հեռախոս
 chopsticks * կերակուր ուտելու փայտիկներ
 earring * ականջող
 glasses * ակնոցներ
@@ -272,19 +263,16 @@ stamp * կնիք
 sunglasses * արևային ակնոցներ 
 telephone * հեռախոս
 phone * հեռախոս
-television * հեռուստատեսություն
 ticket * տոմս
 umbrella * հովանոց
 wallet * դրամապանակ
 watch * ժամացույց
 address * հասցե
-box * արկղ
 cafe * սրճարան
 car * ավտոմեքենա
 exercise * վարժություն
 pocket * գրպան
 sentence * նախադասություն
-this * սա
 that * դա
 these * սրանք
 they * նրանք
@@ -300,14 +288,12 @@ behind * ետևում
 in front of * դիմաց
 next to * կողքին
 on * վրա 
-under * տակ
 vocabulary * բառապաշար
 I don't know. * Ես չգիտեմ
 Is this your? * սա քո՞նն է
 Thank you! * Շնորհակալություն
 No problem. * Խնդիր չկա
 to express disappointment * արտահայտել հիասթափություն
-to give an opinion * կարծիք հայտնել
 to bet * գրազ գալ
 to think before responding * մտածել մինչև պատասխանելը
 Let me see. * թող մտածեմ։
@@ -332,10 +318,7 @@ city * քաղաք
 plural * հոգնակի
 world * աշխարհ
 game * խաղ
-he * նա (տղամարդ)
-she * նա (կին)
 we * մենք
-that * դա
 who * ով
 Determiner * չափիչ
 Determiner * որոշիչ
@@ -345,21 +328,17 @@ beautiful * գեղեցիկ
 cute * գրավիչ
 good-looking * լավ տեսք ունեցող
 handsome * գեղեցիկ (տղամարդ)
-heavy * ծանր
 pretty * գեղեցիկ (կին)
 pretty * բավականին
 short * կարճ
 tall * բարձրահասակ
-thin * նիհար
 personality * անհատականություն
 friendly * ընկերասեր
-funny * զվարճալի
 nice * սիրալիր
 quiet * հանգիստ
 serious * լուրջ
 shy * ամաչկոտ
 smart * խելացի
-talkative * շատախոս
 age *  տարիք
 early * վաղ
 false * կեղծ
@@ -371,7 +350,6 @@ late * ուշ
 new * նոր
 old * հին
 true * ճիշտ
-originally * ծագումով
 really * իրոք
 this week * այս շաբաթ
 but * բայց
@@ -406,7 +384,6 @@ jacket * ժակետ
 jeans * ջինս
 pajamas * գիշերազգեստ
 pants * շալվար
-raincoat * անձրևանոց
 scarf * շարֆ
 shirt * վերնաշապիկ
 shoes * կոշիկներ
@@ -417,7 +394,6 @@ socks * գուլպա
 suit * կոստյում
 sweater * սվիտեր
 sweatshirt * շապիկ
-swimsuit * լողազգեստ
 tie * փողկապ
 T-shirt * սպորտային վերնաշապիկ
 Season * տարվա եղանակ
@@ -434,7 +410,6 @@ problem * խնդիր
 taxi * տաքսի
 work * աշխատանք
 Color * գույն
-beige * բեժ
 black * սև
 dark blue * 
 light blue * 
@@ -452,19 +427,14 @@ red * կարմիր
 white * սպիտակ
 yellow * դեղին
 Weather * եղանակ
-cloudy * ամպոտ
 cold * ցուրտ
 cool * զով
 hot * տաք
 humid * խոնավ
 sunny * արևոտ
 warm * ջերմ
-windy * քամոտ
 all * բոլորը
-dry * չոր
 favorite * նախընտրելի
-mine * իմը
-yours * քոնը
 hers * նրանը
 theirs * նրանցը
 whose * որի
@@ -476,7 +446,6 @@ maybe * միգուցե
 today * այսօր
 around the world * աշխարհի շուրջը
 at home * տանը
-and * և
 but * բայց 
 to talk about preferences * նախընտրությունների մասին խոսել
 What are your favorite colors? * Որո՞նք են քո նախընտրելի գույները։
@@ -497,7 +466,6 @@ dinner * ընթրիք
 Mom * մամ
 bike * հեծանիվ
 conference * գիտաժողավ
-city * քաղաք
 movie * ֆիլմ
 pizza * պիցցա
 soccer * ամերիկյան ֆուտբոլ
@@ -508,7 +476,6 @@ hungry * սոված
 to call * կանչել
 to call * զանգել
 to cook * եփել
-to dance * պարել
 to do * անել
 to drive * վարել
 to eat * ուտել
@@ -519,7 +486,6 @@ to go * գնալ
 to go to work * գնալ աշխատանքի
 to go to the movies * ֆիլմ գնալ
 to have * ունենալ
-to have breakfast * նախաճաշել
 to have lunch * ճաշել
 to have dinner * ընթրել
 to make * կատարել
@@ -528,15 +494,12 @@ to play tennis * թենիս խաղալ
 to read * կարդալ
 to remember * հիշել
 to ride * քշել
-to ride a bike * հեծանիվ քշել
 tp run * վազել
-to shop * գնումներ կատարել
 to sleep * քնել
 to study * սովորել
 to study * ուսումնասիրել
 to swim * լողալ
 to take * վերցնել
-to take a walk * զբոսնել
 to watch * դիտել
 to watch television * հեռուստատեսություն դիտել
 to work * աշխատել
@@ -564,7 +527,6 @@ That's OK. * Դա նորմալ է։
 to give a reason * պատճառաբանել
 to express enjoyment in food * արտահայտել ուտելիքից հաճույք
 Transportation * փոխադրում
-bike * հեծանիվ
 bus * ավտոբուս
 car * մեքենա
 motorcycle * մոտոցիկլ
@@ -573,7 +535,6 @@ train * գնացք
 cab * կառք
 cab * տաքսի
 Family * ընտանիք
-brother * եղբայր
 child * երեխա
 children * երեխաներ
 daughter * դուստր
@@ -581,15 +542,13 @@ father * հայր
 dad * պապ
 husband * ամուսին
 kid * երեխա
-mother * մայր
 mom * մամ
-sister * քույր
 son * որդի
 wife * կին
 apartment * բնակարան
 coffee shop * սուրճի խանութ
 house * տուն
-office * ընկերություն
+office * գրասենյակ
 park * այգի
 restaurant * ռեստորան
 school * դպրոց
@@ -623,15 +582,11 @@ to need * կարիք ունենալ
 need * կարիք
 to see family * տեսնել ընտանիքին
 to see friends * տեսնել ընկերներին
-to serve * մատուցել
 start * սկիզբ
 stop * կանգառ
-to take a taxi * տաքսի նստել
 to take a cab * տաքսի նստել
 to use * օգտագործել
-to walk * քայլել
 all day * ամբողջ օրը
-at night * գիշերը
 every day * ամեն օր
 weekly * շաբաթական
 downtown * քաղաքի կենտրոն
@@ -647,7 +602,6 @@ then * ապա
 then * հետո
 together * միասին
 when * երբ 
-at noon * կեսօրին
 by bus * ավտոբուսով
 by car * մեքենայով
 on Sundays * կիրակի օրերին
@@ -674,7 +628,6 @@ living room * հյուրասենյակ
 lobby * միջանցք
 room * սենյակ
 stairs * աստիճաններ
-window * պատուհան
 yard * բակ
 Kinds of homes * տների տեսակներ
 Furniture * կահույք
@@ -694,7 +647,6 @@ refrigerator * սառնարան
 stove * վառարան
 computer * համակարգիչ
 difference * տարբերություն
-to drive * վարել
 forest * անտառ
 store * խանութ
 view * տեսարան
@@ -716,801 +668,603 @@ just * պարզապես
 just one room * ընդամենը մեկ սենյակ
 next * հաջորդ
 next weekend * հաջորդ ոչ աշխատանքային օրեր
-
-
-
-Asking about and describing a home * 
-What's the house/apartment like? * 
-It's beautiful. * 
-It has . . . . * 
-Does it have . . . ? * 
-Yes, it does. * 
-No, it doesn't. * 
-There's a/an . . . . * 
-There's no . . . . * 
-There isn't a/an . . . . * 
-There are some . . . . * 
-There aren't any . . . . * 
-There are no . . . . * 
-Expressing approval * 
-(Oh,) nice. * 
-That's great. * 
-This . . . is great. * 
-That's super. * 
-That sounds nice. * 
-Giving surprising information * 
-Guess what? * 
-Nouns * 
-Jobs * 
-athlete * 
-cashier * 
-chef/cook * 
-doctor * 
-firefighter * 
-flight attendant * 
-front desk agent * 
-judge * 
-lawyer * 
-manager * 
-musician * 
-nurse * 
-photographer * 
-pilot * 
-police officer * 
-receptionist * 
-salesperson * 
-security guard * 
-singer * 
-waiter/waitress * 
-Workplaces * 
-high school * 
-hospital * 
-hotel * 
-office * 
-Other * 
-money * 
-opinion * 
-person (plural: people) * 
-uniform * 
-Adjectives * 
-boring * 
-dangerous * 
-difficult * 
-easy * 
-exciting * 
-interesting * 
-perfect * 
-relaxing * 
-safe * 
-stressful * 
-terrific * 
-Verbs * 
-agree * 
-disagree * 
-forget * 
-guess * 
-handle * 
-sit * 
-stand * 
-talk * 
-teach * 
-write * 
-Adverbs * 
-after (work) * 
-exactly * 
-hard * 
-pretty (plus adjective) * 
-Vocabulary * 
-Expressions * 
-Exchanging information about work * 
-Where do you work? * 
-I work in a/an . . . . * 
-What do you do there? * 
-I'm a/an . . . . * 
-When do you start/finish work? * 
-I start/finish work at . . . . * 
-What do you do after work? * 
-I . . . . * 
-Where does your brother work? * 
-He works . . . . * 
-What does he do? * 
-He . . . . * 
-Talking about likes and dislikes * 
-How do you like it? * 
-Not very much. * 
-I really like it. * 
-It's OK. * 
-They hate it. * 
-I like it/them a lot. * 
-Exchanging personal information * 
-How are things (with you)? * 
-Not bad. * 
-I hear . . . . * 
-Giving more information * 
-. . . , you know. * 
-Giving surprising information * 
-Actually, . . . . * 
-Expressing interest * 
-That's funny. * 
-That's interesting. * 
-Expressing uncertainty * 
-I guess . . . . * 
-Nouns * 
-Meals * 
-breakfast * 
-lunch * 
-dinner * 
-snack * 
-Dairy (foods) * 
-cheese * 
-milk * 
-yogurt * 
-Desserts * 
-cake * 
-cookie(s) * 
-fruit salad * 
-ice cream * 
-pie * 
-Drinks * 
-coffee * 
-(orange) juice * 
-lemonade * 
-(green) tea * 
-Fat, oil, sugar * 
-butter * 
-candy * 
-cream * 
-mayonnaise * 
-oil * 
-potato chips * 
-Grains * 
-bread * 
-cereal * 
-cracker(s) * 
-noodles * 
-pasta * 
-rice * 
-toast * 
-tortilla(s) * 
-Fruit * 
-apple(s) * 
-banana(s) * 
-mango(es) * 
-orange(s) * 
-strawberries (singular: * 
-strawberry) * 
-Meat and other protein * 
-bacon * 
-bean(s) * 
-beef * 
-chicken * 
-egg(s) * 
-fish * 
-hamburger(s) * 
-nuts * 
-Vegetables * 
-broccoli * 
-carrot(s) * 
-celery * 
-lettuce * 
-tomato(es) * 
-onion(s) * 
-potato(es) * 
+What's the apartment like? * Ինչպիսի՞ն է բնակարանը։
+It's beautiful. * Դա գեղեցիկ է։
+approval * հավանություն
+approval * հաստատում
+That sounds nice. * Դա գեղեցիկ է հնչում։
+to give surprising information * տալ անակնկալ տեղեկություն
+Guess what? * Գուշակի ի՞նչ։
+athlete * մարզիկ
+athlete * ատլետ
+cashier * գանձապահ
+chef * շեֆ խահարար
+cook * խոհարար
+doctor * բժիշկ
+firefighter * հրշեջ
+flight attendant * բորդ ուղեկցորդ
+front desk agent * ընդունարանի աշխատող
+judge * դատավոր
+lawyer * իրավաբան
+manager * մենեջեր
+musician * երաժիշտ
+nurse * բուժքույր
+photographer * լուսանկարիչ
+pilot * օդաչու
+police officer * ոստիկան
+receptionist * ընդունարանի աշխատող
+salesperson * վաճառող
+security guard * անվտանգության աշխատակից
+singer * երգիչ
+waiter * մատուցող
+waitress * մատուցողուհի
+Workplace * աշխատավայր
+high school * ավագ դպրոց
+hospital * հիվանդանոց
+hotel * հյուրանոց
+money * գումար
+opinion * կարծիք
+person * մարդ
+person * անձ
+uniform * համազգեստ
+boring * ձանձրալի
+dangerous * վտանգավոր
+difficult * դժվար
+easy * հեշտ
+exciting * հուզիչ
+exciting * գրավիչ
+perfect * կատարյալ
+relaxing * հանգստացնող
+safe * անվտանգ
+stressful * սթրեսային
+terrific * ահավոր
+to agree * համաձայնվել
+to disagree * չհամաձայնվել
+to forget * մոռանալ
+to guess * գուշակել
+to handle * մշակել
+to sit * նստել
+to stand * կանգնել
+to talk * խոսել
+to teach * սովորեցնել
+to write * գրել
+after work * աշխատանքից հետո
+exactly * ճշգրիտ
+hard * դժվար
+hard * կոպիտ
+hard * ամուր
+to exchang information about work * փոխանակվել աշխատանքի մասին տեղեկություններով
+Where do you work? * Որտե՞ղ ես դու աշխատում։
+I work in a company * Ես աշխատում եմ ընկերությունում
+What do you do there? * Ի՞նչ ես դու անում այնտեղ
+I'm a programmer * Ես ծրագրավորող եմ
+When do you start work? * Ե՞րբ ես դու սկսում աշխատանքդ։
+When do you finish work? * Ե՞րբ ես դու ավարտում աշխատանքդ՞
+I start work at 10AM * Ես սկսում եմ աշխատանքս 10ին։
+I finish work at 6PM * Ես ավարտում եմ աշխատանքս 6ին։
+What do you do after work? * Ի՞նչ ես դու անում աշխատանքից հետո։
+Where does your brother work? * Որտե՞ղ է քո եղբայրն աշխատում։
+What does he do? * Ինչո՞վ է քո եղբայրը զբաղվում։
+How do you like it? * Քեզ դա դուր եկա՞վ։
+Not very much. * Ոչ այնքան։
+I really like it. * Ես իսկապես սիրեցի դա։
+They hate it. * Նրանք ատում են դա։
+I like them a lot. * Ես սիրում եմ նրանց շատ։
+to exchang personal information * փոխանակվել անձնական տեղեկություններով
+How are things with you? * Ինչպե՞ս են գործերդ։
+How are things? * Ինչպե՞ս են գործերդ։
+Not bad. * Վատ չեն։
+actually * իրականում
+to express interest * ցուցադրել հետաքրքրություն
+That's funny. * ծիծաղելի է
+That's interesting. * հետաքրքիր է
+uncertainty * անորոշություն
+snack * թեթև սնունդ
+Dairy * կաթնամթերք
+cheese * պանիր 
+milk * կաթ
+yogurt * յոգուրտ
+yogurt * մածուն
+Dessert * աղանդեր
+cake * տորթ
+cookie * թխվածքաբլիթ
+fruit salad * մրգային սալաթ
+ice cream * պաղպաղակ
+pie * կարկանդակ
+Drinks * խմիչքներ
+coffee * սուրճ
+orange juice * նարնջի հյութ
+juice * հյութ
+lemonade * լիմոնադ
+tea * թեյ 
+green tea * կանաչ թեյ
+Fat * ճարպ
+oil * յուղ
+sugar * շաքար
+butter * կարագ
+candy * քաղցրավենիք
+candy * կոնֆետ
+cream * կրեմ
+mayonnaise * մայոնեզ
+potato chips * կարտոֆիլի չիփս
+Grain * հացահատիկ
+bread * հաց
+cereal * հացահատիկ
+cracker * կռեկեր
+noodles * լապշա
+pasta * մակարոնեղեն
+rice * բրինձ
+toast * տոստ
+tortilla * տորտիլա
+Fruit * միրգ
+apple * խնձոր
+banana * բանան
+mango * մանգո
+strawberry * ելակ
+Meat * միս
+protein * սպիտակուց
+bacon * խոզապուխտ
+bean * լոբի
+beef * տավարի միս
+chicken * հավի միս
+egg * ձու
+fish * ձուկ
+hamburger * համբուրգեր
+nut * ընկույզ
+Vegetable * բանջարեղեն
+broccoli * բրոկոլի
+carrot * գազար
+celery * նեխուր
+lettuce * հազար
+tomato * լոլիկ
+onion * սոխ
+potato * կարտոֆիլ
 Other foods * 
-jam * 
-jelly * 
-pickle(s) * 
-picnic * 
-(potato) salad * 
-sandwich(es) * 
-soup * 
-Other * 
-habit * 
-Determiner * 
-very little * 
-Adjectives * 
-awful * 
-bad * 
-good * 
-mealtime * 
-other * 
-sweet * 
-Verbs * 
-buy * 
-come * 
-drink * 
-put * 
-try * 
-want * 
-Adverbs * 
-Adverbs of frequency * 
-always * 
-hardly ever * 
-often * 
-sometimes * 
-usually * 
-never * 
-Other * 
-(Japanese-) style * 
-Prepositions * 
-at (my desk) * 
-for (breakfast/the picnic) * 
-Vocabulary * 
-Talking about likes and dislikes * 
-I like . . . . * 
-I don't like . . . . * 
-I don't want . . . . * 
-I hate . . . . * 
-That sounds awful! * 
-Talking about things you need * 
-Do we have any . . . ? * 
-Yes, we do. * 
-No, we don't. We need some. * 
-Do you need any . . . ? * 
-Yes, we need some . . . . * 
-No, we don't need any . . . . * 
-Talking about health * 
-. . . is/are good for you. * 
-. . . is/are bad for you. * 
-Making a suggestion * 
-How about . . . ? * 
-Agreeing to do something * 
-All right. * 
-OK. * 
-Sure! * 
-Disagreeing with an opinion * 
-I think . . . . * 
-Are you sure? I think . . . . * 
-Thinking before responding * 
-Hmm. * 
-Nouns * 
-Sports * 
-baseball * 
-basketball * 
-bike riding * 
-football * 
-golf * 
-gymnastics * 
-hiking * 
-hockey * 
-ice-skating * 
-skiing * 
-volleyball * 
-Other * 
-ability * 
-beach * 
-chess * 
-contest * 
-free time * 
-horse * 
-joke * 
-piano * 
-show * 
-song * 
-talent * 
-team * 
-TV * 
-violin * 
-Web page * 
-Determiner * 
-all * 
-Adjectives * 
-artistic * 
-athletic * 
-hidden * 
-mechanical * 
-musical * 
-technical * 
-Verbs * 
-act * 
-bake * 
-design * 
-draw * 
-enter * 
-fix * 
-paint * 
-practice * 
-sing * 
-surf * 
-tell * 
-Adverb * 
-about * 
-Time expressions * 
-once/twice a month * 
-tomorrow * 
-Talking about sports * 
-What sports do you like/play/watch? * 
-I love/play/watch (soccer). * 
-I don't like/play (golf). * 
-I (really) love (tennis). * 
-Who do you play/watch soccer with? * 
-With some friends from work. * 
-When does your team practice? * 
-We practice on Sundays. * 
-What time do you start practice? * 
-We start practice at noon. * 
-Where do you play? * 
-We play in the park at the beach. * 
-Talking about abilities and talents * 
-What can I do? * 
-Can you sing? * 
-Yes, I can. * 
-No, I can't. * 
-Can they sing? * 
-Yes, they can sing very well. * 
-No, they can't sing at all. * 
-Giving a compliment * 
-You can . . . really well! * 
-You're a really good . . . ! * 
-Thanks. * 
-Introducing a topic * 
-So, . . . . * 
-Expressing interest * 
-Really? * 
-Oh, yeah? * 
-Agreeing to do something * 
-Sure. Why not? * 
-Nouns * 
-Months * 
-January * 
-February * 
-March * 
-April * 
-May * 
-June * 
-July * 
-August * 
-September * 
-October * 
-November * 
-December * 
-Holidays, festivals, and * 
-special occasions * 
-anniversary * 
-birthday * 
-Christmas * 
-Father's Day * 
-graduation * 
-Halloween * 
-Independence Day * 
-Mother's Day * 
-New Year's Day * 
-Thanksgiving * 
-Valentine's Day * 
-wedding * 
-Other * 
-card * 
-dance * 
-girlfriend * 
-parade * 
-party * 
-pictures * 
-present * 
-Pronoun * 
-anything * 
-Adjectives * 
-Dates * 
-(1st–31st) * 
-See Exercise 1 on * 
-page 62. * 
-Other * 
-embarrassing * 
-special * 
-Verbs * 
-ask * 
-celebrate * 
-end * 
-get married * 
-invite * 
-order * 
-send * 
-stay home * 
-take (me) out * 
-take pictures * 
-Adverbs * 
-Time expressions * 
-next month * 
-next summer * 
-next week * 
-this weekend * 
-tomorrow * 
-tomorrow night * 
-tonight * 
-Other * 
-so (= very) * 
-Vocabulary * 
-Talking about future plans * 
-Are you going to do anything exciting this weekend? * 
-Yes, I am. I'm going to . . . . * 
-No, I'm not. I'm going to . . . . * 
-What are your plans? * 
-What are you going to do? * 
-I'm going to . . . . * 
-Where are you going to go? * 
-I'm going to go to . . . . * 
-How are you going to get there? * 
-We're going to . . . . * 
-Who's going to be there? * 
-. . . is/are going to be there. * 
-When/What time are you going to . . . ? * 
-We're going to . . . at . . . . * 
-Talking about dates * 
-When is your birthday? * 
-It's September 5th. * 
-Wishing someone a good holiday * 
-Happy birthday! * 
-Thanks. * 
-Have a good Valentine's Day! * 
-Thanks. You, too. * 
-Exchanging information * 
-How about you? * 
-Expressing approval * 
-(That) sounds like fun. * 
-Fabulous! * 
-Nouns * 
-Parts of the body * 
-ankle * 
-arm * 
-back * 
-chest * 
-chin * 
-ear * 
-elbow * 
-eye * 
-finger(s) * 
-foot (plural: feet) * 
-hand * 
-head * 
-heel * 
-knee * 
-leg * 
-mouth * 
-neck * 
-nose * 
-shoulder * 
-stomach * 
-throat * 
-thumb * 
-toe(s) * 
-tooth (plural: teeth) * 
-wrist * 
-Health problems * 
-backache * 
-cough * 
-earache * 
-fever * 
-the flu * 
-headache * 
-sore eyes/throat * 
-stomachache * 
-toothache * 
-Medications * 
-antacid * 
-aspirin * 
-(cold) pills * 
-cough drops * 
-cough syrup * 
-eye drops * 
-muscle cream * 
-Other * 
-dentist * 
-hour * 
-part * 
-patient * 
-soda * 
-Adjectives * 
-Positive feelings * 
-better * 
-fantastic * 
-fine * 
-great * 
-terrific * 
-Negative feelings * 
-awful * 
-exhausted * 
-homesick * 
-miserable * 
-sick * 
-sore * 
-terrible * 
-tired * 
-Other * 
-common * 
-wrong * 
-Verbs * 
-give * 
-hurt * 
-point * 
-rest * 
-stay up * 
-take a look * 
-Adverbs * 
-already * 
-much * 
-well * 
-Talking about health problems * 
-How are you? * 
-How do you feel (today)? * 
-Not so good. * 
-What the matter? * 
-What's wrong? * 
-I feel sick. * 
-I don't feel well. * 
-Expressing sympathy * 
-That's too bad. * 
-I'm sorry to hear that. * 
-That's good. * 
-I'm glad to hear that. * 
-Giving a suggestion * 
-Maybe I can help. * 
-I have an idea. * 
-Take/Don't take . . . . * 
-Eat/Don't eat . . . . * 
-Agreeing with a suggestion * 
-That's a great idea! * 
-Asking for more information * 
-Anything else? * 
-Nouns * 
-Places * 
-avenue * 
-bank * 
-bridge * 
-bookstore * 
-cathedral * 
-center * 
-coffee shop * 
-department store * 
-drugstore * 
-gas station * 
-movie theater * 
-neighborhood * 
-parking lot * 
-post office * 
-rest room * 
-shoe store * 
-square * 
-street * 
-supermarket * 
-Form of address * 
-ma'am * 
-Other * 
-attraction * 
-gasoline * 
-map * 
-tourist * 
-traveler's checks * 
-Verbs * 
-Go down/up * 
-Turn around * 
-Turn left/right * 
-Walk down/up * 
-Adverbs * 
-also * 
-right * 
-Prepositions * 
-across from * 
-behind * 
-between * 
-next to * 
-on * 
-on the corner of * 
-on the left/right * 
-Vocabulary * 
-Asking for and giving locations * 
-Is there a . . . around here? * 
-Yes, there is. It's next to/across from/ . . . . * 
-(No.) I don't think so. * 
-Where's the . . . ? Is it far from here? * 
-It's right behind you. * 
-Asking for and giving directions * 
-How do/can I get to . . . ? * 
-Walk/Go up . . . . * 
-Walk/Go down . . . . * 
-Turn left/right on . . . . * 
-It's on the left/right. * 
-You can't miss it. * 
-Getting someone's attention * 
-Excuse me. * 
-Asking for help * 
-Can you help me? * 
-Nouns * 
-lesson * 
-library * 
-mail * 
-mall * 
-meeting * 
-museum * 
-music * 
-roommate * 
-test * 
-vacation * 
-white-water rafting * 
-Adjective * 
-different * 
-Verbs * 
-clean * 
-come home * 
-go out * 
-have fun * 
-invite . . . over * 
-open * 
-speak * 
-listen * 
-stay home * 
-stay out * 
-take (classes/lessons) * 
-travel * 
-visit * 
-Adverbs * 
-Time expressions * 
-yesterday * 
-last night * 
-last week * 
-last weekend * 
-last month * 
-last summer * 
-last year * 
-Other * 
-almost * 
-anywhere * 
-in line * 
-Vocabulary * 
-Expressions * 
-Talking about past activities * 
-Did you . . . this weekend? * 
-Yes, I did. I . . . . * 
-No, I didn't. I . . . . * 
-What did you do? * 
-I . . . . * 
-I didn't . . . . * 
-Did you do anything else? * 
-Giving opinions about past experiences * 
-Did you like . . . ? * 
-Yes, I did. I liked it a lot. * 
-Did you have fun? * 
-Yes, we did. We had a great time. * 
-Asking for more information * 
-What else . . . ? * 
-Nouns * 
-Classes at school * 
-drama * 
-history * 
-physical education * 
-science * 
-Places at school * 
-classroom * 
-gym * 
-lunchroom * 
-playground * 
-Schools * 
-elementary school * 
-junior high school * 
-high school * 
-college * 
-Jobs * 
-actor * 
-actress * 
-designer * 
-hairstylist * 
-Other * 
-capital * 
-(first) grade * 
-major * 
-place of birth * 
-time line * 
-year of birth * 
-Adjectives * 
-same * 
-scary * 
-young * 
-Verbs * 
-be born * 
-grow up * 
-spend (time) * 
-Adverbs * 
-least * 
-most * 
-on time * 
-right away * 
-Preposition * 
-for ( . . . years) * 
-Conjunction * 
-because * 
-Exchanging personal information * 
-When were you born? * 
-I was born in 1984. * 
-Where were you born? * 
-I was born in Korea. * 
-Were you born in the U.S.? * 
-Yes, I was. * 
-No, I wasn't. I was born in . . . . * 
-How old were you in . . . ? * 
-I was . . . . * 
-What was your favorite . . . ? * 
-It was . . . . * 
-Asking about someone * 
-Who was . . . ? * 
-He was . . . . * 
-What city was he born in? * 
-He was born in . . . . * 
-What nationality was he? * 
-He was . . . . * 
-What was he like? * 
-He was . . . . * 
-He wasn't . . . . * 
-Asking for an opinion * 
-What do you think? * 
-Nouns * 
-amusement park * 
-art * 
-comedy * 
-concert * 
-dance club * 
-date * 
-excuse * 
-invitation * 
-message * 
-shower * 
-tone * 
-trip * 
-Verbs * 
-babysit * 
-call (you) back * 
-have to * 
-help * 
-need to * 
-want to * 
-would like to * 
-Adverb * 
-around (seven o'clock) * 
-Prepositions * 
-at the (beach/library/mall) * 
-in (bed/class/Mexico) * 
-in the (hospital/shower/yard) * 
-on (her break/a trip/vacation) * 
-Vocabulary * 
-Expressions * 
-Making a phone call * 
-Hello. Is . . . there/in? * 
-Hi. Can I speak with . . . ? * 
-No, I'm sorry, she's not here * 
-right now. * 
-Yes, but she can't come to * 
-the phone right now. * 
-Taking a phone message * 
-Can she call you later? * 
-Do you want to leave a message? * 
-Can I take a message? * 
-Sure. Please give her my number. * 
-Yes. Please ask/tell her to call me. * 
-Recording an answering-machine * 
-message * 
-Hi. This is . . . . I/We can't come * 
-to the phone right now. Please * 
-leave me/us a message after * 
-the tone. * 
-Making and accepting an invitation * 
-Do you want to . . . (with me)? * 
-Would you like to . . . (with me)? * 
-Sure. I'd love to . . . (with you). * 
-Yes, I'd like to. * 
-Declining an invitation and making * 
-an excuse * 
-I'm sorry, but I can't. I have to . . . . * 
-Sorry, I need to . . . . * 
-I'd like to, but . . . . * 
-Suggesting a different activity * 
-I don't really like basketball. * 
-Do you want to do something else? * 
-Asking what is happening * 
-What's up? * 
-Asking for a favor * 
-Can you . . . ? * 
-Please . . . . * 
-Offering to help * 
-Can I help you? * 
-Expressing happy surprise * 
-Terrific! * 
-
-
-
+jam * ջեմ
+jelly * դոնդող
+pickle * թթու վարունգ
+picnic * պիկնիկ
+salad * աղցան
+sandwich * սենդվիչ
+soup * ապուր
+habit * սովորություն
+very little * շատ քիչ
+awful * սարսափելի
+bad * վատ
+good * լավ
+mealtime * ընդմիջում
+sweet * քաղցր
+to buy * գնել
+to come * գալ
+to drink * խմել
+to put * դնել
+to try * փորձել
+to want * ցանկանալ
+frequency * հաճախականություն
+always * միշտ
+hardly ever * դժվար թե երբևէ 
+often * հաճախ
+usually * սովորաբար
+never * երբեք
+Japanese-style * ճապոնական ոճ
+at my desk * իմ գրասեղանի վրա
+to like * սիրել 
+to like * հավանել
+to dislike * չսիրել
+to dislike * չհավանել
+to hate * ատել
+That sounds awful! * Սարսափելի է հնչում
+to talk about things you need * խոսել քեզ անհրաժեշտ իրերի մասին
+to talk about health * խոսել առողջության մասին
+It is good for you. * դա լավ է քեզ համար
+It is bad for you. * դա վատ է քեզ համար
+to agree to do something * համաձայնվել անել ինչ֊որ բան
+All right. * Շատ լավ
+to disagree with an opinion * չհամաձայնվել կարծիքի հետ
+Sport * սպորտ
+baseball * բեյսբոլ
+basketball * բասկետբոլ
+bike riding * հեծանիվի վարում
+football * ֆուտբոլ
+golf * գոլֆ
+gymnastics * մարմնամարզություն
+hiking * արշավ
+hockey * հոկեյ
+ice-skating * չմշկասահք
+skiing * դահուկավազք
+volleyball * վոլեյբոլ
+ability * կարողություն
+beach * լողափ
+chess * շախմատ
+contest * մրցույթ
+free time * ազատ ժամանակ
+horse * ձի
+joke * կատակ
+piano * դաշնամուր
+show * ձյուն
+song * երգ
+talent * տաղանդ
+team * թիմ
+TV * հեռուստացույց
+violin * ջութակ
+Web page * վեբ էջ
+artistic * գեղարվեստական
+athletic * մարզական
+hidden * թաքնված
+mechanical * մեխանիկական
+musical * երաժշտական
+technical * տեխնիկական
+to act * գործել
+to bake * թխել
+to design * նախագծել
+to draw * գծել
+to draw * նկարել
+to enter * մտնել
+to fix * ուղղել
+to paint * նկարել
+to practice * մարզվել
+to sing * երգել
+to surf * զբաղվել սերֆինգով
+to tell * պատմել
+about * մասին
+once a month * ամիսը մեկ անգամ
+twice a month * ամիսը երկու անգամ
+What sports do you like? * Ի՞նչ սպորտ ես դու սիրում։
+What sports do you play? * Ի՞նչ սպորտով ես դու զբաղվում։
+What sports do you watch? * Ի՞նչ սպորտ ես դու դիտում
+I love tennis. * Ես սիրում եմ թենիս։
+I play tennis. * Ես խաղում եմ թենիս։
+I watch tennis. * Ես դիտում եմ թենիս։
+I don't like golf. * Ես չեմ սիրում գոլֆ։
+I don't like play golf. * Ես չեմ սիրում խաղալ գոլֆ։
+I really love tennis. * Ես իսկապես սիրում եմ թենիս։
+Who do you play tennis with? * Ո՞ւմ հետ ես դու խաղում թենիս։
+Who do you watch tennis with? * Ո՞ւմ հետ ես դու դիտում թենիս։
+With some friends from work. * Աշխատանքի մի քանի ընկերների հետ:
+When does your team practice? * Երբ է ձեր թիմը պարապում: 
+We practice on Sundays. * Մենք պարապում ենք կիրակի օրերին։
+What time do you start practice? * Ո՞ր ժամին եք սկսում պարապել։
+We start practice at noon. * Մենք սկսում ենք պարապել կեսօրին։
+Where do you play? * Որտե՞ղ եք դուք խաղում։
+We play in the park at the beach. * Մենք խաղում ենք լողափի մոտի այգում։
+What can I do? * Ի՞նչ կարող եմ ես անել։
+Can you sing? * Դու կարո՞ղ ես երգել։
+Yes, they can sing very well. * Այո, նրանք կարող են երգել շատ լավ։
+No, they can't sing at all. * Ոչ, նրանք ընդհանրապես չեն կարող երգել։
+to give a compliment * հաճոյախոսություն անել
+Month * ամիս
+January * հունվար
+February * փետրվար
+March * մարտ
+April * ապրիլ
+May * մայիս
+June * հունիս
+July * հուլիս
+August * օգոստոս
+September * սեպտեմբեր
+October * հոկտեմբեր
+November * նոյեմբեր
+December * դեկտեմբեր
+Holiday * արձակուրդ
+festival * փառատոն
+special occasion * հատուկ առիթ
+anniversary * տարեդարձ
+birthday * ծննդյան օր
+Christmas * Սուրբ ծնունդ
+Father's Day * հայրերի օր
+Halloween * Հելոուին
+Independence Day * անկախության օր
+Mother's Day * մայրերի օր
+New Year's Day * նոր տարի
+Thanksgiving * շնորհակալություն հայտնելու օր
+Valentine's Day * սիրահարների տոն
+wedding * հարսանիք
+card * քարտ
+dance * պար
+girlfriend * ընկերուհի
+parade * շքերթ
+party * խնջույք
+present * նվեր
+present * ներկա
+anything * ամեն ինչ
+Date * ամսաթիվ
+embarrassing * ամոթալի 
+special * հատուկ
+to ask * խնդրել
+to celebrate * տոնել
+to end * վերջացնել
+to get married * ամուսնանալ
+to invite * հրավիրել
+to order * պատվիրել
+to send * ուղղարկել
+to stay home * մնալ տանը
+to take out * դուրս տանել
+to take pictures * լուսանկարել
+next month * հաջորդ ամիս
+next summer * հաջորդ ամառ
+next week * հաջորդ շաբաթ
+this weekend * այս շաբաթվա վերջ
+tomorrow night * վաղը գիշեր
+tonight * այս գիշեր
+so * շատ
+to talk about future plans * խոսել ապագա ծրագրերի մասին
+Are you going to do anything exciting this weekend? * Այս շաբաթվա վերջին պատրաստվում ե՞ք որևէ հետաքրքիր բան անել:
+What are your plans? * Ի՞նչ պլաններ ունես։
+What are you going to do? * Ի՞նչ ես պատրաստվում անել։
+Where are you going to go? * Ո՞ւր եք պատրաստվում գնալ։
+How are you going to get there? * Ինչպե՞ս եք այնտեղ գնալու։
+Who's going to be there? * Ովքե՞ր են այնտեղ լինելու։
+When is your birthday? * Ե՞րբ է քո ծննդյան օրը։
+It's September 5th. * Սեպտեմբերի 5ին։
+to wish someone a good holiday * ինչ֊որ մեկին լավ արձակուրդներ ցանկանալ
+Happy birthday! * ծնունդդ շնորհավոր
+Have a good weekends! * ուրախ հանգստյան օրեր
+to exchang information * փոխանակվել տեղեկություններով
+How about you? * Իսկ դու ի՞նչ կասես քո մասին։
+to express approval * հավանություն տալ
+That sounds like fun. * Դա շատ զվարճալի է հնչում։
+Fabulous * անհավանական
+Fabulous * առասպելական
+Parts of the body * մարմնի մասեր
+ankle * կոճ
+arm * թև
+back * մեջք
+chest * կրծքավանդակ
+chin * դունչ
+chin * կզակ
+ear * ականջ
+elbow * արմունկ
+eye * աչք
+finger * մատ
+foot * ոտք
+feet * ոտքեր
+hand * ձեռք
+head * գլուխ
+heel * կրունկ
+knee * ծունկ
+leg * սրունք
+mouth * բերան
+mouth * շրթունք
+neck * վիզ
+nose * քիթ
+shoulder * ուս
+stomach * ստամոքս
+throat * կոկորդ
+thumb * բութ
+toe * ոտքի մատ
+tooth * ատամ
+teeth * ատամներ
+wrist * դաստակ
+Health problems * առողջական խնդիրներ
+backache * մեջքի ցավ
+cough * հազ
+earache * ականջի ցավ
+fever * տենդ
+the flu * գրիպ
+headache * գլխացավ
+sore throat * կոկորդի բորբոքում
+sore eyes * աչքերի բորբոքում
+stomachache * ստամոքսի ցավ
+toothache * ատամնացավ
+Medication * դեղամիջոց
+antacid * հակաթույն
+aspirin * ասպիրին
+cold pills * մրսածության հաբեր
+pill * հաբ
+cough drops * հազի կաթիլներ
+cough syrup * հազի օշարակ
+eye drops * աչքի կաթիլներ
+muscle cream * մկանային կրեմ
+dentist * ատամնաբույժ
+hour * ժամ
+part * մաս
+patient * համբերատար
+patient * հիվանդ
+soda * սոդա
+soda * գազավորված ըմպելիք
+Positive feelings * դրական զգացողություններ
+fantastic * ֆանտաստիկ
+fine * հիանալի
+great * հիանալի
+great * հոյակապ
+great * մեծ
+terrific * սոսկալի
+Negative feelings * բացասական զգացողություններ
+exhausted * սպառված
+homesick * կարոտ
+miserable * թշվառ
+miserable * խղճուկ
+miserable * ողորմելի
+sick * հիվանդ
+sore * ցավոտ
+terrible * սարսափելի
+tired * հոգնած
+common * ընդհանուր
+wrong * սխալ
+to give * տալ
+to hurt * վնսել
+to point * մատնացույց անել
+to point * նշել
+to rest * հանգստանալ
+to stay up * արթուն մնալ
+to take a look * զննել
+already * արդեն
+much * շատ
+well * լավ
+to talk about health problems * խոսել առողջական խնդիրների մասին
+How are you? * Ինչպե՞ս ես։
+How do you feel today? * Ինչպե՞ս ես քեզ այսօր զգում։
+Not so good. * Ոչ այնքան լավ։
+What the matter? * Ինչո՞ւմն է հարցը։
+What's wrong? * Ի՞նչ է պատահել։
+I feel sick. * Ես ինձ հիվանդ եմ զգում։
+I don't feel well. * Ես լավ չեմ զգում։
+That's too bad. * Դա շատ վատ է։
+I'm sorry to hear that. * Ես ցավում եմ լսել դա։
+That's good. * Դա լավ է։
+I'm glad to hear that. * Ես ուրախ եմ դա լսել։
+Maybe I can help. * Միգուցե ես կարող եմ օգնել։
+I have an idea. * Ես գաղափար ունեմ։
+to agree with a suggestion * համաձայնվել առաջարկի հետ
+That's a great idea! * Դա լավ գաղափար է։
+to ask for more information * ավելի շատ տեղեկություն հարցնել
+Anything else? * Որևէ այլ բա՞ն։
+avenue * պողոտա
+bank * բանկ
+bridge * կամուրջ
+bookstore * գրախանութ
+cathedral * տաճար
+center * կենտրոն
+department store * հանրախանութ
+drugstore * դեղատուն
+gas station * գազալցակայան
+movie theater * կինոթատրոն
+neighborhood * թաղամաս
+parking lot * ավտոկայանատեղի
+post office * փոստ
+rest room * զուգարան
+shoe store * կոշիկի խանութ
+square * քառակուսի
+square * հրապարակ
+street * փողոց
+supermarket * սուպերմարկեթ
+attraction * գրավչություն
+attraction * ատրակցիոն
+gasoline * բենզին
+tourist * զբոսաշրջիկ
+to go down * իջնել 
+to go up * բարձրանալ
+to turn around * շրջվել
+to turn left * ձախ թեքվել
+to turn right * աջ թեքվել
+to walk down * իջնել ներքև
+to walk up * բարձրանալ վերև
+also * նաև
+right * աջ
+right * ճիշտ
+across from * դիմաց
+between * միջև
+on * վրա
+on the corner of * անկյունում
+on the left * ձախ կողմում
+on the right * աջ կողմում
+to ask for locations * հարցնել տեղանքի մասին
+I don't think so. * Ես այդպես չեմ մտածում։
+Is it far from here? * Դա այստեղից հեռո՞ւ է։
+It's right behind you. * Դա հենց քո ետևում է։
+to ask for directions * ուղղություն հարցնել
+It's on the left․ * Դա ձախ կողմում է։
+You can't miss it. * Դու չես կարող բաց թողնել դա։
+Excuse me. * Կներեք։
+to ask for help * օգնություն խնդրել
+Can you help me? * Կարո՞ղ եք ինձ օգնել։
+lesson * դաս
+library * գրադարան
+mail * փոստ
+mall * կենտրոն
+mall * մոլ
+meeting * հանդիպում 
+museum * թանգարան
+music * երաժշտություն
+roommate * սենյակակից
+test * փորձ
+vacation * արձակուրդ
+different * տարբեր
+clean * մաքուր
+to come home * տուն գալ
+to go out * դուրս գալ
+to have fun * զվարճանալ
+to invite over * հրավիրել տուն
+to speak * խոսել
+to listen * լսել
+to stay out * դուրսը մնալ
+to take classes * դասեր վերցնել
+to take lessons * դասեր վերցնել
+to travel * ճամփորդել
+to travel * ճանապարհորդել
+to visit * այցելել
+yesterday * երեկ
+last night * նախորդ գիշեր
+last week * անցած շաբաթ
+last weekend * անցած շաբաթ կիրակի
+last month * անցած ամիս
+last summer * անցած ամառ
+last year * անցած տարի
+almost * գրեթե 
+anywhere * ամենուրեք
+in line * հերթում
+What did you do? * Ի՞նչ արեցիք։
+Did you do anything else? * Դուք այլ բան արե՞լ եք: 
+Did you have fun? * Զվարճացա՞ք։
+drama * դրամա
+history * պատմություն
+physical education * ֆիզկուլտուրա
+science * գիտություն
+classroom * դասասենյակ
+gym * մարզասրահ
+gym * մարզադահլիճ
+lunchroom * ճաշասենյալ
+playground * խաղահրապարակ
+School * սպրոց
+elementary school * տարրական դպրոց
+junior high school * կրտսեր ավագ դպրոց
+high school * ապագ դպրոց
+college * քոլեջ
+Job * աշխատանք
+actor * դերասան
+actress * դերասանուհի
+designer * դիզայներ
+hairstylist * վարսահարդար
+capital * մայրաքաղաք
+first grade * առաջին դասարան
+major * գլխավոր
+major * հիմնական
+place of birth * ծննդավայր
+year of birth * ծննդյան տարի
+same * նույն
+scary * վախենալու
+young * երիտասարդ
+to be born * ծնվել
+to grow up * մեծանալ
+to spend time * ժամանակ անցկացնել
+least * նվազագույն
+most * մեծ մասը
+on time * ժամանակին
+right away * անմիջապես
+because * որովհետև
+When were you born? * Ե՞րբ եք դուք ծնվել։
+I was born in 1994. * Ես ծնվել եմ 1994 թվականին։
+Where were you born? * Որտե՞ղ ես ծնվել։
+I was born in Armenia. * Ես ծնվել եմ Հայաստանում։ 
+Were you born in the U.S.? * Դու ծնվե՞լ ես Ամերիկայում։
+What city was he born in? * Ո՞ր քաղաքում է նա ծնվել։
+What nationality was he? * Ի՞նչ ազգություն նա ունի։
+What was he like? * Ինչպիսի՞ն էր նա։
+amusement park * զվարճությունների այգի
+art * արվեստ
+comedy * կատակերգություն
+concert * համերգ
+dance club * պարային ակումբ
+date * ամսաթիվ
+excuse * արդարացում
+invitation * հրավեր
+message * հաղորդագրություն
+shower * ցնցուղ
+tone * տոն
+trip * ուղևորություն
+to babysit * հետևել երեխայի
+to call back * հետ կանչել
+to have to * ստիպված լինել
+to help * օգնել
+to need to * կարիք ունենալ
+to want to * ցանկանալ
+at the beach * ծովափում
+at the library * գրադարանում
+in class * դասարանում
+in Mexico * Մեքսիկայում
+in the hospital * հիվանդանոցում
+in the yard * բակում
+on her break * նրա ընդմիջմանը
+on a trip * ճանապարհորդության 
+on vacation * արձակուրդում
+to make a phone call * զանգահարել
