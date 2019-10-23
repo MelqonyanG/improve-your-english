@@ -147,7 +147,6 @@ affectionate * մտերիմ
 ambition * փառասիրություն
 ambition * ձգտում
 ambitious * հավակնոտ
-education * կրթություն
 educational * կրթական
 empathy * կարեկցանք
 empathetic * կարեկցող
@@ -392,7 +391,6 @@ cabin * խրճիթ
 meal * սնունդ
 gastronomic * գաստրոնոմիկ
 delight * ուրախություն
-delight * հիացմունք
 comprehensive * բազմակողմանի
 comprehensive * լայն
 range * շարք
@@ -536,7 +534,6 @@ off-road vehicle * ճանապարհից դուրս տրանսպորտային մ
 discount * զեղչ
 introductory * ներածական
 introductory * նախնական
-imperative * հրամայական
 to get away from * հեռանալ
 to let hair down * գլուխը հանգստացնել
 to soak up * ներծծվել
@@ -700,7 +697,6 @@ appetite * հակում
 governor * մարզպետ
 governor * կառավարիչ
 to dare to * համարձակվել
-ability * ունակություն
 ability * կարողություն
 possibility * հնարավորություն
 possibility * հավանականություն
@@ -711,7 +707,6 @@ request * հարցում
 refusal * մերժում
 likelihood * հավանականություն
 deduction * եզրակացություն
-advice * խորհուրդ
 obligation * պարտավորություն
 obligation * պարտականություն
 prohibition * արգելք
@@ -730,7 +725,6 @@ whale * կետ (կենդանի)
 dolphin * դելֆին
 to prevent * կանխել
 sanctuary * սրբավայր
-extinct * հանգած
 extinct * սպառված
 extinct * մարած
 rehabilitating * վերականգնում
@@ -826,8 +820,6 @@ to make * անել
 to make * ստեղծել
 to make * ստիպել
 spokesman * մամուլի քարտուղար
-to conduct * անցկացնել
-to conduct * կառավարել
 survey * հարցում
 survey * ուսումնասիրություն
 despite of * չնայած
@@ -844,13 +836,10 @@ moan * ողբալ
 inability * անկարողություն
 jealousy * խանդ
 jealousy * նախանձ
-wealth * հարստություն
 overly * չափազանց
 emotion * հույզ
 emotion * հուզմունք
 emotion * զգացմունք
-to ramble * զբոսնել
-to ramble * թափառել
 countryside * ծայրամաս
 countryside * գյուղ
 neat * կոկիկ
@@ -884,7 +873,6 @@ trick * հնարք
 trick * խաբկանք
 dogmatic * անառարկելի
 dogmatic * կարծրացած
-certain * որոշակի
 belief * հավատք
 belief * համոզմունք
 emotional * զգացմունքային
@@ -909,7 +897,6 @@ practical * պրակտիկ
 approaching * մոտեցում
 self-effacing * համեստ
 rarely * հազվադեպ
-to boast * պարծենալ
 to play down * բացեիբաց չասել
 to play down * թաքցնել
 greeting * ողջույն
@@ -929,7 +916,6 @@ purpose * նպատակ
 to appreciate * գնահատել
 to appreciate * գիտակցել
 to appreciate * զգալ
-excitement * հուզմունք
 sense * զգացում
 sense * իմաստ
 to pervade * հագեցնել
@@ -1019,7 +1005,6 @@ european union * եվրոպական միություն
 world trade organization * առևտրի համաշխարհային կազմակերպություն
 international civil aviation organization * միջազգային քաղաքացիական ավիացիայի կազմակերպություն
 national aeronautics and space administration * ազգային ավիացիա և տիեզերական կառավարում
-facility * հաստատություն
 to gain * ձեռք բերել
 prestige * հեղինակություն
 faulty * խոտանված
@@ -1032,16 +1017,13 @@ to predict * կանխագուշակել
 diplomatic * դիվանագիտական
 diplomat * դիվանագետ
 to engage * զբաղվել
-ambassador * դեսպան
 to determine * որոշել
 to determine * սահմանել
 does not matter * նշանակություն չունի
 whether * արդյոք
-to acquire * ձեռք բերել
 to acquire * ստանալ
 thorough * մանրակրկիտ
 thorough * հիմնավոր
-observation * դիտարկում
 observation * զննում
 depth analysis * խորը վերլուծություն
 to endure * հանդուրժել
@@ -1049,8 +1031,6 @@ to endure * համբերել
 to endure * տանել
 honor * պատիվ
 honor * փառք
-honour * պատիվ
-honour * փառք
 to proud to * հպարտ լինել
 to proud to * հպարտանալ
 birthplace * ծննդավայր
@@ -1067,7 +1047,6 @@ to treat * բուժել
 surely * վստահորեն
 surely * անկասկած
 to foster * նպաստել
-to seek * փնտրել
 to seek * ձգել
 to seek * փորձել
 to appoint * նշանակել
@@ -1194,7 +1173,6 @@ grasp * ընկալում
 grasp * ըմբռնողականություն
 immoral * անբարոյական
 immoral * անառակ
-sanctuary * սրբավայր
 sanctuary * ապաստան
 refugee * փախստական
 refugee * գաղթական
@@ -1243,7 +1221,6 @@ fortune * հարստություն
 bliss * երջանկություն
 felicity * բարեգործություն
 felicity * երջանկություն
-mental * մտավոր
 mental * հոգեբանական
 overall * ընդհանուր առմամբ
 humorous * հումորային
@@ -1255,10 +1232,8 @@ lively * կենդանի
 lively * թեժ
 flippant * թեթևամիտ
 flippant * թեթև
-provocative * սադրիչ
 provocative * հարուցիչ
 bossy * հրամայական
-priority * առաջնահերթություն
 blood pressure * արյան ճնշում
 chest pain * կրծքավանդակի ցավ
 flu virus * գրիպի վիրուս
@@ -1324,8 +1299,6 @@ to investigate * ուսումնասիրել
 sunrise * հետազոտել
 sun rise * արևածագ
 pensioner * թոշակառու
-to stretch * ձգել
-to stretch * ձգվել
 to stretch * լարել
 gentle * նուրբ
 gentle * մեղմ
@@ -1344,7 +1317,6 @@ to refer * հղել
 to refer * դիմել
 to refer * ուղղորդել
 extensive * ընդարձակ
-accessible * մատչելի
 at times * երբեմն
 ropey * կպչուն
 ropey * անխնամ
@@ -1412,8 +1384,6 @@ neurosurgeon * նյարդավիրաբույժ
 hitchhiker * ավտոստոպով ճանապարհորդող
 utopia * երևակայական տարածք որտեղ ամեն ինչ կատարյալ է
 at times * ժամանակ առ ժամանակ
-rage * զայրույթ
-rage * կատաղություն
 ragged * պատառոտված
 ragged * անմշակ
 harsh * կոպիտ
@@ -1432,7 +1402,6 @@ additive * հավելում
 additive * ավելացում
 and * և
 as well as * ինչպես նաև
-furthermore * ավելին
 furthermore * բացի այդ
 in addition * ի հավելումն
 moreover * դեռ ավելին
@@ -1452,7 +1421,6 @@ while * այն ժամանակ երբ
 whilst * մինչդեռ
 whilst * քանի դեռ
 whilst * մինչև
-whereas * մինչդեռ
 whereas * այդ դեպքում երբ
 yet * դեռ 
 yet * նույնիսկ
@@ -1489,9 +1457,7 @@ before * նախքան
 since * այն ժամանակից ի վեր
 until * մինչև
 when * երբ
-while * մինչդեռ
 while * մինչև
-whilst * մինչև
 after that * դրանից հետո
 meanwhile * միևնույն ժամանակ
 subsequently * հետագայում
@@ -1558,7 +1524,6 @@ nurse * դայակ
 angel * հրեշտակ
 to admite * ընդունել
 to admite * խոստովանել
-magnificent * հոյակապ
 equally * հավասարապես
 lazy * ծույլ
 uncaring * անտարբեր
@@ -1582,7 +1547,6 @@ to ruin * քանդել
 to raise * բարձրացնել
 to raise * արթնացնել
 to remain * մնալ
-obvious * ակնհայտ
 anonymous * անանուն
 witness * վկա
 distress * աղետ
@@ -1707,7 +1671,6 @@ to shrink * նեղանալ
 to shrink * ետ քաշվել
 impact * ազդեցություն
 to obsess * հետապնդել
-fairly * արդարացիորեն
 severe * խիստ
 severe * դաժան
 severe * լուրջ
@@ -1747,7 +1710,6 @@ chassi * շասի
 commission * հանձնաժողով
 commission * լիազորություն
 renown * հռչակ
-renown * համբավ
 site * կայք
 site * հողամաս
 site * տեղ
@@ -1820,14 +1782,11 @@ readily * հոժարությամբ
 initial * նախնական
 initial * սկզբնական
 activist * ակտիվիստ
-consciousness * գիտակցություն
 convenience * հարմարավետություն
 to emergence * հայտնվել
 to emergence * երևան գալ
-obsession * մոլուցք
 popularity * ժողովրդականություն
 popularity * տարածվածություն
-sustainability * կայունություն
 violation * խախտում
 violation * բռնություն
 spark * կայծ
@@ -1839,7 +1798,6 @@ scarcely * հազիվ թե
 to object * առարկել
 exquisite * նրբագեղ
 hands-free * հեռակառավարվող
-activity * գործունեություն
 diary * օրագիր
 diary * հուշատետր
 cleft * ճեղքվածք
@@ -1848,7 +1806,6 @@ inversion * հակադարձում
 garment * տարազ
 garment * հագուստ
 buyer * գնորդ
-dedication * նվիրվածություն
 wide variety of * լայն տեսականի
 wire * մետաղալար
 wire * լար
@@ -1871,7 +1828,6 @@ behind the times * ժամանակից հետ մնացած
 had its day * դարն ապրած
 obsolete * հնացած
 obsolete * չօգտագործվող
-outdated * ժամկետն անցած
 redundant * անպետք
 redundant * անօգուտ
 retro * ռետրո
@@ -1921,7 +1877,6 @@ to lead to * տանել
 to lead to * առաջնորդել
 expansion in * ընդլայնում
 expansion of * ընդլայնում
-breakthrough * բեկում
 breakthrough * նորարարություն
 to extend * ընդլայնում
 dramatic change * կտրուկ փոփոխություն
@@ -1929,8 +1884,6 @@ in terms of * ․․․ առումով
 to alter * փոխել
 to alter * վերափոխել
 reachable * հասանելի
-to expect * ակնկալել
-to expect * սպասել
 instant * ակնթարթ
 dehumanising * անմարդկային
 dehumanising * նվաստացում
@@ -1961,7 +1914,6 @@ exploitation * շահագործում
 uneven * անհավասար
 uneven * անհարթ
 to doubt * կասկածել
-greed * ագահություն
 to sack * պաշտոնից ազատել
 to prosper * բարգավաճել
 to prosper * առաջադիմել
@@ -1986,7 +1938,6 @@ to simplify * պարզեցնել
 to cut back on * կրճատել
 account for * հաշվի առնել
 vast * մեծ
-vast * հսկայական
 miracle * հրաշք
 retail * մանրածախ վաճառք
 to assume * ենթադրել
@@ -2021,11 +1972,9 @@ printing press * տպագրական սարք
 electricity * էլեկտրականություն
 anibiotic * հակաբիոտիկ
 to my mind * իմ կարծիքով
-extensive * ընդարձակ
 extensive * լայն
 to track text * հաղորդագրություն ուղղարկել
 vast * խոշոր
-vast * հսկայական
 prevalence of * տարածվածություն
 prevalent * տարածված
 prevalent * գերիշխող
@@ -2036,14 +1985,13 @@ measure * չափ
 face-to-face * դեմ֊առ֊դեմ
 slum * ետնախորշ
 slum * անմարդաբնակ
-capacity * հզորություն
 capacity * կարողություն
 fair * արդար
 fair * անաչառ
 adequate * համապատասխան
 adequate * համարժեք
 adequate * ադեկվատ
-supervison * վերահսկողություն
+supervison * վերահ����կողություն
 mentor * ուսուցիչ
 mentor * դաստիարակ
 proper * պատշաճ
@@ -2079,17 +2027,14 @@ spit * թուք
 pack * տուփ
 to log into * մուտք գործել
 saliva * թուք
-eager * անհամբեր
 eager * ցանկալի
 eagerly * անհամբերությամբ
 fortnight * երկու շաբաթ
 to predict * կանխատեսել
-influence * ազդեցություն
 influence * ներգործություն
 to peek at * հայացք նետել
 empowering * արտոնում
 to empower * արտոնել
-to prevent * կանխել
 to prevent * խանգարել
 colon cancer * հաստ աղիքի քաղցկեղ
 to liberate * ազատագրել
@@ -2112,7 +2057,6 @@ ancestry * ծագումնաբանություն
 raw * հում
 raw * չմշակված
 raw * խոնավ
-scene * տեսարան
 replacement * փոխարինում
 sceptic * թերհավատ
 needed by * անհրաժեշտ
@@ -2162,7 +2106,6 @@ intimation * ցուցում
 illumination * լուսավորում
 illumination * փայլատակում
 verification * հաստատում
-on the other hand * մյուս կողմից
 gifter * շնորհալի
 gifter * օժտված
 insight into * ըմբռնում
@@ -2174,7 +2117,6 @@ eloquent * պերճախոս
 simultaneous * միաժամանակ
 historically * պատմականորեն
 prejudice * նախապաշարմունք
-discrimination * խտրականություն
 connotation * լրացուցիչ իմաստ
 gauche * անհարմար
 gauche * անտակտ
@@ -2186,8 +2128,6 @@ evil * չարիք
 bad luck * անհաջողություն
 to force * ստիպել
 to force * բռնանալ
-authority * իշխանություն
-authority * հեղինակություն
 justice * արդարադատություն
 a safe pair of hands * ապահով ձեռքեր
 to give a hand * օգնության ձեռք մեկնել
@@ -2205,14 +2145,12 @@ deliberate * կանխամտածված
 to devote * նվիրաբերել
 to revolve around * խորհել
 to revolve around * մտորել
-compassion * կարեկցանք
 ruler * քանոն
 ruler * կառավարիչ
 ruler * տիրակալ
 ritual * ծես
 ritual * արարողություն
 propriety * պատշաճություն
-etiquette * վարվելակարգ
 righteousness * արդարություն
 righteousness * արդարադատություն
 honesty * ազնվություն
@@ -2221,902 +2159,1257 @@ ancestral * տոհմական
 ancestral * ժառանգական
 worship * պաշտամունք
 loyalty * հավատարմություն
-influential * ազդեցիկ
 spiritual * հոգևոր
 spiritual * կրոնական
-considerable * 
-to meditate * 
-selfless * 
-selfish * 
-tolerance * 
-freedom * 
-calculus * 
-force * 
-motion * 
-inertia * 
-theology * 
-struggling with * 
-goer * 
-inevitably * 
-innate * 
-sacrifice * 
-former * 
-latter * 
-to overlook * 
-to reveal * 
-to be attributed to * 
-to excel * 
-to embrace * 
-a bunch of * 
-a couple of * 
-a great deal of * 
-a large quantity of * 
-a pair of * 
-a slight majority of * 
-a tiny proportion of * 
-amount of * 
-a number of * 
-a wide range of * 
-a wide variety of * 
-criterion * 
-criteria * 
-phenomenon * 
-phenomena * 
-thesis * 
-theses * 
-analysis * 
-analyses * 
-hypothesis * 
-hypotheses * 
-to occur * 
-bulb * 
-to emit * 
-last for ages * 
-to flip * 
-fragile * 
-crib * 
-razor * 
-beets * 
-ladybug * 
-bathrobe * 
-miner * 
-solid * 
-torch * 
-side effect * 
-conversion * 
-to convert * 
-consumption * 
-approximately * 
-attainale * 
-tailored * 
-tailor * 
-to emerge * 
-obese * 
-shortage * 
-ingenious * 
-journalism * 
-media * 
-bias * 
-deadline * 
-privacy * 
-record * 
-scoop * 
-source * 
-speculation * 
-public figure * 
-reporter * 
-paparazzo * 
-editor * 
-producer * 
-blogger * 
-correspondent * 
-andhor * 
-moderator * 
-columnist * 
-to sue * 
-to beat around the bush * 
-circulation figures * 
-broadcast * 
-viewing figures * 
-official * 
-libel laws * 
-to libel * 
-to spin * 
-a sound bite * 
-popular press * 
-the tabloids * 
-to gather * 
-broadsheets * 
-to rescue * 
-to curb * 
-clash * 
-blaze * 
-freak * 
-flood * 
-toll * 
-pledge * 
-ax * 
-axe * 
-murder * 
-prode * 
-row * 
-rigging * 
-to crack down * 
-to split * 
-to bury * 
-to abuse * 
-to snoop * 
-to find out about * 
-to investigate * 
-to look up * 
-to search * 
-to take from * 
-to obtain * 
-to put together * 
-to compile * 
-to check on * 
-to verify * 
-to deal with * 
-to manage * 
-to get over * 
-to communicate * 
-to think through * 
-to consider * 
-perspective * 
-to urge * 
-to penalise * 
-draft * 
-to draft * 
-cautious about * 
-confidential * 
-consent * 
-to appoint * 
-nature * 
-nurture * 
-instinct * 
-peculiar * 
-essence * 
-succinct * 
-to inculcate * 
-absence from * 
-absence of * 
-deplorable * 
-supplement * 
-invaluable * 
-ferocious * 
-superfluous * 
-mercy * 
-mercilessly * 
-to absorb * 
-maxim * 
-abverb * 
-adjective * 
-essential * 
-sloppy * 
-supply * 
-to accommodate * 
-punctuation * 
-privilege * 
-acquire * 
-toolkit * 
-to polish * 
-to flounder * 
-to aspire * 
-to crave * 
-curiosity * 
-uninhibited * 
-cunning * 
-eagerness * 
-to narrate * 
-to restrain * 
-to focus on * 
-to allow time for * 
-to feel free to * 
-to go around * 
-to begin by * 
-to begin with * 
-to sign up * 
-to come across * 
-to find * 
-to come up * 
-to arise * 
-to get on * 
-to progress * 
-to get over * 
-to recover from * 
-to look at * 
-to observe * 
-to look into * 
-to investigate * 
-to look like * 
-to resemble * 
-to look around * 
-to inspect * 
-mindful * 
-to verify * 
-restrict * 
-to consuer * 
-culmination * 
-oddity * 
-substantially * 
-outlet * 
-to engender * 
-savvy * 
-stroyteller * 
-to squirt * 
-to roll * 
-to aim at * 
-explicitly * 
-persistently * 
-to persist * 
-exploration * 
-corporate * 
-to equip * 
-headquerter * 
-law * 
-society * 
-class * 
-culture * 
-economic * 
-policy * 
-public * 
-tantrum * 
-consistent * 
-crawling * 
-petty * 
-to reflect * 
-futile * 
-youth * 
-addicted to * 
-addict * 
-hedged * 
-to hedged * 
-to dictate * 
-precisely * 
-almighty * 
-to distinguish * 
-hygiene * 
-etc * 
-commonality * 
-to govern * 
-to obey * 
-instinctively * 
-conscious * 
-to prohibit * 
-pyjama * 
-anthropologist * 
-maxim * 
-conduct * 
-to conduct * 
-estimation * 
-statement * 
-thus * 
-to quest * 
-to confine * 
-confine * 
-domestic * 
-leisure * 
-janitor * 
-captain * 
-to mind your own business * 
-to make a scene * 
-to draw attention to yourself * 
-to wash your dirty linen in public * 
-to take something for granted * 
-to bring something to a halt * 
-to know something is amiss * 
-to shirk your responsibilityes * 
-to shirk * 
-to grant * 
-amiss * 
-halt * 
-linen * 
-theft * 
-shplithing * 
-bank robbery * 
-fraud * 
-care * 
-community * 
-service * 
-court * 
-custodial * 
-non-custodial * 
-delinquency * 
-to deter * 
-deterrent * 
-offender * 
-to offend * 
-punishment * 
-regabilitation * 
-to perceive * 
-juvenile * 
-justice * 
-convict * 
-detention center * 
-solely * 
-sentence * 
-curfew * 
-harsh * 
-imprisonment * 
-adolescent * 
-invincible * 
-armor * 
-to cope * 
-toddler * 
-to smack * 
-to slap * 
-utterly * 
-naughty * 
-to uphold * 
-to underestimate * 
-praise * 
-stubborn * 
-distraction * 
-crucial * 
-margin of error * 
-circumstance * 
-enrolment * 
-personnel * 
-to overlook * 
-versatile * 
-to bother * 
-fairness * 
-to impose * 
-to reform * 
-to instil * 
-rigor * 
-rigorous * 
-dormitory * 
-intensive * 
-intension * 
-disobedience * 
-obedience to * 
-menaingful * 
-vital * 
-disrespectful attitude * 
-aspen * 
-wilderness * 
-distraction * 
-counselling * 
-backward * 
-lax * 
-corridor * 
-refugee * 
-complaint * 
-to complain * 
-complex * 
-trust * 
-to mention * 
-responsible * 
-do * 
-to do * 
-hopeful * 
-hopeful * 
-international * 
-international * 
-must * 
-to restrain * 
-restrained * 
-wholeheartedly * 
-to amplify * 
-dairy * 
-to soften * 
-fairly * 
-slightly * 
-quite * 
-hardly * 
-partly * 
-almost * 
-rather * 
-to intensify * 
-extremely * 
-highly * 
-absolutely * 
-completely * 
-utterly * 
-entirely * 
-particularly * 
-totally * 
-really * 
-very * 
-viable * 
-to confiscate * 
-to restrict * 
-jar * 
-regulation * 
-regulations * 
-tough * 
-to settle * 
-local * 
-staring at * 
-novelty * 
-to curious about * 
-to engage with * 
-to deserve * 
-courteous to * 
-reciprocal * 
-gradually * 
-complacent * 
-overall * 
-loyalty * 
-complex * 
-asylum * 
-mummy * 
-contamination * 
-to skew * 
-lung * 
-latent * 
-soil * 
-to breed * 
-vague * 
-precise * 
-to bear * 
-forefront * 
-to unveil * 
-steel * 
-to counteract * 
-to equip * 
-excess * 
-fed up with * 
-accent * 
-entertainment * 
-ruffle * 
-participation * 
-art gallery * 
-literary event * 
-festival * 
-sculpture * 
-explicitly * 
-inanimate * 
-waterfront * 
-adaptation * 
-duo * 
-bill * 
-venue * 
-virtuoso * 
-tale * 
-fairy tale * 
-choreographer * 
-company * 
-awe-inspiring * 
-awar-winning * 
-laughter-packed * 
-out-of-the-way * 
-star-studded * 
-music-enhanced * 
-sample-heavy * 
-british-born * 
-rembert trained * 
-R&B influenced * 
-dated * 
-my kind of thing * 
-my cap of tea * 
-to live up to the hype * 
-mob * 
-phantom * 
-;avish * 
-bold * 
-desire * 
-stock-in-trade * 
-cello * 
-eerie * 
-knuckle * 
-trumpeter * 
-corker * 
-unicorn * 
-puppet * 
-puppetcraft * 
-breeze * 
-breezy * 
-to vilify * 
-to astonish * 
-landfill * 
-weeklong * 
-residency * 
-shantytown * 
-slum * 
-to resell * 
-visioner * 
-plunder * 
-to feature * 
-unparalledled * 
-to fold * 
-to unfold * 
-reminiscent of * 
-to enhance * 
-to reveal * 
-to enable * 
-to supply * 
-to distribute * 
-to indicate * 
-to reinforce * 
-to erode * 
-to emerge * 
-to analyze * 
-to deceive * 
-triviality * 
-household * 
-merit * 
-freshly * 
-to affix * 
-ephemeral * 
-shameless * 
-entire * 
-voyeuristic * 
-ritualistic * 
-habitual * 
-urbanity * 
-morality * 
-hardship * 
-to herald * 
-to flee * 
-to infuriate * 
-anthem * 
-skilful * 
-to hesitate * 
-business * 
-economics * 
-to diversify * 
-fringe benefit * 
-redundancies * 
-redundancy * 
-shareholder * 
-to eliminate * 
-ups and downs * 
-asset * 
-liability * 
-boom * 
-slump * 
-creditor * 
-debtor * 
-import * 
-export * 
-income * 
-expenditure * 
-merger * 
-acquisition * 
-mortgage * 
-loan * 
-profit * 
-loss * 
-supply * 
-demand * 
-to own * 
-to be own * 
-interest * 
-paradise * 
-heaven * 
-eden * 
-struggle * 
-luxury * 
-substantial * 
-cash * 
-injection * 
-to plunge * 
-investor * 
-debt * 
-spokesperson * 
-unless * 
-trade * 
-to escalate * 
-fake * 
-aspect * 
-revenue * 
-threat * 
-giant * 
-fiercely * 
-cometitive * 
-workforce * 
-retail * 
-wholesale * 
-stock * 
-volatile * 
-forecast * 
-bleak * 
-confidence * 
-interim * 
-to sustain * 
-acquisition * 
-poorly * 
-instantly * 
-instant * 
-surge * 
-prediction * 
-peak * 
-gloomy * 
-output * 
-to drop sharply * 
-plummet * 
-surplus * 
-tariff * 
-quota * 
-fear * 
-bankruptcy * 
-genuine * 
-counterfeit * 
-turnover * 
-outlet * 
-recession * 
-slump * 
-subsidiary * 
-inflation * 
-balance of trade * 
-deficit * 
-insolvent * 
-earning * 
-to exceed * 
-upward trend * 
-downward trend * 
-untable * 
-sustained growth * 
-to go from strength to strength * 
-to disseminate * 
-aspiration of * 
-disillusioned * 
-undeniable * 
-to deteriorate * 
-to be under attack * 
-to rot * 
-firm * 
-cooperation * 
-minor * 
-to wield * 
-hammer * 
-legislation * 
-revenue * 
-goose * 
-to lay * 
-to outsell * 
-dud * 
-to conquer * 
-to vanquish * 
-retributive * 
-prologue to * 
-compassionate * 
-wicked * 
-widow * 
-orphan * 
-evil-doer * 
-barbaric * 
-smallholder * 
-injustice * 
-wage * 
-to penalise * 
-guarantee * 
-stable * 
-elsewhere * 
-debt * 
-loan * 
-to land * 
-to borrow * 
-principle * 
-principal * 
-creditor * 
-debtor * 
-to affect * 
-effect * 
-by chance * 
-to watch out for * 
-to stand up * 
-to shut up * 
-to go on * 
-to fit in with * 
-to come back * 
-to turn down * 
-to set up * 
-to point out * 
-go give up * 
-to give away * 
-to find out * 
-to bring up * 
-to amass * 
-to default * 
-to incure * 
-clue * 
-to set up * 
-but for * 
-negotiator * 
-priority * 
-to concede * 
-bottom * 
-ambience * 
-win-win negiotiation * 
-put yourself in my shoes * 
-to stress * 
-outset * 
-to engage * 
-crucial * 
-pressure * 
-adjournment * 
-to intimidate * 
-temper * 
-frustration * 
-to walk out in a range * 
-anger * 
-assertive * 
-proposal * 
-tone shift in position * 
-concession * 
-to concede * 
-presistent * 
-to abstain * 
-abstention * 
-to admit * 
-admission * 
-to clarify * 
-clarification * 
-to colide * 
-collision * 
-to confuse * 
-confusion * 
-to decide * 
-decision * 
-to discriminate * 
-discrimination * 
-to eliminate * 
-elimination * 
-to extend * 
-extension * 
-to indicate * 
-indication * 
-to instigate * 
-instigation * 
-to negotiate * 
-negotiation * 
-to permit * 
-permission * 
-ground * 
-further * 
-inquiry * 
-science * 
-nature * 
-nitrogen * 
-canyon * 
-erosion * 
-flash flood * 
-geyser * 
-ice cap * 
-meteor * 
-reservoir * 
-subsurface * 
-tsunami * 
-hurricane * 
-thrilling * 
-debris * 
-rough * 
-terrain * 
-close-up * 
-spacecraft * 
-voyage to * 
-to reveal * 
-perception * 
-to go back to the * 
-drawing board * 
-to revise * 
-vary * 
-wildly * 
-rocky * 
-sterile * 
-beneath * 
-hazy * 
-wasteland * 
-hint * 
-formerly * 
-volatile * 
-rage * 
-to plough * 
-enticement * 
-liquid * 
-compelled to ask * 
-transition * 
-to delve into * 
-to undergo * 
-to forbid * 
-devoid of * 
-ellipsis * 
-substitution * 
-a swarm of wild bees * 
-a bunch of grapes * 
-a bunch of flowers * 
-a bunch of keys * 
-a pack of wolves * 
-a pack of hounds * 
-a pack of cards * 
-a herd of elephant * 
-a herd of cattle * 
-a herd of cows * 
-a herd of deers * 
-a shoal of fish * 
-a flock of sheeps * 
-a flock of goats * 
-to flock of birds * 
-to flock of geese * 
-a set of assumptions * 
-a set of conditions * 
-a set of values * 
-a set of problems * 
-a set of tools * 
-a set of chairs * 
-a group of chemicals * 
-a group of islands * 
-a group of hotels * 
-a group of children * 
-a group of admirers * 
-misconception * 
-fertiliser * 
-distracting * 
-discreet * 
-discrete * 
-to outstrip * 
-to upcycle * 
-to reckon * 
-to be fed up * 
-to have something up to here * 
-tree hugger * 
-incessantly * 
-to spout out * 
-to bother * 
-insane * 
-bonker * 
-to wheel out * 
-rant * 
-brigade * 
-miracle * 
-versatile * 
-durable * 
-substance * 
-poisonous * 
-mercury * 
-blind * 
-to refine * 
-biodegradable * 
-bin * 
-unsightly * 
-pollutant * 
-seagull * 
-to hesitate * 
-pride * 
-apocryphal * 
-venom * 
-anti-infammatory * 
-nasty * 
-to seize * 
-cautious * 
-retributive * 
-severity * 
-penalty * 
-murder * 
-murderer * 
-life sentence * 
-disproportionate * 
-to reinstate * 
-fierce * 
-to mend * 
-to sway * 
-outcry * 
-judicial system * 
-pendulum * 
-aftermath * 
-revenge * 
-to flourish * 
-depiction * 
-to bear * 
-resemblance * 
-stately * 
-forebear * 
-to emanate * 
-lightness * 
-through rose-tinted spectacles * 
-mist * 
-optical * 
-irreverent * 
-palatable * 
-rebellion * 
-bizarre * 
-metamorphose * 
-despairing * 
-stunning * 
-start * 
-insulation * 
-interlocutor * 
-cunning * 
+considerable * զգալի
+considerable * նշանակալի
+to meditate * մտածել
+to meditate * խորհել
+selfless * անձնազոհ
+selfish * եսասեր
+tolerance * հանդուրժողականություն
+freedom * ազատություն
+calculus * հաշիվ
+force * ուժ
+force * բռնութուն
+motion * շարժում
+inertia * իներցիա
+theology * աստվածաբանություն
+struggling with * պայքարել ․․․հետ
+goer * սիրահար
+inevitably * անխուսափելիորեն
+sacrifice * զոհաբերություն
+former * նախկին
+former * անցած
+former * առաջին
+latter * վերջին
+latter * երկրորդ
+to overlook * անտեսել
+to reveal * բացահայտել
+to reveal * ցույց տալ
+to be attributed to * կապված լինել
+to excel * գերազանցել
+to excel * աչքի ընկնել
+to embrace * ընդունել
+to embrace * ընդգրկել
+to embrace * հարել
+a bunch of * փունջ
+a couple of * զույգ
+a great deal of * մեծ քանակություն
+a large quantity of * մեծ քանակություն
+a pair of * զույգ
+a slight majority of * փոքր մեծամասնություն
+a tiny proportion of * փոքր չափաբաժին
+amount of * քանակ
+a number of * որոշակի քանակ
+a wide range of * լայն շրջանակ
+a wide variety of * լայն բազմազանություն
+criterion * չափորոշիչ
+criteria * չափորոշիչներ
+phenomena * երևույթներ
+thesis * թեզ
+thesis * դրույթ
+theses * դրույթներ
+analysis * վերլուծություն
+analyses * վերլուծություններ
+hypothesis * վարկած
+hypothesis * հիպոթեզ
+hypotheses * հիպոթեզներ
+to occur * տեղի ունենալ
+to occur * պատահել
+to emit * թողնել
+to emit * արձակել
+to emit * բուրել
+last for ages * վերջին սերնդի
+last for ages * նոր
+to flip * մատով թեթև սեղմել
+to flip * խփել
+fragile * նուրբ
+fragile * փխրուն
+fragile * թույլ
+crib * օրորոց
+razor * ածելի
+beets * ճակնդեղ
+ladybug * մայիսյան բզեզ
+bathrobe * լողանալու խալաթ
+miner * հանքափոր
+miner * հանքագործ
+solid * ամուր
+solid * պինդ
+torch * ջահ
+torch * լապտեր
+torch * փարոս
+side effect * կողմնակի ազդեցություն
+conversion * անցում
+conversion * փոխարկում
+to convert * փոխարկել
+to convert * անցնել
+consumption * սպառում
+consumption * ծախսում
+approximately * մոտավորապես
+attainable * հասանելի
+attainable * մատչելի
+tailored * հարմարեցված
+tailor * դերձակ
+obese * գիրություն
+obese * ճարպակալում
+shortage * պակաս
+shortage * պակասություն
+ingenious * սրամիտ
+ingenious * հնարամիտ
+journalism * լրագրություն
+bias * կողմնակալություն
+bias * երկակիություն
+deadline * վերջնաժամկետ
+privacy * գաղտնիություն
+privacy * մեկուսացվածություն
+record * գրառում
+record * ձայնագրություն
+scoop * շերեփ
+scoop * սենսացիա
+source * սկզբնաղբյուր
+source * աղբյուր
+public figure * հասարակական գործիչ
+reporter * լրագրող
+reporter * թղթակից
+paparazzo * պապարացի
+editor * խմբագիր
+producer * արտադրող
+producer * պրոդյուսեր
+producer * ռեժիսոր
+blogger * բլոգեր
+correspondent * թղթակից
+anchor * հաղորդավար
+anchor * խարիսխ
+moderator * կարգավորիչ
+moderator * մոդերատոր
+columnist * սյունակագիր
+to sue * դատի տալ
+to beat around the bush * ուղիղ խոսք չասել
+circulation figures * շրջանառութան ցուցանիշներ
+broadcast * հեռարձակում
+viewing figures * դիտորդների ցուցանիշներ
+official * պաշտոնական
+libel laws * զրպարտության օրենքներ
+to libel * զրպարտել
+to spin * վազել
+to spin * պտտվել
+to spin * դրական լույսի տակ նայել
+a sound bite * ընդհանուր իմաստ
+popular press * հանրային մամուլ
+broadsheets * լայնաշերտ
+to rescue * փրկել
+to curb * սանձել
+to curb * ընդհատել
+clash * բախում
+clash * կոնֆլիկտ
+blaze * բոց
+blaze * փայլ
+blaze * բռնկում
+freak * հրեշ
+flood * հեղեղ
+toll * կորուստ
+toll * զոհ
+pledge * խոստում
+ax * կացին
+axe * կացին
+murder * սպանություն
+prode * հետաքրքրություն
+prode * փորձարկում
+row * տող
+row * շարք
+row * կարգ
+rigging * կեղծիք
+to crack down * սահմանափակվել
+to split * բաժանել
+to split * ճեղքել
+to bury * թաղել
+to bury * թաքցնել
+to bury * ծածկել
+to abuse * չարաշահել
+to abuse * վիրավորել
+to snoop * լրտեսել
+to snoop * քիթը ուրիշի գործերի մեջ մտցնել
+to find out about * իմանալ ․․․ մասին
+to investigate * քննել
+to investigate * իմանալ
+to look up * որոնել
+to look up * փնտրել
+to search * որոնել
+to take from * վերցնել
+to obtain * ստանալ
+to obtain * ձեռք բերել
+to put together * միացնել
+to put together * հավաքել
+to compile * կուտակել
+to compile * միացնել
+to check on * ստուգել
+to verify * ստուգել
+to verify * հաստատել
+to deal with * գործ ունենալ ․․․ հետ
+to manage * կառավարել
+to manage * վարել
+to manage * հաղթահարել
+to get over * հաղորդակցվել
+to get over * շփվել
+to get over * հաղթահարել
+to communicate * հաղորդակցվել
+to think through * մտածել
+to think through * հաշվի առնել
+to consider * հաշվի առնել
+perspective * հեռանկարային
+to urge * հորդորել
+to urge * համոզել
+to urge * ստիպել
+to urge * շտապեցնել
+to penalise * տուգանել
+draft * պրոյեկտ
+draft * նախագիծ
+to draft * նախագծել
+cautious about * զգուշավոր
+cautious about * շրջահայաց
+confidential * գաղտնի
+confidential * կոնֆիդենցիալ
+confidential * պաշտոնական
+consent * համաձայնություն
+nature * բնական
+nurture * դաստիարակություն
+instinct * բնազդ
+peculiar * յուրահատուկ
+peculiar * հատկանշական
+essence * էություն
+essence * գոյություն
+succinct * հակիրճ
+succinct * սեղմ
+to inculcate * հաղորդել
+to inculcate * արմատավորել
+absence from * բացակայություն
+absence of * բացակայություն
+deplorable * ցավալի
+deplorable * ողբալի
+invaluable * անգին
+invaluable * օգտակար
+invaluable * անգնահատելի
+ferocious * վայրենի
+ferocious * կատաղի
+ferocious * դաժան
+superfluous * ավելորդ
+superfluous * անտեղի
+superfluous * չափից ավելի
+mercy * ողորմություն
+mercy * գթություն
+mercy * խիղճ
+mercilessly * անխղճություն
+mercilessly * անգթություն
+to absorb * ներծծել
+maxim * գաղափար
+maxim * սկզբունք
+adjective * ածական
+essential * էական
+sloppy * անփույթ
+sloppy * փնթի
+supply * մատակարարում
+supply * պաշար
+to accommodate * տեղավորել
+to accommodate * հարթեցնել
+to accommodate * հարմարեցնել
+punctuation * կետադրություն
+privilege * արտոնություն
+privilege * առավելություն
+toolkit * գործիքակազմ
+to polish * փայլեցնել
+to flounder * սայթաքել
+to flounder * թպրտալ
+to aspire * ձգտել
+to aspire * բարձրանալ
+to crave * հակված լինել
+to crave * ձգտել
+curiosity * հետաքրքրասիրություն
+uninhibited * ազատ
+uninhibited * անզուսպ
+cunning * ճարպկություն
+cunning * խորամանկություն
+eagerness * ջանք
+eagerness * եռանդ
+to narrate * պատմել
+to restrain * զսպել
+to restrain * սանձել
+to focus on * կենտրոնանալ ․․․ վրա
+to allow time for * ժամանակ հատկացնել ․․․ համար
+to feel free to * ազատ զգալ ․․․ համար
+to begin by * սկսել ․․․ով
+to begin with * սկսել ․․․ով
+to sign up * գրանցվել
+to come across * հանդիպել
+to come across * բախվել
+to find * գտնել
+to come up * ծագել
+to come up * բարձրանալ
+to come up * գալ
+to arise * ծագել
+to arise * հայտնվել
+to get on * շարունակել
+to get on * հարթել
+to get on * ընկնել
+to progress * աճել
+to progress * ընթանալ
+to progress * զարգանալ
+to get over * վերականգնվել
+to recover from * երականգնվել
+to look at * դիտել
+to look at * հետևել
+to observe * հետևել
+to look into * նայել խորքերը
+to look into * հետազոտել
+to investigate * հետազոտել
+to look like * նման լինել
+to resemble * հիշեցնել
+to resemble * նման լինել
+to look around * դիտել
+to look around * ստուգել
+to look around * զննել
+to inspect * ստուգել
+to inspect * զննել
+to inspect * քննել
+to inspect * դիտել
+mindful * գիտակից
+mindful * ուշադիր
+to conquer * նվաճել
+to conquer * հաղթել
+culmination * գագաթնակետ
+oddity * տարօրինակություն
+substantially * էականորեն
+outlet * ելք
+outlet * միջոց
+to engender * առաջացնել
+to engender * ծնել
+to engender * հարուցել
+to engender * ներխուժել
+savvy * ըմբռնողականություն
+stroyteller * հեքիաթասաց
+stroyteller * պատմիչ
+to squirt * ցայտեցնել
+to squirt * շաղ տալ
+to roll * գլորել
+to roll * ոլորել
+to aim at * ձգտել դեպի
+explicitly * բացահայտորեն
+explicitly * բացեբաց
+persistently * համառորեն
+to persist * համառել
+to persist * դիմադրել
+to persist * դիմանալ
+exploration * հետազոտություն
+exploration * ուսումնասիրություն
+corporate * միացյալ
+corporate * հավաքական
+to equip * սարքավորել
+headquerter * գլխամասային սենյակ
+law * իրավունք
+society * հասարակություն
+class * դաս
+culture * մշակույթ
+economic * տնտեսական
+policy * քաղաքականություն
+public * հանրային
+tantrum * զայրույթի պոռթկում
+consistent * հետևողական
+consistent * կայուն
+crawling * կռվարար
+petty * չնչին
+petty * աննշան
+to reflect * արտացոլել
+futile * ապարդյուն
+futile * անօգուտ
+youth * երիտասարդություն
+addicted to * կախված 
+addict * թմրամոլ
+hedged * ցանկապատ
+hedged * խոչնդոտ
+to hedged * սահմանափակել
+to hedged * տարվել
+to dictate * թելադրել
+to dictate * պատվիրել
+precisely * հստակ
+precisely * ճշգրտորեն
+almighty * ամենակարող
+almighty * ամենազոր
+etc * և այլն
+commonality * ընդհանրություն
+to govern * կառավարել
+to govern * ազդել
+to obey * ենթարկվել
+to obey * հնազանդվել
+instinctively * բնազդաբար
+conscious * գիտակցված
+to prohibit * արգելել
+pyjama * գիշերազգեստ
+anthropologist * մարդաբան
+maxim * վարքականոն
+conduct * վարք
+conduct * պահելաձև
+conduct * կառավարում
+estimation * գնահատում
+estimation * կարծիք
+statement * դրույթ
+thus * այսպիսով
+to quest * որոնել
+to quest * փնտրել
+to confine * սահմանափակել
+confine * սահման
+confine * եզր
+domestic * ընտանեկան
+domestic * ներքին
+leisure * ժամանց
+janitor * հավաքարար
+captain * կապիտան
+captain * նավապետ
+mind your own business * քո գործով զբաղվիր
+to make a scene * տեսարան սարքել
+to draw attention to yourself * ուշադրություն գրավել
+to wash your dirty linen in public * ներքին խնդիրները հանրային դարձնել
+to take something for granted * ընդունել ինչ֊որ բան ասես հենց այդպես էլ պիտի լիներ
+to bring something to a halt * ավարտին հասցնել
+to bring something to a halt * կանգնեցնել
+to know something is amiss * իմանալ որ ինչ֊որ բան այն չէ
+to shirk your responsibilities * խուսափել պարտավորություններից
+to shirk * խուսափել
+to grant * շնորհել
+to grant * նվիրաբերել
+amiss * անհաջող
+amiss * վատ
+amiss * սխալ
+halt * դադար
+halt * կանգառ
+linen * սպիտակեղեն
+linen * սավան
+theft * գողություն
+shoplifting * գողություն խանութից
+bank robbery * բանկային գողություն
+fraud * խարդախություն 
+fraud * սրիկա
+care * հոգատարություն
+community service * համայնքային ծառայություն
+custodial * ազատությունից զրկող
+non-custodial * ազատությունից չզրկող
+delinquency * իրավազանցություն
+delinquency * հանցագործություն
+to deter * կանխարգելել
+to deter * ետ կանգնեցնել
+deterrent * կանխարգելող
+deterrent * խանգարող
+deterrent * ետ պահող
+offender * հանցագործ
+offender * անարգող
+to offend * վիրավորել
+punishment * պատիժ
+rehabilitation * վերականգնում
+to perceive * ընկալել
+to perceive * հասկանալ
+juvenile * անչափահաս
+juvenile * պատանի
+juvenile * երիտասարդ
+justice * արդարություն
+convict * դատապարտյալ
+detention center * կալանքի կենտրոն
+solely * միայն
+solely * բացառապես
+sentence * դատավճիռ
+sentence * նախադասություն
+curfew * պարետային ժամ
+curfew * տնային կալանք
+harsh * անգութ
+imprisonment * ազատազրկում
+imprisonment * բանտարկություն
+adolescent * դեռահաս
+adolescent * պատանի
+invincible * անհաղթ
+invincible * անպարտ
+armor * սպառազինություն
+armor * զենք ու զրահ
+toddler * նոր քայլել սկսող երեխա
+to smack * հարվածել
+to slap * սպտակել
+utterly * չափազանց
+utterly * ընդհանրապես
+naughty * չարաճճի
+naughty * անհնազանդ
+to uphold * հետևել
+to uphold * պաշտպանել
+to underestimate * թերագնահատել
+praise * գովասանք
+stubborn * համառ
+stubborn * հաստատակամ
+distraction * շեղում
+crucial * վճռական
+crucial * անհրաժեշտ
+margin of error * սխալի սահման
+enrolment * գրանցում
+personnel * անձնակազմ
+versatile * բազմակողմանի
+versatile * ճկուն
+to bother * անհանգստանալ
+fairness * արդարություն
+to impose * պարտադրել
+to impose * հարկադրել
+to reform * բարեփոխել
+to instil * ներշնչել
+to instil * արթնացնել
+rigor * խստություն
+rigor * ճշտություն
+rigorous * խիստ
+rigorous * ճշգրիտ
+rigorous * խստապահանջ
+dormitory * հանրակացարան
+dormitory * ննջասրահ
+intensive * լարված
+intensive * ինտենսիվ
+intension * լարում
+intension * ջանք
+intension * ճիգ
+disobedience * անհնազանդություն
+obedience to * հնազանդություն
+meaningful * իմաստալից
+vital * անհրաժեշտ
+disrespectful attitude * անհարգալից պահվածք
+aspen * կաղամախի
+wilderness * անապատ
+wilderness * ամայի վայր
+distraction * ցրվածություն
+distraction * զվարճություն
+distraction * ուշադրության շեղում
+counselling * խորհրդատվություն
+backward * հետամնաց
+backward * հետ
+backward * ետ
+lax * թույլ
+lax * անփույթ
+corridor * միջանցք
+complex * բարդ
+trust * վստահություն
+responsible * պատասխանատու
+do * փարթի
+do * խնջույք
+to do * անել
+hopeful * հուսալի
+hopeful * թեկնածու
+international * միջազգային
+international * իր հայրենի երկրից դուրս ծնված մարդ
+must * անհրաժեշտություն
+must * պահանջ
+restrained * զսպված
+wholeheartedly * ամբողջ սրտով
+wholeheartedly * ի սրտե
+to amplify * ուժեղացնել
+to amplify * ընդլայնել
+dairy * կաթնամթերք
+dairy * կաթի գործարան
+to soften * մեղմել
+to soften * մեղմանալ
+fairly * բավականին
+slightly * մի քիչ
+slightly * աննշան
+quite * բավականին
+hardly * հազիվ թե
+hardly * հազիվ
+partly * մասամբ
+partly * որոշ չափով
+almost * համարյա
+almost * գրեթե
+rather * ավելի շատ
+rather * բավականին
+to intensify * ուժեղացնել
+extremely * ծայրահեղ
+highly * խիստ
+highly * չափազանց
+absolutely * բացարձակապես
+completely * ամբողջությամբ
+completely * լիովին
+utterly * բացարձակապես
+entirely * ամբողջությամբ
+particularly * մասնավորապես
+particularly * հատկապես
+totally * ընդհանարպես
+really * իսկապես
+very * շատ
+viable * կենսունակ
+to confiscate * բռնագրավել
+jar * բանկա
+jar * անոթ
+regulation * կանոնավորում
+regulations * կարգավորում
+tough * կոպիտ
+tough * խիստ
+to settle * բնակեցվել
+local * բնակվել
+staring at * ուշադիր նայել
+staring at * հետևել
+novelty * նորություն
+novelty * նորույթ
+to curious about * հետաքրքրվել
+to engage with * համագործակցել
+to engage with * զբաղվել
+to engage with * փոխազդել
+to deserve * արժանանալ
+courteous to * քաղաքավարի դեպի
+courteous to * սիրալիր դեպի
+reciprocal * երկկողմանի
+reciprocal * փոխադարձ
+complacent * ինքնագոհ
+complacent * ինքնաբավ
+complex * համալիր
+complex * միանման կառույցների խումբ
+asylum * օթևան
+asylum * ապաստարան
+mummy * մումիա
+mummy * մամա
+contamination * աղտոտում
+contamination * վարակում
+to skew * խեղաթյուրել
+to skew * աղավաղել
+lung * թոք
+latent * թաքնված
+latent * թաքուն
+latent * աննկատ
+soil * հող
+soil * գետին
+soil * ցեխ
+to breed * սնել
+to breed * բազմանալ
+vague * անորոշ
+vague * աղոտ
+precise * ճշգրիտ
+precise * հստակ
+to bear * դիմանալ
+to bear * կրել
+to bear * տանել
+forefront * առաջատար
+to unveil * բացել
+to unveil * քողը իջեցնել
+steel * պողպատ
+steel * դաժան
+to counteract * հակազդել
+to counteract * չեզոքացնել
+to equip * սպառազինել
+excess * ավելցուկ
+fed up with * մինչև կոկորդը կուշտ
+accent * ակցենտ
+accent * շեշտադրություն
+entertainment * զվարճանք
+ruffle * իրարանցում
+ruffle * խառնաշփոթ
+participation * մասնակցություն
+art gallery * պատկերասրահ
+literary event * գրական իրադարձություն
+festival * փառատոն
+sculpture * քանդակագործություն
+sculpture * քանդակ
+explicitly * ակնհայտորեն
+inanimate * անկենդան
+inanimate * անշունչ
+waterfront * նավահանգիստ
+adaptation * հարմարեցում
+adaptation * ձևափոխում
+duo * դուետ
+bill * հաշիվ
+bill * ցուցակ
+venue * վայր
+virtuoso * վիրտուոզ
+choreographer * բալետմայստեր
+company * կազմակերպություն
+awe-inspiring * տպավորիչ
+awe-inspiring * ահարկու
+award-winning * մրցանակակիր
+laughter-packed * ծիծաղելի
+out-of-the-way * ճանապարհից դուրս
+star-studded * աստղային
+star-studded * աստղաշատ
+music-enhanced * երաժշտությամբ հարստացված
+sample-heavy * ծանր օրինակ
+british-born * ի ծնե բրիտանացի
+rembert trained * Ռամբերթ համալսարանում սովորած
+R&B influenced * R&B-ից ազդված
+dated * ժամկետնանց
+dated * հնացած
+my kind of thing * իմ ճաշակով
+my cap of tea * իմ ճաշակով
+to live up to the hype * սպասումները արդարացնել
+mob * հանցագործություն
+phantom * ուրվական
+phantom * տեսիլք
+lavish * ճոխ
+bold * համարձակ
+desire * ցանկություն
+desire * իղձ
+stock-in-trade * ապրանքների պահեստ
+cello * թավջութակ
+eerie * ահարկու
+knuckle * մատների հոդեր
+trumpeter * փողահար
+corker * ցնցող
+unicorn * միաեղջյուր
+puppet * տիկնիկ
+puppetcraft * տիկնիկային թատրոն
+breeze * զեփյուռ
+breeze * քամի
+breezy * հով
+breezy * զով
+to vilify * վատաբանել
+to vilify * անարգել
+to astonish * զարմացնել
+to astonish * ապշեցնել
+landfill * աղբավայր
+weeklong * մեկ շաբաթ տևող
+residency * բնակելիություն
+shantytown * հետնախորշ
+slum * հետնախորշ
+to resell * վերավաճառել
+visioner * ֆանտազյոր
+visioner * երազող
+to plunder * թալանել
+to plunder * որսալ
+to plunder * որոնել
+to feature * ցուցադրել
+unparalledled * անզուգական
+unparalledled * աննախադեպ
+to fold * ծալել
+to unfold * հայտնաբերել
+to unfold * բացել
+reminiscent of * հիշեցնող
+to enhance * հարստացնել
+to distribute * տարածել
+to indicate * նշել
+to indicate * ցույց տալ
+to reinforce * ամրապնդել
+to reinforce * զորացնել
+to erode * ջնջել
+to emerge * առաջանալ
+to analyze * վերլուծել
+to deceive * մոլորեցնել
+to deceive * խաբել
+triviality * ակնհայտություն
+household * տնային տնտեսություն
+householder * տանտեր
+merit * արժանիք
+merit * վաստակ
+freshly * վերջերս
+to affix * կցել
+to affix * հաստատել
+ephemeral * անցողիկ
+ephemeral * ժամանակավոր
+shameless * անամոթ
+entire * ամբողջական
+ritualistic * ծիսական
+habitual * սովորական
+habitual * ըստ ավանդույթի
+urbanity * քաղաքակրթություն
+morality * բարոյականություն
+hardship * դժվարություն
+hardship * զրկանք
+to herald * ազդարարել
+to flee * փախչել
+to flee * խուսափել
+to infuriate * կատաղեցնել
+to infuriate * գազազեցնել
+anthem * օրհներգ
+skilful * հմուտ
+skilful * ճարպիկ
+to hesitate * տատանվել
+to hesitate * վարանել
+business * բիզնես
+economics * տնտեսագիտություն
+to diversify * զանազանել
+to diversify * տարբերակել
+fringe benefit * հավելյալ օգուտ
+redundancies * կրճատումներ
+redundancy * ավելորդություն
+redundancy * առատություն
+shareholder * բաժնետեր
+to eliminate * արմատահան անել
+ups and downs * վերելքներ և անկումներ
+asset * ունեցվածք
+asset * ակտիվներ
+liability * պարտք
+liability * պասիվներ
+liability * պարտավորվածություն
+boom * բում
+boom * աղմուկ
+boom * աճ
+slump * անկում
+slump * ճգնաժամ
+creditor * պարտատեր
+creditor * վարկատու
+debtor * պարտապան
+import * ներմուծում
+export * արտահանում
+income * եկամուտ
+merger * միաձուլում
+acquisition * ստացում
+acquisition * բաժանում
+mortgage * հիպոթեք
+mortgage * գրավ
+loan * վարկ
+profit * շահույթ
+loss * կորուստ
+supply * առաջարկ
+demand * պահանջարկ
+to own * ունենալ
+to be own * մեկին պարտք լինել
+interest * շահ
+interest * տոկոս
+interest * հետաքրքրություն
+paradise * դրախտ
+paradise * արքայություն
+heaven * դրաշտ
+heaven * երկինք
+eden * եդեմ
+struggle * պայքար
+struggle * լարում
+luxury * ճոխ
+luxury * շքեղ
+substantial * էական
+substantial * հիմնական
+cash * կանխիկ փող
+injection * ներարկում
+injection * ներհոսք
+to plunge * սուզվել
+to plunge * ընկնել
+investor * ավանդատու
+spokesperson * խոսնակ
+unless * եթե չ․․․
+unless * քանի դեռ չ․․․
+to escalate * կտրուկ աճել
+to escalate * կտրուկ բարձրանալ
+fake * կեղծ
+aspect * տեսանկյուն
+revenue * եկամուտ
+fiercely * դաժանորեն
+fiercely * կատաղի
+cometitive * մրցունակ
+workforce * աշխատուժ
+retail * մանրածախ
+wholesale * մեծածախ
+volatile * անկայուն
+volatile * փոփոխական
+forecast * կանխատեսում
+forecast * գուշակություն
+bleak * տխուր
+bleak * դժգույն
+confidence * վստահություն
+interim * միջանկյալ
+interim * ժամանակավոր
+poorly * անհաջողակ կերպով
+poorly * վատ կերպով
+instantly * ակնթարթորեն
+surge * աճ
+prediction * կանխատեսում
+gloomy * աղոտ
+output * արտադրանք
+to drop sharply * կտրուկ անկել
+plummet * կայուն անկում
+surplus * ավելցուկ
+surplus * հավելորդ
+tariff * սակագին
+quota * բաժին
+quota * մաս
+quota * բաժնեմաս
+fear * վախ
+bankruptcy * սննկացում
+bankruptcy * սնանկություն
+genuine * իսկական
+genuine * անկեղծ
+genuine * բուն
+turnover * շրջանառություն
+outlet * խանութ
+subsidiary * մասնաճյուղ
+subsidiary * բաժանմունք
+balance of trade * առևտրի հաշվեկշիռ
+deficit * պակաս
+deficit * պակասորդ
+deficit * դիֆիցիտ
+insolvent * անվճարունակ
+earning * շահույթ
+to exceed * գերազանցել
+upward trend * աճի միտում
+downward trend * նվազման միտում
+untable * անկայուն
+sustained growth * կայուն աճ 
+to go from strength to strength * ուժեղանալ
+to go from strength to strength * աճել
+to go from strength to strength * զարգանալ
+to disseminate * տարածել
+aspiration of * ձգտում դեպի
+undeniable * անհեքելիորեն
+to deteriorate * վատթարանալ
+to be under attack * հարվածի տակ լինել
+to rot * փչանալ
+to rot * փտել
+to rot * հոտել
+firm * ամուր
+firm * հաստատակամ
+cooperation * համագործակցում
+minor * անչափահաս
+minor * կրտսեր
+minor * դեռահաս
+minor * երկրորդական
+to wield * օգտագործել
+to wield * ձեռք բերել
+to wield * տիրապետել
+hammer * մուրճ
+legislation * օրենսդրություն
+goose * սագ
+goose * բադ
+goose * դեբիլ
+to lay * դնել
+to lay * պառկել
+to outsell * ավելի թանկ ու շատ քանակով վաճառվել քան մյուս ապրանքները
+dud * ձախողակ
+to vanquish * հաղթանակել
+to vanquish * նվաճել
+retributive * պատժիչ
+prologue to * նախաբան
+compassionate * կարեկցող
+wicked * չար
+wicked * չարակամ
+wicked * անբարոյական
+widow * այրի կին
+orphan * որբ
+evil-doer * չարագործություն
+barbaric * բարբարոսական
+barbaric * վայրագ
+smallholder * մանր սեփականատեր
+injustice * անարդարություն
+wage * աշխատավարձ
+guarantee * երաշխիք
+stable * կայուն
+elsewhere * այլուր
+to land * պարտքով տալ
+to borrow * պարտքով վերցնել
+principle * սկզբունք
+principle * հիմք
+principle * օրենք
+principal * գլխավոր
+principal * սկզբունքային
+effect * ազդեցություն
+by chance * պատահաբար
+to watch out for * զգուշանալ
+to stand up * կանգնել
+to shut up * լռել
+to go on * շարունակել
+to fit in with * համապատասխանել
+to come back * վերադառնալ
+to turn down * մերժել
+to set up * ստեղծել
+to set up * կազմակերպել
+to point out * մատնանշել
+to give up * հանձնվել
+to give up * թողնել
+to give up * դադարեցնել
+to give away * զգացմունքները ցույց տալ
+to give away * ազատ դրսևորել
+to find out * պարզել
+to bring up * դաստիարակել
+to bring up * նշել
+to amass * դիզել
+to default * պարտականությունները չկատարել
+to incure * կրել
+to incure * ենթարկվել
+to incure * առաջացնել
+clue * հուշում
+to set up * հիմնել
+to set up * հաստատել
+but for * եթե չլիներ
+negotiator * բանակցող
+to concede * զիջել
+to concede * ընդունել
+to concede * թույլ տալ
+to concede * շնորհել
+bottom * ներքև
+bottom * հատակ
+ambience * միջավայր
+win-win negiotiation * հավասար պայմաններում բանակցություն
+win-lose negiotiation * անհավասար պայմաններում բանակցություն
+put yourself in my shoes * քեզ իմ տեղը դիր
+to stress * ընդգծել
+to stress * շեշտադրել
+outset * մեկնարկ
+outset * սկիզբ
+to engage * զբաղեցնել
+crucial * որոշիչ
+crucial * կենսական
+pressure * ճնշում
+pressure * լարում
+adjournment * ընդմիջում
+adjournment * հետաձգում
+to intimidate * վախենալ
+temper * բնավորություն
+frustration * վրդովմունք
+frustration * հիասթափություն
+to walk out in a range * կատաղած դուրս գալ
+anger * զայրույթ
+anger * չարություն
+proposal * առաջարկ
+tone * տոն
+tone * տոնուս
+to shift in position * փոխել դիրքը
+concession * զիջում
+presistent * համառ
+presistent * կայուն
+to abstain * ձեռնպահ մնալ
+to abstain * իրեն զսպել
+abstention * ձեռնպահություն
+abstention * չափավորություն
+to admit * ընդունել
+to admit * խոստովանել
+to admit * թույլ տալ
+admission * մուտք
+admission * ընդունելություն
+admission * խոստովանություն
+to clarify * պարզաբանել
+to clarify * հստակեցնել
+clarification * պարզաբանում
+clarification * հստակեցում
+clarification * մաքրում
+to colide * բախվել
+to colide * ընդհարվել
+collision * ընդհարում
+to confuse * շփոթվել
+to confuse * խառնել
+confusion * անկարգություն
+to decide * որոշել
+decision * որոշում
+decision * վճիռ
+to discriminate * խտրականություն դնել
+to discriminate * տարբերել
+to eliminate * ոչնչացնել
+to eliminate * վերացնել
+elimination * վերացում
+elimination * ոչնչացում
+to extend * ընդլայնել
+extension * ընդլայնում
+indication * ցուցում
+indication * նշում
+to instigate * սկսել
+to instigate * հրահրել
+instigation * հարձակում
+instigation * սկիզբ
+instigation * սադրանք
+to negotiate * բանակցել
+to permit * թույլ տալ
+ground * գետին
+ground * հող
+ground * հիմք
+further * հետագա
+inquiry * հարցում
+inquiry * հարցուփորձ
+inquiry * հետազոտություն
+science * գիտություն
+nature * բնություն
+nitrogen * ազոտ
+canyon * կիրճ
+canyon * ձոր
+erosion * քայքայում
+erosion * էրոզիա
+flash flood * չկանխատեսված հեղեղ
+geyser * տաք ջրի հոսք
+ice cap * սառցե գագաթ
+meteor * երկնաքար
+reservoir * ջրամբար
+reservoir * պահեստ
+subsurface * ենթաշերտ
+subsurface * ստորերկրյա
+tsunami * ցունամի
+hurricane * փոթորիկ
+thrilling * հուզիչ
+thrilling * ցնցող
+debris * բեկոր
+debris * ավերակ
+rough * կոշտ
+rough * կոպիտ
+rough * անհարթ
+terrain * տեղանք
+terrain * տարածք
+close-up * մոտ
+close-up * մոտակայք
+spacecraft * տիեզերանավ
+voyage to * ճանապարհորդություն դեպի
+perception * ընկալում
+perception * ըմբռնում
+to go back to the drawing board * ամեն ինչ սկսել զրոյից
+to revise * վերանայել
+vary * տարբեր
+wildly * վայրենի
+wildly * խիստ
+rocky * ժայռոտ
+rocky * քարքարոտ
+sterile * անպտուղ
+beneath * ցած
+hazy * միգապատ
+hazy * մշուշոտ
+wasteland * ամայի
+hint * ակնարկ
+formerly * նախկինում
+formerly * մի ժամանակ
+to plough * փորել
+to plough * վարել
+to plough * հերկել
+enticement * գայթակղություն
+enticement * հրապույր
+liquid * հեղուկ
+compelled to ask * ստիպված հարցնել
+transition * անցում
+transition * փոփոխում
+to delve into * փորել
+to delve into * որոնել
+to delve into * խառնել
+to undergo * ենթարկվել
+to undergo * կրել
+to undergo * տանել
+to forbid * արգելել
+devoid of * զուրկ
+ellipsis * զեղչում
+ellipsis * սղում
+substitution * փոխարինում
+substitution * տեղադրում
+a swarm of wild bees * վայրի մեղուների պարս
+a bunch of grapes * խաղողի ողկույզ
+a bunch of flowers * ծաղիկների փունջ
+a bunch of keys * բանալիների խուրձ
+a pack of wolves * գայլերի ոհմակ
+a pack of hounds * որսորդական շների խումբ
+a pack of cards * խաղաթղթերի կապոց
+a herd of elephant * փղերի խումբ
+a herd of cattle * խոշոր եղջերավոր կենդանիների խումբ
+a herd of cows * կովերի նախիր
+a herd of deers * եղնիկների խումբ
+a shoal of fish * ձկների վտառ
+a flock of sheeps * ոչխարների հոտ
+a flock of goats * այծերի հոտ
+to flock of birds * թռչունների երամ
+to flock of geese * սագերի խումբ
+a set of assumptions * ենթադրությունների շարք
+a set of conditions * պայմանների ծարք
+a set of values * արժեքների շարք
+a set of problems * խնդիրների շարք
+a set of tools * գորոծիքների շարք
+a set of chairs * աթոռների շարք
+a group of chemicals * քիմիական նյութերի խումբ
+a group of islands * կղզիների խումբ
+a group of hotels * հյուրաոցների խումբ
+a group of children * երեխաների խումբ
+a group of admirers * երկրպագուների խումբ
+misconception * սխալ պատկերացում
+fertiliser * պարարտանյութ
+distracting * շեղող
+discreet * խոհեմ
+discreet * զգույշ
+discrete * առանձին
+discrete * անջատ
+discrete * դիսկրետ
+to outstrip * գերազանցել
+to upcycle * վերօգտագործել
+to reckon * կարծել
+to reckon * համարել
+to be fed up * մինչև կոկորդը կուշտ լինել
+to have something up to here * մինչև կոկորդը կուծտ լինել
+tree hugger * բնապահպան
+incessantly * անդադար
+to spout out * մեծ֊մեծ խոսել
+to spout out * դատարկ խոսել
+to bother * ժամանակ ծախսել
+to bother * ջանք թափել
+insane * անմեղսունակ
+insane * խելագար
+bonker * գիժ
+to wheel out * անդրադառնալ
+rant * կատաղի վեճ
+brigade * բրիգադ
+brigade * խումբ
+durable * ամուր
+durable * մնայուն
+durable * կայուն
+substance * նյութ
+substance * էություն
+substance * հիմք
+poisonous * թունավոր
+mercury * սնդիկ
+blind * կույր
+blind * անխոհեմ
+to refine * զտել
+to refine * կատարելագործել
+biodegradable * քայքայվող
+bin * աղբարկղ
+unsightly * անհեթեթ
+unsightly * տգեղ
+unsightly * տհաճ
+pollutant * աղտոտող
+seagull * ճայ
+pride * հպարտություն
+apocryphal * անվավեր
+apocryphal * ոչ ստույգ
+venom * թույն
+venom * չարություն
+venom * մաղձ
+anti-infammatory * հակաբորբոքային
+nasty * զզվելի
+to seize * զավթել
+to seize * գրավել
+cautious * շրջահայաց
+severity * խստություն
+penalty * պատիժ
+penalty * տուգանք
+murder * մարդասպանություն
+murderer * մարդասպանություն
+life sentence * ցմահ բանտարկություն
+disproportionate * անհամաչափ
+to reinstate * վերականգնել
+fierce * կոպիտ
+fierce * դաժան
+fierce * կատաղի
+to mend * ուղղել
+to mend * շտկել
+to mend * նորոգել
+to sway * տիրել
+to sway * իշխել
+to sway * պտտվել
+outcry * վրդովմունք
+outcry * բացականչություն
+judicial system * դատական համակարգ
+pendulum * մանյակ
+pendulum * անկայուն մարդ
+aftermath * հետևանք
+revenge * վրեժ
+revenge * ռեվանշ
+to revenge * վրեժ լուծել
+to flourish * ծաղկել
+to flourish * բարգավաճել
+depiction * պատկերազարդում
+resemblance * նմանություն
+stately * շքեղ
+stately * փառահեղ
+forebear * նախահայր
+forebear * նախնի
+to emanate * արտանետել
+to emanate * բխել
+to emanate * ծագել
+lightness * թեթևություն
+lightness * լուսավորություն
+through rose-tinted spectacles * վարդագույն ակնոցներով
+mist * մառախուղ
+mist * մշուշ
+optical * տեսողական
+irreverent * անհարգալից
+palatable * ախորժալի
+palatable * համեղ
+rebellion * ապստամբություն
+rebellion * խռովություն
+bizarre * արտառոց
+bizarre * տարօրինակ
+metamorphose * փոխակերպում
+metamorphose * կերպարանափոխում
+despairing * հուսահատեցնող
+stunning * շշմեցնող
+start * ցնցող
+insulation * մեկուսացում
+insulation * անջատում
+interlocutor * զրուցակից
