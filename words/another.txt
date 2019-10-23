@@ -954,3 +954,32 @@ vapour * գոլորշի
 vapour * շոգի
 thunder * ամպրոպ
 thunder * որոտ
+conversation * խոսակցություն
+to be * լինել
+to come * գալ
+to fly * թռչել
+to forgive * ներել
+to give * տալ
+to go * գնալ
+to grow * աճե
+to hear * լսել
+to know * իմանալ
+to lose * կորցնել
+to win * շահել
+to wake * արթնանալ
+to write * գրել
+to put * դնել
+to read * կարդալ
+to ride * քշել
+to rise * բարձրանալ
+to run * վազել
+to seek * փնտրել
+to sell * վաճառել
+to set * տեղադրել
+to set * հիմնել
+to speak * խոսել
+to stand * կանգնել
+to steal * գողանալ
+to tell * ասել
+to become * դառնալ
+to hide * թաքցնել

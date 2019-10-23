@@ -10,7 +10,7 @@ to be on vacation * լինել արձակուրդում
 vocation * մասնագիտություն
 vocation * կոչում
 to paint * նկարել
-what is it like? * ինչպիսի՞նն է
+what is it like * ինչպիսինն է դա
 by the way * իմիջայլոց
 rest of the * մնացած մասը
 rest * հանգիստ
@@ -21,7 +21,7 @@ physical education * ֆիզիկական կրթություն
 chemistry * քիմիա
 see you later * հետո կտեսնվենք
 talk to you later * հետո կխոսենք
-what is up? * ի՞նչ կա
+what is up * ինչ կա
 pretty * բավականին
 pretty * լավիկ
 trendy * մոդայիկ
@@ -1110,8 +1110,9 @@ to explore * ուսումնասիրել
 attraction * գրավչություն
 altitude * բարձրություն
 to out late * ուշանալ
-exhibit * ցուցադրություն
+exhibittion * ցուցադրություն
 exhibit * ցուցանմուշ
+to exhibit * ցուցադրել
 craft * արհեստ
 craft * ճարպկություն
 craft * խորամանկություն
