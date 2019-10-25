@@ -819,7 +819,7 @@ lettuce * հազար
 tomato * լոլիկ
 onion * սոխ
 potato * կարտոֆիլ
-Other foods * 
+Other foods * այլ ուտելիքներ
 jam * ջեմ
 jelly * դոնդող
 pickle * թթու վարունգ

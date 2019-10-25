@@ -254,7 +254,7 @@ to receive a compliment * ստանալ հաճոյախոսություն
 to return a compliment * վերադարձնել հաճոյախոսություն
 to give a compliment * անել հաճոյախոսություն
 to make a compliment * անել հաճոյախոսություն
-to pay a compliment *
+to pay a compliment * հաճոյախոսություն անել
 cafeteria * ճաշարան
 influence * ներգործություն
 to cheat * խաբել

@@ -432,7 +432,7 @@ normally * սովորաբար
 normally * որպես կանոն
 mostly * հիմնականում
 mostly * մեծ մասամբ
-mainly * 
+mainly * հիմնականում
 comperatively * համեմատաբար
 relatively * համեմատաբար
 relatively * հարաբերականորեն
