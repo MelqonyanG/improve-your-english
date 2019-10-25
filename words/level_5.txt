@@ -719,7 +719,7 @@ powder * փոշի
 powder * դիմափոշի
 ache * ցավ
 pain * ցավ
-fever * տեդ
+fever * տենդ
 chemist * քիմիկոս
 to synthesis * սինթեզել
 ingredient * բաղադրիչ

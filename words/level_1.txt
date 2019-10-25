@@ -411,14 +411,14 @@ taxi * տաքսի
 work * աշխատանք
 Color * գույն
 black * սև
-dark blue * 
-light blue * 
-dark brown * 
-light brown * 
-dark gray * 
-light gray * 
-dark green * 
-light green * 
+dark blue * մուգ կապույտ
+light blue * բաց կապույտ
+dark brown * մուգ շականագագույն
+light brown * բաց շականագագույն
+dark gray * մուգ մոխրագույն
+light gray * բաց մոխրագույն
+dark green * մուգ կանաչ
+light green * բաց կանաչ
 orange * նարնջագույն
 orange * նարինջ
 pink * վարդագույն
