@@ -179,7 +179,7 @@ export default class Content extends React.Component{
                 {
                     loading? <CircularProgress style={{marginTop: "10%", marginLeft: "50%"}} color="secondary"/> : (
                         mode === 'show' ? <Show words={words} direction={direction} correct={correct} wrong={wrong}/> : 
-                            <Practice words={words} direction={direction} addWord={this.addWord}/>
+                            <Practice words={words} direction={direction} addWord={this.addWord} order={order}/>
                     )
                 }
             </div>

@@ -55,6 +55,19 @@ class Practice extends React.Component{
     }
   }
 
+  UNSAFE_componentWillReceiveProps(nextProps){
+    if(this.props.direction !== nextProps.direction || this.props.order !== nextProps.order){     
+      this.setState({
+        index: 0,
+        answer: "",
+        rightAnswer: nextProps.words[0][1].split(" | "),
+        answered: [],
+        helperText: "",
+        editIndex: false
+      })
+    }   
+}
+
   handleChange = event => {      
     if (event.key === 'Enter'){ return; }
     document.getElementById("answer").style.color = 'black'; 
