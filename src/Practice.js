@@ -8,6 +8,16 @@ import SaveIcon from '@material-ui/icons/Save';
 import TextField from '@material-ui/core/TextField';import Grid from '@material-ui/core/Grid';
 import Button from '@material-ui/core/Button';
 
+function deletePunctuations(arr){
+  const result = [];
+  for (let i=0; i<arr.length; i+=1){
+    const punctuationless = arr[i].replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g,"");
+    const finalString = punctuationless.replace(/\s{2,}/g," ");
+    result.push(finalString.toLowerCase())
+    }
+  return result;
+}
+
 const CssTextField = withStyles({
   root: {
     '& label.Mui-focused': {
@@ -48,7 +58,7 @@ class Practice extends React.Component{
     this.state = {
       index: 0,
       answer: "",
-      rightAnswer: props.words[0][1].split(" | "),
+      rightAnswer: deletePunctuations(props.words[0][1].split(" | ")),
       answered: [],
       helperText: "",
       editIndex: false
@@ -60,7 +70,7 @@ class Practice extends React.Component{
       this.setState({
         index: 0,
         answer: "",
-        rightAnswer: nextProps.words[0][1].split(" | "),
+        rightAnswer: deletePunctuations(nextProps.words[0][1].split(" | ")),
         answered: [],
         helperText: "",
         editIndex: false
@@ -90,19 +100,21 @@ class Practice extends React.Component{
     const {words} = this.props;
     const new_index = parseInt(document.getElementById("newIndex").value, 10) - 1;
     if (new_index > words.length) return;
-    this.setState({editIndex: false, index: new_index, answer: "", answered: [], rightAnswer: words[new_index][1].split(" | ")})
+    this.setState({editIndex: false, index: new_index, answer: "", answered: [], rightAnswer: deletePunctuations(words[new_index][1].split(" | "))})
   }
 
   handleKeyPress = event => {   
     if (event.key === "Enter"){
-      const {rightAnswer, answer, answered, index} = this.state;
+      const {rightAnswer, answered, index} = this.state;
+      let {answer} = this.state;
       const {words, addWord} = this.props;
       const  word = words[index][0];
+      answer = deletePunctuations([answer])[0];
       if(rightAnswer.includes(answer) && !answered.includes(answer)){
         answered.push(answer);
         if(rightAnswer.length <= answered.length){
           const new_index = index < words.length - 1 ? index+1 : 0;
-          this.setState({index: new_index, answer: "", answered: [], rightAnswer: words[new_index][1].split(" | ")});
+          this.setState({index: new_index, answer: "", answered: [], rightAnswer: deletePunctuations(words[new_index][1].split(" | "))});
           addWord(word, true)
         }else{
           this.setState({answered, answer: ""})
