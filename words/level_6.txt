@@ -305,7 +305,7 @@ separately * առանձին
 greed * ագահություն
 commonplace * սովորական
 sharply * կտրուկ
-i don't care * ինձ համար միևնույն է
+i do not care * ինձ համար միևնույն է
 disgraceful * խայտառակ
 disgraceful * ամոթալի
 acquisition * ձեռք բերում

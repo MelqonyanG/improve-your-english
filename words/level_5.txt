@@ -150,7 +150,7 @@ toward * դեպի
 throughout * ամբողջ ընթացքում
 to burst into laughter * ծիծաղով պոռթկել
 to run out * սպառվել
-if it weren't for her * եթե նա չլիներ
+if it were not for her * եթե նա չլիներ
 to express * արտահայտել
 faculty * ֆակուլտետ
 exception * բացառություն
@@ -183,7 +183,7 @@ in the broadest sense *  լայն իմաստով
 anecdote * պատմություն
 anecdote * միջադեպ
 contrast * հակադրություն
-it's rain cats and dogs * ուժեղ անձրև է գալիս
+it is rain cats and dogs * ուժեղ անձրև է գալիս
 long-established * երկար պատմություն ունեցող
 recently developed * վերջերս զարգացած
 building * շինություն
