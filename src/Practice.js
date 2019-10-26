@@ -11,7 +11,7 @@ import Button from '@material-ui/core/Button';
 function deletePunctuations(arr){
   const result = [];
   for (let i=0; i<arr.length; i+=1){
-    const punctuationless = arr[i].replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g,"");
+    const punctuationless = arr[i].replace(/[.,/#!$%^&*;:{}=\-_`~()]/g,"");
     const finalString = punctuationless.replace(/\s{2,}/g," ");
     result.push(finalString.toLowerCase())
     }
@@ -65,6 +65,23 @@ class Practice extends React.Component{
     }
   }
 
+  keydownHandler = (e) => {
+    if(e.ctrlKey){
+      this.hint();
+    }
+  }
+  componentDidMount(){
+    document.addEventListener('keydown',this.keydownHandler);
+  }
+  componentWillUnmount(){
+    document.removeEventListener('keydown',this.keydownHandler);
+  }
+
+  handleKeyPress = (event) => {
+    console.log('ooooo');
+    
+  }
+
   UNSAFE_componentWillReceiveProps(nextProps){
     if(this.props.direction !== nextProps.direction || this.props.order !== nextProps.order){     
       this.setState({
@@ -86,6 +103,7 @@ class Practice extends React.Component{
 
   hint = () => {
     const {rightAnswer, answered} = this.state;
+    document.getElementById("answer").style.color = 'black'; 
     let answer = "";
     for (let i=0; i<rightAnswer.length; i+=1){
       if(!answered.includes(rightAnswer[i])){
@@ -112,6 +130,7 @@ class Practice extends React.Component{
       answer = deletePunctuations([answer])[0];
       if(rightAnswer.includes(answer) && !answered.includes(answer)){
         answered.push(answer);
+        document.getElementById("answer").style.color = 'black'; 
         if(rightAnswer.length <= answered.length){
           const new_index = index < words.length - 1 ? index+1 : 0;
           this.setState({index: new_index, answer: "", answered: [], rightAnswer: deletePunctuations(words[new_index][1].split(" | "))});
