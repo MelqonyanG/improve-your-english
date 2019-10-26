@@ -199,9 +199,9 @@ Good afternoon. * բարի օր
 Good evening. * բարի երեկո
 How are you? * ինչպե՞ս ես։
 Great! How about you? * Լավ եմ։ Իսկ դո՞ւ։
-I'm just fine. * Ես լավ եմ։
-I'm fine. * Ես լավ եմ։
-I'm OK. * Ես լավ եմ։
+I am just fine. * Ես լավ եմ։
+I am fine. * Ես լավ եմ։
+I am OK. * Ես լավ եմ։
 Not bad. * Վատ չեմ։
 to say good-bye * ասել հաջողություն
 Bye. * հաջողություն
@@ -213,21 +213,21 @@ Have a nice day. * Հաճելի օր։
 Have a good evening. * Հաճելի երեկո։
 Thanks. You, too. * Շնորհակալություն։ Դու էլ։
 Good night. * Բարի գիշեր։
-It's nice to meet you. * Ուրած եմ Ձեզ հատ ծանոթանալու համար։
+It is nice to meet you. * Ուրած եմ Ձեզ հատ ծանոթանալու համար։
 Nice to meet you, too. * Ուրած եմ Ձեզ հետ ծանոթանալու համար։
 Checking and confirming information * Տեղեկության ստուգում և հաստատում
-What's your name again? * Ի՞նչ էր Ձեր անունը։
-Yes, that's right. * Այո, դա ճիշտ է։
+What is your name again? * Ի՞նչ էր Ձեր անունը։
+Yes, that is right. * Այո, դա ճիշտ է։
 to get attention * ուշադրություն դարձնել
 Excuse me. * կներեք։
 to thank * շնորհակալություն հայտնել
 Thank you. * շնորհակալություն
 Thanks. * շնորհակալություն
-You're welcome. * Խնդրեմ
+You are welcome. * Խնդրեմ
 to express surprise * արտահայտել զարմանք
 Oh! * օհ
 to apologize * ներեղություն խնդրել
-I'm sorry. * Կներեք։
+I am sorry. * Կներեք։
 to give an opinion * կարծիք հայտնել
 to think * մտածել
 expression * արտահայտություն
@@ -289,7 +289,7 @@ in front of * դիմաց
 next to * կողքին
 on * վրա 
 vocabulary * բառապաշար
-I don't know. * Ես չգիտեմ
+I do not know. * Ես չգիտեմ
 Is this your? * սա քո՞նն է
 Thank you! * Շնորհակալություն
 No problem. * Խնդիր չկա
@@ -356,15 +356,15 @@ but * բայց
 so * այսպիսով
 so * այսպես
 Where are you from? * Որտեղի՞ց ես։
-I'm from Armenia. * Ես Հայաստանից եմ։
-What's Armenia like? * Ինչպիսի՞ն է Հայաստանը։
+I am from Armenia. * Ես Հայաստանից եմ։
+What is Armenia like? * Ինչպիսի՞ն է Հայաստանը։
 Are you Japanese? * Դու ճապոնացի՞ ես։
 Is your first language English? * Անգլերենը Ձեր առաջի՞ն լեզուն է։
-Who's that? * Ո՞վ է նա։
-What's his name? * Ի՞նչ է նրա անունը։
+Who is that? * Ո՞վ է նա։
+What is his name? * Ի՞նչ է նրա անունը։
 How old is he? * Քանի՞ տարեկան է նա։
-He's twenty years old. * Նա քսան տարեկան է։
-What's he like? * Ինչպիսի՞ն է նա։
+He is twenty years old. * Նա քսան տարեկան է։
+What is he like? * Ինչպիսի՞ն է նա։
 By the way * ի միջիայլոց
 to introduce * ներկայացնել
 to introduce * ծանոթացնել
@@ -449,15 +449,15 @@ at home * տանը
 but * բայց 
 to talk about preferences * նախընտրությունների մասին խոսել
 What are your favorite colors? * Որո՞նք են քո նախընտրելի գույները։
-It's snowing * Ձնուն է գալիս
-It's raining * անձրև է գալիս
-It's cloudy * ամպոտ է
-It's cold * ցուրտ է
-It's hot * շոգ է
-It's sunny * արևոտ է
+It is snowing * Ձնուն է գալիս
+It is raining * անձրև է գալիս
+It is cloudy * ամպոտ է
+It is cold * ցուրտ է
+It is hot * շոգ է
+It is sunny * արևոտ է
 to make a contrast * հակադրել
 to ask about a problem * խնդրի մասին հարցնել
-What's the matter? * Խնդիրն ինչո՞ւմն է։
+What is the matter? * Խնդիրն ինչո՞ւմն է։
 to make a suggestion * առաջարկ անել
 Meal * երակուր
 breakfast * նախաճաշ
@@ -522,8 +522,8 @@ What do you do? * Ինչո՞վ ես զբաղվում։
 to talk on the phone * հեռախոսով խոսել
 to check information * ստուգել տեղեկություն
 Right? * Իսկապե՞ս։
-I'm really sorry. * Ես իսկապես ցավում եմ։
-That's OK. * Դա նորմալ է։
+I am really sorry. * Ես իսկապես ցավում եմ։
+That is OK. * Դա նորմալ է։
 to give a reason * պատճառաբանել
 to express enjoyment in food * արտահայտել ուտելիքից հաճույք
 Transportation * փոխադրում
@@ -607,7 +607,7 @@ on Sundays * կիրակի օրերին
 with my parents * իմ ծնողների հետ
 to express sympathy * ցուցադրել համակրանք
 to express sympathy * ցուցադրել կարեկցանք
-That's too bad. * դա շատ վատ է։
+That is too bad. * դա շատ վատ է։
 Parts of house * տան մասեր
 bathroom * լոգարան
 bedroom * ննջասենյակ
@@ -667,8 +667,8 @@ just * պարզապես
 just one room * ընդամենը մեկ սենյակ
 next * հաջորդ
 next weekend * հաջորդ ոչ աշխատանքային օրեր
-What's the apartment like? * Ինչպիսի՞ն է բնակարանը։
-It's beautiful. * Դա գեղեցիկ է։
+What is the apartment like? * Ինչպիսի՞ն է բնակարանը։
+It is beautiful. * Դա գեղեցիկ է։
 approval * հավանություն
 approval * հաստատում
 That sounds nice. * Դա գեղեցիկ է հնչում։
@@ -736,7 +736,7 @@ to exchang information about work * փոխանակվել աշխատանքի մա
 Where do you work? * Որտե՞ղ ես դու աշխատում։
 I work in a company * Ես աշխատում եմ ընկերությունում
 What do you do there? * Ի՞նչ ես դու անում այնտեղ
-I'm a programmer * Ես ծրագրավորող եմ
+I am a programmer * Ես ծրագրավորող եմ
 When do you start work? * Ե՞րբ ես դու սկսում աշխատանքդ։
 When do you finish work? * Ե՞րբ ես դու ավարտում աշխատանքդ՞
 I start work at 10AM * Ես սկսում եմ աշխատանքս 10ին։
@@ -755,8 +755,8 @@ How are things? * Ինչպե՞ս են գործերդ։
 Not bad. * Վատ չեն։
 actually * իրականում
 to express interest * ցուցադրել հետաքրքրություն
-That's funny. * ծիծաղելի է
-That's interesting. * հետաքրքիր է
+That is funny. * ծիծաղելի է
+That is interesting. * հետաքրքիր է
 uncertainty * անորոշություն
 snack * թեթև սնունդ
 Dairy * կաթնամթերք
@@ -914,8 +914,8 @@ What sports do you watch? * Ի՞նչ սպորտ ես դու դիտում
 I love tennis. * Ես սիրում եմ թենիս։
 I play tennis. * Ես խաղում եմ թենիս։
 I watch tennis. * Ես դիտում եմ թենիս։
-I don't like golf. * Ես չեմ սիրում գոլֆ։
-I don't like play golf. * Ես չեմ սիրում խաղալ գոլֆ։
+I do not like golf. * Ես չեմ սիրում գոլֆ։
+I do not like play golf. * Ես չեմ սիրում խաղալ գոլֆ։
 I really love tennis. * Ես իսկապես սիրում եմ թենիս։
 Who do you play tennis with? * Ո՞ւմ հետ ես դու խաղում թենիս։
 Who do you watch tennis with? * Ո՞ւմ հետ ես դու դիտում թենիս։
@@ -929,7 +929,7 @@ We play in the park at the beach. * Մենք խաղում ենք լողափի մ
 What can I do? * Ի՞նչ կարող եմ ես անել։
 Can you sing? * Դու կարո՞ղ ես երգել։
 Yes, they can sing very well. * Այո, նրանք կարող են երգել շատ լավ։
-No, they can't sing at all. * Ոչ, նրանք ընդհանրապես չեն կարող երգել։
+No, they can not sing at all. * Ոչ, նրանք ընդհանրապես չեն կարող երգել։
 to give a compliment * հաճոյախոսություն անել
 Month * ամիս
 January * հունվար
@@ -992,9 +992,9 @@ What are your plans? * Ի՞նչ պլաններ ունես։
 What are you going to do? * Ի՞նչ ես պատրաստվում անել։
 Where are you going to go? * Ո՞ւր եք պատրաստվում գնալ։
 How are you going to get there? * Ինչպե՞ս եք այնտեղ գնալու։
-Who's going to be there? * Ովքե՞ր են այնտեղ լինելու։
+Who is going to be there? * Ովքե՞ր են այնտեղ լինելու։
 When is your birthday? * Ե՞րբ է քո ծննդյան օրը։
-It's September 5th. * Սեպտեմբերի 5ին։
+It is September 5th. * Սեպտեմբերի 5ին։
 to wish someone a good holiday * ինչ֊որ մեկին լավ արձակուրդներ ցանկանալ
 Happy birthday! * ծնունդդ շնորհավոր
 Have a good weekends! * ուրախ հանգստյան օրեր
@@ -1095,17 +1095,17 @@ How are you? * Ինչպե՞ս ես։
 How do you feel today? * Ինչպե՞ս ես քեզ այսօր զգում։
 Not so good. * Ոչ այնքան լավ։
 What the matter? * Ինչո՞ւմն է հարցը։
-What's wrong? * Ի՞նչ է պատահել։
+What is wrong? * Ի՞նչ է պատահել։
 I feel sick. * Ես ինձ հիվանդ եմ զգում։
-I don't feel well. * Ես լավ չեմ զգում։
-That's too bad. * Դա շատ վատ է։
-I'm sorry to hear that. * Ես ցավում եմ լսել դա։
-That's good. * Դա լավ է։
-I'm glad to hear that. * Ես ուրախ եմ դա լսել։
+I do not feel well. * Ես լավ չեմ զգում։
+That is too bad. * Դա շատ վատ է։
+I am sorry to hear that. * Ես ցավում եմ լսել դա։
+That is good. * Դա լավ է։
+I am glad to hear that. * Ես ուրախ եմ դա լսել։
 Maybe I can help. * Միգուցե ես կարող եմ օգնել։
 I have an idea. * Ես գաղափար ունեմ։
 to agree with a suggestion * համաձայնվել առաջարկի հետ
-That's a great idea! * Դա լավ գաղափար է։
+That is a great idea! * Դա լավ գաղափար է։
 to ask for more information * ավելի շատ տեղեկություն հարցնել
 Anything else? * Որևէ այլ բա՞ն։
 avenue * պողոտա
@@ -1148,12 +1148,12 @@ on the corner of * անկյունում
 on the left * ձախ կողմում
 on the right * աջ կողմում
 to ask for locations * հարցնել տեղանքի մասին
-I don't think so. * Ես այդպես չեմ մտածում։
+I do not think so. * Ես այդպես չեմ մտածում։
 Is it far from here? * Դա այստեղից հեռո՞ւ է։
-It's right behind you. * Դա հենց քո ետևում է։
+It is right behind you. * Դա հենց քո ետևում է։
 to ask for directions * ուղղություն հարցնել
-It's on the left․ * Դա ձախ կողմում է։
-You can't miss it. * Դու չես կարող բաց թողնել դա։
+It is on the left․ * Դա ձախ կողմում է։
+You can not miss it. * Դու չես կարող բաց թողնել դա։
 Excuse me. * Կներեք։
 to ask for help * օգնություն խնդրել
 Can you help me? * Կարո՞ղ եք ինձ օգնել։

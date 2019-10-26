@@ -40,7 +40,7 @@ calm down * հանգստացիր
 to bother * անհանգստացնել
 cookie * թխվածք
 to chat * խոսել
-I don't mind * ես դեմ չեմ
+I do not mind * ես դեմ չեմ
 for no reason * առանց պատճառի
 salesclerk * վաճառող
 direct * ուղիղ
@@ -119,7 +119,7 @@ enironmentalist * բնապահպան
 to make a living * ապրուստ հայթհայթել
 to learn * անգիր սովորել
 endless * անվերջ
-can't stand * տանել չկարողանալ
+can not stand * տանել չկարողանալ
 firemen * հրշեջ
 security * անվտանգություն
 stability * կայունություն
@@ -851,7 +851,7 @@ to look forward to * անհամբերությամբ սպասել
 to put up with * հանդուրժել
 to loot at * նայել ինչ֊որ բանի
 I have two left feet. * Ես չեմ կարող պարել։
-I can't carry a tune. * Ես բաղաձայն եմ։
+I can not carry a tune. * Ես բաղաձայն եմ։
 to upgrade * թարմացնել
 deeply * խորապես
 endlessly * անվերջանալի
