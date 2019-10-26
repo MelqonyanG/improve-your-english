@@ -594,7 +594,6 @@ far from here * այստեղից հեռու
 far * հեռու
 here * այստեղ
 near our house * մեր տան մոտ
-Response * պատասխան
 Sure * իհարկե
 Yeah * այո
 sometimes * երբեմն
