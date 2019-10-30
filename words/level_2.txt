@@ -130,7 +130,7 @@ weekends * շաբաթվա ոչ աշխատանքային օրեր
 night * գիշեր
 midnight * կեսգիշեր
 noon * կեսօր
-evening * երեկ
+evening * երեկո
 half past eleven * տասնմեկն անց կես
 late * ուշ
 before * նախքան
