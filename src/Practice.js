@@ -207,7 +207,7 @@ class Practice extends React.Component{
                       <Grid item xs={6}>
                         {
                           hint ? 
-                            <Button size='small' style={{textTransform: 'none'}}>{hint}</Button>:
+                            <Button size='small' style={{textTransform: 'none'}} onClick={()=>{this.setState({hint:null})}}>{hint}</Button>:
                             <Button color="primary" size='small' onClick={this.hint}>Hint</Button>
                         }
                       </Grid>
