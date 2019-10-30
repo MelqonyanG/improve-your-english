@@ -46,10 +46,7 @@ const styles = ({
   },
   textField: {
     width: "50%"
-  },
-  button: {
-    marginLeft: "48%",
-  },
+  }
 });
 
 class Practice extends React.Component{
@@ -61,7 +58,8 @@ class Practice extends React.Component{
       rightAnswer: deletePunctuations(props.words[0][1].split(" | ")),
       answered: [],
       helperText: "",
-      editIndex: false
+      editIndex: false,
+      hint: null
     }
   }
 
@@ -75,11 +73,6 @@ class Practice extends React.Component{
   }
   componentWillUnmount(){
     document.removeEventListener('keydown',this.keydownHandler);
-  }
-
-  handleKeyPress = (event) => {
-    console.log('ooooo');
-    
   }
 
   UNSAFE_componentWillReceiveProps(nextProps){
@@ -102,7 +95,11 @@ class Practice extends React.Component{
   };
 
   hint = () => {
-    const {rightAnswer, answered} = this.state;
+    const {rightAnswer, answered, hint} = this.state;
+    if(hint){
+      this.setState({hint: null});
+      return;
+    }
     document.getElementById("answer").style.color = 'black'; 
     let answer = "";
     for (let i=0; i<rightAnswer.length; i+=1){
@@ -111,7 +108,7 @@ class Practice extends React.Component{
         break;
       }
     }
-    this.setState({answer});
+    this.setState({hint: answer})
   }
 
   changeIndex = () =>{
@@ -138,6 +135,7 @@ class Practice extends React.Component{
         }else{
           this.setState({answered, answer: ""})
         }
+        this.setState({hint: null});
       }else if(rightAnswer.includes(answer) && answered.includes(answer)){
         document.getElementById("answer").style.color = 'orange'; 
       }else{
@@ -153,7 +151,7 @@ class Practice extends React.Component{
 
   render(){
     const {classes, words, direction} = this.props;
-    const {index, answer, rightAnswer, answered, helperText, editIndex} = this.state;  
+    const {index, answer, rightAnswer, answered, helperText, editIndex, hint} = this.state;  
     
     return (
       <div>
@@ -188,23 +186,34 @@ class Practice extends React.Component{
                       {`| ${answered.join(" | ")}`}
                     </Typography>
                   </Grid>
+                  <Grid item xs={12}>
+                    <CssTextField
+                      id={"answer"}
+                      label={`${direction? "English" : "Armenian"} ${answered.length+1} - ${rightAnswer.length}`}
+                      className={classes.textField}
+                      value={answer}
+                      onChange={this.handleChange}
+                      onKeyPress={this.handleKeyPress}
+                      margin="normal"
+                      variant="outlined"
+                      autoComplete="off"
+                      autoFocus={true}
+                      helperText={helperText}
+                    />
+                  </Grid>
+                  <Grid item xs={12}>
+                    <Grid container spacing={2}>
+                      <Grid item xs={6} />
+                      <Grid item xs={6}>
+                        {
+                          hint ? 
+                            <Button size='small' style={{textTransform: 'none'}}>{hint}</Button>:
+                            <Button color="primary" size='small' onClick={this.hint}>Hint</Button>
+                        }
+                      </Grid>
+                    </Grid>
+                  </Grid>
                 </Grid>
-                <CssTextField
-                        id={"answer"}
-                        label={`${direction? "English" : "Armenian"} ${answered.length+1} - ${rightAnswer.length}`}
-                        className={classes.textField}
-                        value={answer}
-                        onChange={this.handleChange}
-                        onKeyPress={this.handleKeyPress}
-                        margin="normal"
-                        variant="outlined"
-                        autoComplete="off"
-                        autoFocus={true}
-                        helperText={helperText}
-                      /><br/>
-                <Button color="primary" size="small" className={classes.button} onClick={this.hint}>
-                  Hint
-                </Button>
               </div>
           }
         </Paper>

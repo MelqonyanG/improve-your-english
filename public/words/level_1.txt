@@ -966,7 +966,6 @@ party * խնջույք
 present * նվեր
 present * ներկա
 anything * ամեն ինչ
-Date * ամսաթիվ
 embarrassing * ամոթալի 
 special * հատուկ
 to ask * խնդրել
@@ -1209,7 +1208,6 @@ elementary school * տարրական դպրոց
 junior high school * կրտսեր ավագ դպրոց
 high school * ապագ դպրոց
 college * քոլեջ
-Job * աշխատանք
 actor * դերասան
 actress * դերասանուհի
 designer * դիզայներ
