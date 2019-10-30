@@ -52,10 +52,11 @@ const styles = ({
 class Practice extends React.Component{
   constructor(props){
     super(props);
+    const {words} = props;
     this.state = {
       index: 0,
       answer: "",
-      rightAnswer: deletePunctuations(props.words[0][1].split(" | ")),
+      rightAnswer: words.length > 0 ? deletePunctuations(props.words[0][1].split(" | ")) : "",
       answered: [],
       helperText: "",
       editIndex: false,
@@ -131,7 +132,7 @@ class Practice extends React.Component{
         if(rightAnswer.length <= answered.length){
           const new_index = index < words.length - 1 ? index+1 : 0;
           this.setState({index: new_index, answer: "", answered: [], rightAnswer: deletePunctuations(words[new_index][1].split(" | "))});
-          addWord(word, true)
+          // addWord(word, true)
         }else{
           this.setState({answered, answer: ""})
         }
