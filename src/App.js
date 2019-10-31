@@ -6,6 +6,7 @@ import Tab from '@material-ui/core/Tab';
 import Typography from '@material-ui/core/Typography';
 import Box from '@material-ui/core/Box';
 import Actions from './Actions';
+import Tips from './Tips';
 
 const theme = createMuiTheme({
   typography: {
@@ -81,6 +82,7 @@ export default function AppBar() {
 
   return (
     <MuiThemeProvider theme={theme}>
+      <Tips />
       <div className={classes.root}>
         <Tabs
           orientation="vertical"

@@ -1507,7 +1507,7 @@ coast * ափ
 precipitation * տեղումներ
 inches * դույմ
 wildlife * կենդանական աշխարհ
-whal * կետ
+whale * կետ
 seal * փոկ
 penguin * պինգվին
 shain * փայլ
@@ -1623,7 +1623,6 @@ to get a job * աշխատանք ստանալ
 to move a new city * տեղափոխվել նոր քաղաք
 to travel abroad * ճանապարհորդել արտասահմանում
 to fall in love * սիրահարվել
-to get merried * ամուսնանալ
 to have children * երեխաներ ունենալ
 so do you? * դո՞ւ էլ
 how have you been? * ինչե՞ր են եղել քո հետ
