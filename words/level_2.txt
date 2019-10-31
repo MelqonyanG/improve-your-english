@@ -161,7 +161,7 @@ to carry * կրել
 to carry * տանել
 dictionary * բառարան
 hard * դժվար
-to brake the rules * խախտել կանոնները
+to break the rules * խախտել կանոնները
 nice * գեղեցիկ
 nice * սիրալիր
 quiet * հագիստ
@@ -181,7 +181,6 @@ sociologist * սոցիոլոգ
 to behave * վարք դրսևորել
 to behave * պահել
 reason * պատճառ
-software * համակարգչային ծրագրեր
 software application * համակարգչային հավելված
 app * հավելված
 to track * հետևել
@@ -265,7 +264,7 @@ tag * պիտակ
 anyway * ամեն դեպքում
 attractive * գրավիչ
 pants * տաբատ
-over there * այնտեղ
+over there * հենց այնտեղ
 right here * հենց այստեղ
 to buy * գնել
 blouse * բլուզ
