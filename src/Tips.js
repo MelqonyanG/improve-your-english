@@ -41,7 +41,7 @@ function SimpleDialog(props) {
   function handleSubmit(event) {
     event.preventDefault();
     console.log(values);
-    
+    handleClose();
   }
 
   return (
