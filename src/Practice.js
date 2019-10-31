@@ -77,7 +77,7 @@ class Practice extends React.Component{
   }
 
   UNSAFE_componentWillReceiveProps(nextProps){
-    if(this.props.direction !== nextProps.direction || this.props.order !== nextProps.order){     
+    if(this.props.direction !== nextProps.direction || this.props.order !== nextProps.order || this.props.mode !== nextProps.mode){     
       this.setState({
         index: 0,
         answer: "",
