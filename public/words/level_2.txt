@@ -1628,7 +1628,7 @@ major * գլխավոր
 major * հիմնական
 administration * վարչակազմ
 drama * թատերական արվեստ
-drame * դրամա
+drama * դրամա
 no kidding * առանց կատակի
 to act * գործել
 to act * խաղալ
@@ -1711,7 +1711,7 @@ shame * ամոթ
 shame on you * ամոթ քեզ
 please * խնդրեմ
 how about you? * իսկ դու ի՞նչ կասես քո մասին
-where are you? * դու որտեղի՞ց ես
+where are you from? * դու որտեղի՞ց ես
 here * այստեղ
 here * ահա
 class * դաս
