@@ -489,8 +489,8 @@ impatient * անհամբեր
 owner * սեփականատեր
 to miss * բաց թողնել
 to miss * կարոտել
-rural * քաղաքային
-urban * գյուղական
+rural * գյուղական
+urban * քաղաքային
 area * տարածք
 to occupy * զբաղեցնել
 occupation * զբաղմունք
@@ -568,7 +568,7 @@ weight training * ծանրության բարձրացում
 to weight * կշռել
 to weight * ծանրություն ունենալ
 to lift * բարձրացնել
-to do weight lifting * ծանրություն բարձրացնել
+to do weight lifting * կատարել ծանրության բարձրացում
 bike riding * հեծանիվի վարում
 martial art * մարտարվեստ
 pilates * աերոբիկա
@@ -875,9 +875,9 @@ young * երիտասարդ
 middle-aged * միջին տարիքի
 elderly * տարեց
 to look * տեսք ունենալ
-handsome * գեղեցիկ տղամարդ
-handsome * վայելչակազմ տղամարդ
-pretty * գեղեցիկ կին
+handsome man * գեղեցիկ տղամարդ
+handsome man * վայելչակազմ տղամարդ
+pretty woman * գեղեցիկ կին
 good-looking * լավ տեսք
 height * բարձրություն
 short * կարճ
@@ -889,15 +889,13 @@ tall * բարձրահասակ
 smart * խելացի
 girlfriend * ընկերուհի
 boyfriend * ընկեր
-how old is she? * նա քանի՞ տարեկան է
+how old is she? * քանի՞ տարեկան է
 to ask * հարցնել
 rude * կոպիտ
 she is in her thirties * նա երեսունմեկից քառասուն տարեկան է
 she is about thirtytwo * նա մոտ երեսուներկու տարեկան է
 eye * աչք
 dark * մութ
-light * լույց
-light * բաց
 annual * տարեկան
 skirt * կիսաշրջազգեստ
 flowy * հոսուն
@@ -1096,10 +1094,10 @@ west * արևմուտք
 north * հյուսիս
 south * հարավ
 surrounded * շրջապատված
-throughout * ամբողջ
+throughout * ամբողջ ընթացքում
 to fall * ընկնել
 level * մակարդակ
-elevaion * բարձրություն
+elevation * բարձրություն
 volcano * հրաբուխ
 pleasant * հաճելի
 mild * մեղմ
@@ -1121,7 +1119,6 @@ landmark * ուղենիշ
 to recommend * խորհուրդ տալ
 humid * խոնավ
 picks * ընտրություններ
-wharf * անիվների վրա
 wharf * նավամատույց
 plant * բույս
 rain forest * անձրևային անտառ
@@ -1471,7 +1468,7 @@ meter * մետր
 kilometer * կիլոմետր
 to exist * գոյություն ունենալ
 hidden * թաքնված
-sunlight *արևի լույս
+sunlight * արևի լույս
 pure * մաքուր
 pure * պարզ
 roar * մռնչյուն
@@ -1689,7 +1686,7 @@ responsibility * պատասխանատվություն
 pursuing * հետապնդում
 to borrow * պարտքով վերցնել
 salary * աշխատավարձ
-pay cat * աշխատավարձի կրճատում
+pay cut * աշխատավարձի կրճատում
 to repeat * կրկնել
 to pronounce * արտաբերել
 to pronounce * արտասանել
