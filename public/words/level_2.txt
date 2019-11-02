@@ -164,7 +164,6 @@ hard * դժվար
 to break the rules * խախտել կանոնները
 nice * գեղեցիկ
 nice * սիրալիր
-quiet * հագիստ
 scheldule * օրվա գրաֆիկ
 bookstore * գրախանութ
 to great * ողջունել
@@ -338,7 +337,6 @@ to flap * տատանվել
 instead of * փոխարեն
 kick * հարված
 to dive * սուզվել
-deep * խոր
 inflatable * փչովի
 chair * աթոռ
 to remind * հիշեցնել
@@ -564,7 +562,7 @@ jogging * թեթև վազք
 walking * քայլք
 weight * ծանրություն
 weight * քաշ
-weight training * ծանրության բարձրացում
+weight lifting * ծանրության բարձրացում
 to weight * կշռել
 to weight * ծանրություն ունենալ
 to lift * բարձրացնել
@@ -750,7 +748,6 @@ cloud * ամպ
 mirror * հայելի
 scary * վախենալու
 scary * սարսափելի
-to arrive * ժամանալի
 to hurry * շտապել
 to wash * լվացնել
 to meet * հանդիպել
@@ -814,7 +811,7 @@ post office * փոստի բաժանմունք
 shopping center * առևտրի կենտրոն
 in * մեջ
 on * վրա
-next ot * կողքին
+next to * կողքին
 close to * մոտ
 across from * հանդիպակաց
 opposite * հանդիպակաց
@@ -921,7 +918,7 @@ flattering * հաճոյախոսություն
 flattering * քծնանք
 several * մի քանի
 skinny pants * նեղ տաբատ
-baggy sweater * լայն սվիտեր
+baggy sweater * բամբակյա սվիտեր
 to cook * եփել
 to talk * խոսել
 to talk * զրուցել
@@ -1214,7 +1211,8 @@ herbal * բուսական
 upset stomach * ստամոքսի խանգարում
 to avoid * խուսափել
 insect bite * միջատի խայթոց
-to bite * խայթոց
+bite * խայթոց
+to bite * խայթել
 to apply * կիրառել
 to apply * դիմել
 anti-itch * հակաքորային
@@ -1230,7 +1228,7 @@ benefit * օգուտ
 to consider * քննարկել
 to reduce * նվազեցնել
 ability * կարողություն
-ablilty * ընդունակություն
+ability * ընդունակություն
 disease * հիվանդություն
 enjoyment * վայելք
 enjoyment * հաճույք
@@ -1329,7 +1327,7 @@ mint * անանուխ
 chip * կտոր
 chip * բեկոր
 special * առանձնահատուկ
-shrimp * ծավախեցգետին
+shrimp * ծովախեցգետին
 crab * խեցգետին
 fish * ձուկ
 curry * կարի
@@ -1412,7 +1410,7 @@ still * ամեն դեպքում
 almond * նուշ
 milkshake * կաթնային կոկտեյլ
 to step away * հետ քաշվել
-green beans * կանաչ լոբի
+green bean * կանաչ լոբի
 cookie * բլիթ
 cheese * պանիր
 delivery * առաքում
@@ -1602,7 +1600,8 @@ turn * պտույտ
 to turn * պտտվել
 to reschedule * վերապլանավորել
 to reschedule * տեղափոխել
-to wish * լվացնել
+to wish * ցանկանալ
+to wish * ուզենալ
 bummer * հիասթափություն
 bummer * ծույլ
 leftover * մնացորդ
@@ -1610,7 +1609,7 @@ leftover * ավելցուկ
 report * զեկույց
 as soon as possible * ինչքան հնարավոր է շուտ
 forecast * կանխատեսում
-life-changing experience * կյանքը փոխող դեպքեր
+life-changing experience * կյանքը փոխող դեպք
 to change school * փոխել դպրոցը
 to move to a new house * տեղափոխվել նոր տուն
 to turn eighteen * չափահաս դառնալ
