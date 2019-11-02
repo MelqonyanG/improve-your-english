@@ -818,8 +818,8 @@ opposite * հանդիպակաց
 in front of * դիմաց
 in back of * հետևում
 behind * հետևում
-on the corner of home * փողոցի անկյունում
-in the corner of street * տան անկյունում
+on the corner of street * փողոցի անկյունում
+in the corner of home * տան անկյունում
 ATM * բանկոմատ
 department store * հանրախանութ
 department * բաժանմունք
