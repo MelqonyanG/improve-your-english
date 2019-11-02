@@ -164,8 +164,7 @@ hard * դժվար
 to break the rules * խախտել կանոնները
 nice * գեղեցիկ
 nice * սիրալիր
-quiet * հագիստ
-scheldule * օրվա գրաֆիկ
+schedule * օրվա գրաֆիկ
 bookstore * գրախանութ
 to great * ողջունել
 to understand * հասկանալ
@@ -338,7 +337,6 @@ to flap * տատանվել
 instead of * փոխարեն
 kick * հարված
 to dive * սուզվել
-deep * խոր
 inflatable * փչովի
 chair * աթոռ
 to remind * հիշեցնել
@@ -553,7 +551,7 @@ housework * տան կենցաղային աշխատանք
 homework * տնային աշխատանք
 to send * ուղարկել
 to ride * հեծանիվ քշել
-to drive * մեքենա վարել
+to drive a car * մեքենա վարել
 to afford * ֆինանսապես թույլ տալ
 activity * գործունեություն
 soccer * ամերիկյան ֆուտբոլ
@@ -564,7 +562,7 @@ jogging * թեթև վազք
 walking * քայլք
 weight * ծանրություն
 weight * քաշ
-weight training * ծանրության բարձրացում
+weight lifting * ծանրության բարձրացում
 to weight * կշռել
 to weight * ծանրություն ունենալ
 to lift * բարձրացնել
@@ -693,8 +691,8 @@ can * կարողանալ
 at least * գոնե
 to be break * փող չունենալ
 to forget * մոռանալ
-to repire * վերանորոգել
-to repire * ուղղել
+to repair * վերանորոգել
+to repair * ուղղել
 neighbor * հարևան
 neighborhood * թաղամաս
 amazing * հիանալի
@@ -750,7 +748,6 @@ cloud * ամպ
 mirror * հայելի
 scary * վախենալու
 scary * սարսափելի
-to arrive * ժամանալի
 to hurry * շտապել
 to wash * լվացնել
 to meet * հանդիպել
@@ -778,7 +775,7 @@ weather * եղանակ
 terrible * սարսափելի
 definitely * հաստատ
 to make * պատրաստել
-the other day * նացած օրը
+the other day * անցած օրը
 to enjoy * վայելել
 excellent * գերազանց
 lucky * հաջողակ
@@ -800,7 +797,7 @@ clothing store * հագուստի խանութ
 grocery store * մթերային խանութ
 hair salon * վարսավիրանոց
 laundromat * լվացքատուն
-newsstand * փերփերի կրպակ
+newsstand * թերթերի կրպակ
 stadium * ստադիոն
 wi-fi hot spot * վայ֊ֆայի կետ
 spot * բիծ
@@ -814,15 +811,15 @@ post office * փոստի բաժանմունք
 shopping center * առևտրի կենտրոն
 in * մեջ
 on * վրա
-next ot * կողքին
+next to * կողքին
 close to * մոտ
 across from * հանդիպակաց
 opposite * հանդիպակաց
 in front of * դիմաց
 in back of * հետևում
 behind * հետևում
-on the corner of * փողոցի անկյունում
-in the corner of * տան անկյունում
+on the corner of home * փողոցի անկյունում
+in the corner of street * տան անկյունում
 ATM * բանկոմատ
 department store * հանրախանութ
 department * բաժանմունք
@@ -889,7 +886,7 @@ tall * բարձրահասակ
 smart * խելացի
 girlfriend * ընկերուհի
 boyfriend * ընկեր
-how old is she? * քանի՞ տարեկան է
+how old is she? * քանի՞ տարեկան է նա
 to ask * հարցնել
 rude * կոպիտ
 she is in her thirties * նա երեսունմեկից քառասուն տարեկան է
@@ -921,7 +918,7 @@ flattering * հաճոյախոսություն
 flattering * քծնանք
 several * մի քանի
 skinny pants * նեղ տաբատ
-baggy sweater * լայն սվիտեր
+baggy sweater * բամբակյա սվիտեր
 to cook * եփել
 to talk * խոսել
 to talk * զրուցել
@@ -1107,7 +1104,7 @@ to explore * ուսումնասիրել
 attraction * գրավչություն
 altitude * բարձրություն
 to out late * ուշանալ
-exhibittion * ցուցադրություն
+exhibition * ցուցադրություն
 exhibit * ցուցանմուշ
 to exhibit * ցուցադրել
 craft * արհեստ
@@ -1178,7 +1175,7 @@ to heat * տաքացնել
 earache * ականջի ցավ
 sunburn * արևայրուկ
 temperature * ջերմություն
-a can * պահածոյի թիթեղյա տուփ
+can * պահածոյի թիթեղյա տուփ
 to can * պահածո պակել
 bag * տոպրակ
 bag * պարկ
@@ -1214,7 +1211,8 @@ herbal * բուսական
 upset stomach * ստամոքսի խանգարում
 to avoid * խուսափել
 insect bite * միջատի խայթոց
-to bite * խայթոց
+bite * խայթոց
+to bite * խայթել
 to apply * կիրառել
 to apply * դիմել
 anti-itch * հակաքորային
@@ -1230,7 +1228,7 @@ benefit * օգուտ
 to consider * քննարկել
 to reduce * նվազեցնել
 ability * կարողություն
-ablilty * ընդունակություն
+ability * ընդունակություն
 disease * հիվանդություն
 enjoyment * վայելք
 enjoyment * հաճույք
@@ -1278,7 +1276,7 @@ can not stand * տանել չկարողանալ
 modern style * ժամանակակից ոճ
 earl * կոմս
 earl * գրաֆ
-BC before Christ * մինչև Քրիստոսի ծնունդը
+before Christ * մինչև Քրիստոսի ծնունդը
 bit * մի քիչ
 floor * հատակ
 floor * հարկ
@@ -1295,11 +1293,11 @@ rich * կալորիաներով հարուստ
 salty * աղի
 category * կատեգորիա
 grape * խաղող
-mangoe * մագո
+mangoe * մանգո
 strawberry * ելակ
 raspberry * ազնվամորի
 corn * եգիպտացորեն
-peas * ոլոռ
+pea * ոլոռ
 potato * կարտոֆիլ
 grain * հացահատիկ
 bread * հաց
@@ -1329,7 +1327,7 @@ mint * անանուխ
 chip * կտոր
 chip * բեկոր
 special * առանձնահատուկ
-shrimp * ծավախեցգետին
+shrimp * ծովախեցգետին
 crab * խեցգետին
 fish * ձուկ
 curry * կարի
@@ -1350,7 +1348,7 @@ to provide * ապահովել
 custom * սովորույթ
 custom * ավանդույթ
 to vary * տարբերվել
-everybody * յուրաքանչյուր
+everybody * յուրաքանչյուր ոք
 to rely on * կախված լինել
 to rely on * հիմնվել
 to rely on * վստահել
@@ -1379,7 +1377,7 @@ according to * համապատասխան
 difference * տարբերություն
 tipper * թեյավճար թողնող
 millionaire * միլիոնատեր
-probable * հավանաբար
+probable * հավանական
 generous * առատաձեռն
 nursing school * բուժքույրական դպրոց
 fee * վճար
@@ -1406,13 +1404,13 @@ atmosphere * մթնոլորտ
 atmosphere * միջավայր
 wonderful * հրաշալի
 cucumber * վարունգ
-silly * յիմար
+silly * հիմար
 despite * չնայած
 still * ամեն դեպքում
 almond * նուշ
 milkshake * կաթնային կոկտեյլ
 to step away * հետ քաշվել
-green beans * կանաչ լոբի
+green bean * կանաչ լոբի
 cookie * բլիթ
 cheese * պանիր
 delivery * առաքում
@@ -1507,7 +1505,7 @@ wildlife * կենդանական աշխարհ
 whale * կետ
 seal * փոկ
 penguin * պինգվին
-shain * փայլ
+shine * փայլ
 completely * ամբողջությամբ
 to melt * հալվել
 pea * սիսեռ
@@ -1579,7 +1577,7 @@ door * դուռ
 train * գնացք
 below * ներքև
 lamppost * լապտերասյուն
-lamppost * փողոցի լույսեր
+lampposts * փողոցի լույսեր
 to hurt * վնասել
 to hurt * ցավ պատճառել
 case * դեպք
@@ -1602,7 +1600,8 @@ turn * պտույտ
 to turn * պտտվել
 to reschedule * վերապլանավորել
 to reschedule * տեղափոխել
-to wish * լվացնել
+to wish * ցանկանալ
+to wish * ուզենալ
 bummer * հիասթափություն
 bummer * ծույլ
 leftover * մնացորդ
@@ -1610,7 +1609,7 @@ leftover * ավելցուկ
 report * զեկույց
 as soon as possible * ինչքան հնարավոր է շուտ
 forecast * կանխատեսում
-life-changing experience * կյանքը փոխող դեպքեր
+life-changing experience * կյանքը փոխող դեպք
 to change school * փոխել դպրոցը
 to move to a new house * տեղափոխվել նոր տուն
 to turn eighteen * չափահաս դառնալ
@@ -1633,7 +1632,7 @@ no kidding * առանց կատակի
 to act * գործել
 to act * խաղալ
 theater * թատրոն
-a change for the better * փոփոխություններ դեպի լավը
+changes for the better * փոփոխություններ դեպի լավը
 character * բնավորություն
 character * դեր
 fantastic * անիրական
@@ -1728,7 +1727,7 @@ physics * ֆիզիկա
 how is it going? * ինչպե՞ս են գործերդ
 semester * սեմեստր
 to unite * միավորել
-state * միճակ
+state * վիճակ
 how are you? * ինչպե՞ս ես
 answer * պատասխան
 kingdom * թագավորություն
