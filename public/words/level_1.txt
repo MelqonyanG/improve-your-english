@@ -146,8 +146,6 @@ other * այլ
 book * գիրք
 class * դաս
 classmate * դասընկեր 
-female * տղամարդ
-male * կին
 math * մաթեմատիկա
 phone number * հեռախոսի համար
 teacher * ուսուցիչ
