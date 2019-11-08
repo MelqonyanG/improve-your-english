@@ -23,7 +23,7 @@ dot * կետ
 dash * գծիկ
 underscore * ընդգծում
 single female * միայնակ կին
-merried female * ամուսնացած կին
+married female * ամուսնացած կին
 tomorrow * վաղը
 umbrella * անձրևանոց
 cell phone * բջջային հեռախոս
@@ -90,8 +90,9 @@ eighty * ութանասուն
 ninety * ինսուն
 one hundred * հարյուր
 one hundred (and) one * հարյուր մեկ
-one hundred (and) two * հարյուր երեք
-one hundred (and) three * հարյուր չորս
+one hundred (and) two * հարյուր երկու
+one hundred (and) three * հարյուր երեք
+one hundred (and) four * հարյուր չորս
 What is she like? * Ինչպիսի՞ն է նա։
 talkative * շատախոս
 thin * նիհար
