@@ -887,10 +887,13 @@ smart * խելացի
 girlfriend * ընկերուհի
 boyfriend * ընկեր
 how old is she? * քանի՞ տարեկան է նա
+how old is he? * քանի՞ տարեկան է նա
 to ask * հարցնել
 rude * կոպիտ
 she is in her thirties * նա երեսունմեկից քառասուն տարեկան է
+he is in her thirties * նա երեսունմեկից քառասուն տարեկան է
 she is about thirtytwo * նա մոտ երեսուներկու տարեկան է
+he is about thirtytwo * նա մոտ երեսուներկու տարեկան է
 eye * աչք
 dark * մութ
 annual * տարեկան
@@ -932,6 +935,7 @@ suit * կոստյում
 shorts * շորտ
 necktie * վզկապ
 she could not make it * նա չկարողացավ
+he could not make it * նա չկարողացավ
 again * նորից
 theme park * թեմատիկ պարկ
 to visit * այցելել
