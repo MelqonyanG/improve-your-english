@@ -103,21 +103,21 @@ swimsuit * լողազգեստ
 dry * չոր
 mine * իմը
 yours * քոնը
-their * նրանցը
+their * նրանց
+their * իրենց
 cloudy * ամպոտ
 windy * քամոտ
 raincoat * անձրևանոց
 it is two o'clock * ժամը երկուսն է
 it is two-thirty * ժամը երկուսն անց կես է
-it is two-oh-five * ժամը երկուսն անդ հինգ է
-it is five after two * ժամը երկուսն անդ հինգ է
+it is five after two * ժամը երկուսն անց հինգ է
 it is two-forty * ժամը երկուսն անց քառասուն է
 it is twenty to three * ժամը երեքին քսան պակաս է
 it is two-fifteen * ժամը երկուսն անց տասնհինգ է
 it is a quarter after two * ժամը երկուսն անց տասնհինգ է
 it is two forty-five * ժամը երկուսն անց քառասունհինգ է 
 it is a quarter to three * ժամը երեքին քառորդ պակաս է
-in the afternoon * կեսօրին
+in the afternoon * կեսօրից հետո
 in the midnight * կեսգիշերին
 to have breakfast * նախաճաշել
 to dance * պարել
@@ -176,7 +176,7 @@ married * ամուսնացած
 popular * հանրաճանաչ
 single * միայնակ
 article * հոդված
-verb * վայ
+verb * բայ
 adverb * մակբայ
 response * պատասխան
 no * ոչ
@@ -212,10 +212,10 @@ Have a nice day. * Հաճելի օր։
 Have a good evening. * Հաճելի երեկո։
 Thanks. You, too. * Շնորհակալություն։ Դու էլ։
 Good night. * Բարի գիշեր։
-It is nice to meet you. * Ուրած եմ Ձեզ հատ ծանոթանալու համար։
-Nice to meet you, too. * Ուրած եմ Ձեզ հետ ծանոթանալու համար։
+It is nice to meet you. * Ուրախ եմ Ձեզ հատ ծանոթանալու համար։
+Nice to meet you, too. * Ուրախ եմ Ձեզ հետ ծանոթանալու համար։
 Checking and confirming information * Տեղեկության ստուգում և հաստատում
-What is your name again? * Ի՞նչ էր Ձեր անունը։
+What is your name? * Ի՞նչ էր Ձեր անունը։
 Yes, that is right. * Այո, դա ճիշտ է։
 to get attention * ուշադրություն դարձնել
 Excuse me. * կներեք։
@@ -289,14 +289,14 @@ next to * կողքին
 on * վրա 
 vocabulary * բառապաշար
 I do not know. * Ես չգիտեմ
-Is this your? * սա քո՞նն է
-Thank you! * Շնորհակալություն
+Is this yours? * սա քո՞նն է
 No problem. * Խնդիր չկա
 to express disappointment * արտահայտել հիասթափություն
 to bet * գրազ գալ
 to think before responding * մտածել մինչև պատասխանելը
-Let me see. * թող մտածեմ։
-Wait a minute * մի րոպե սպասել
+Let me think. * թող մտածեմ։
+Let me see. * թող տեսնեմ
+to wait a minute * մի րոպե սպասել
 country * երկիր
 nationality * ազգություն
 language * լեզու 
@@ -361,9 +361,12 @@ Are you Japanese? * Դու ճապոնացի՞ ես։
 Is your first language English? * Անգլերենը Ձեր առաջի՞ն լեզուն է։
 Who is that? * Ո՞վ է նա։
 What is his name? * Ի՞նչ է նրա անունը։
+What is her name? * Ի՞նչ է նրա անունը։
 How old is he? * Քանի՞ տարեկան է նա։
+How old is she? * Քանի՞ տարեկան է նա։
 He is twenty years old. * Նա քսան տարեկան է։
 What is he like? * Ինչպիսի՞ն է նա։
+What is she like? * Ինչպիսի՞ն է նա։
 By the way * ի միջիայլոց
 to introduce * ներկայացնել
 to introduce * ծանոթացնել
@@ -428,7 +431,8 @@ yellow * դեղին
 Weather * եղանակ
 cold * ցուրտ
 cool * զով
-hot * տաք
+warm * տաք
+hot * շոգ
 humid * խոնավ
 sunny * արևոտ
 warm * ջերմ
@@ -458,11 +462,10 @@ to make a contrast * հակադրել
 to ask about a problem * խնդրի մասին հարցնել
 What is the matter? * Խնդիրն ինչո՞ւմն է։
 to make a suggestion * առաջարկ անել
-Meal * երակուր
+meal * կերակուր
 breakfast * նախաճաշ
 lunch * ճաշ
 dinner * ընթրիք
-Mom * մամ
 bike * հեծանիվ
 conference * գիտաժողավ
 movie * ֆիլմ
@@ -483,7 +486,7 @@ to get hungry * սովածանալ
 to get up * վեր կենալ
 to go * գնալ 
 to go to work * գնալ աշխատանքի
-to go to the movies * ֆիլմ գնալ
+to go to the cinema * ֆիլմ գնալ
 to have * ունենալ
 to have lunch * ճաշել
 to have dinner * ընթրել
@@ -493,7 +496,6 @@ to play tennis * թենիս խաղալ
 to read * կարդալ
 to remember * հիշել
 to ride * քշել
-tp run * վազել
 to sleep * քնել
 to study * սովորել
 to study * ուսումնասիրել
@@ -533,7 +535,6 @@ subway * մետրո
 train * գնացք
 cab * կառք
 cab * տաքսի
-Family * ընտանիք
 child * երեխա
 children * երեխաներ
 daughter * դուստր
@@ -560,8 +561,8 @@ Thursday * հինգշաբթի
 Friday * ուրբաթ
 Saturday * շաբաթ
 Sunday * կիրակի
-weekday * շաբաթվա աշխատանքային օրեր
-weekend * շաբաթվա ոչ աշխատանքային օրեր
+weekdays * շաբաթվա աշխատանքային օրեր
+weekends * շաբաթվա ոչ աշխատանքային օրեր
 homework * տնային աշխատանք
 job * աշխատանք
 routine * երթուղի
@@ -649,11 +650,10 @@ forest * անտառ
 store * խանութ
 view * տեսարան
 any * ցանկացած
-lots of * շատ
 some * մի քանի
 some * որոշ
 another * ուրիշ
-big * մեշ
+big * մեծ
 dream * երազանք
 dream * երազ
 dream home * երազանքի տուն 
@@ -665,7 +665,7 @@ just * ուղղակի
 just * պարզապես
 just one room * ընդամենը մեկ սենյակ
 next * հաջորդ
-next weekend * հաջորդ ոչ աշխատանքային օրեր
+next weekends * հաջորդ ոչ աշխատանքային օրեր
 What is the apartment like? * Ինչպիսի՞ն է բնակարանը։
 It is beautiful. * Դա գեղեցիկ է։
 approval * հավանություն
@@ -731,24 +731,24 @@ exactly * ճշգրիտ
 hard * դժվար
 hard * կոպիտ
 hard * ամուր
-to exchang information about work * փոխանակվել աշխատանքի մասին տեղեկություններով
+to exchange information about work * փոխանակվել աշխատանքի մասին տեղեկություններով
 Where do you work? * Որտե՞ղ ես դու աշխատում։
 I work in a company * Ես աշխատում եմ ընկերությունում
 What do you do there? * Ի՞նչ ես դու անում այնտեղ
 I am a programmer * Ես ծրագրավորող եմ
 When do you start work? * Ե՞րբ ես դու սկսում աշխատանքդ։
 When do you finish work? * Ե՞րբ ես դու ավարտում աշխատանքդ՞
-I start work at 10AM * Ես սկսում եմ աշխատանքս 10ին։
-I finish work at 6PM * Ես ավարտում եմ աշխատանքս 6ին։
+I start work at ten AM * Ես սկսում եմ աշխատանքս տասին։
+I finish work at six PM * Ես ավարտում եմ աշխատանքս վեցին։
 What do you do after work? * Ի՞նչ ես դու անում աշխատանքից հետո։
 Where does your brother work? * Որտե՞ղ է քո եղբայրն աշխատում։
-What does he do? * Ինչո՞վ է քո եղբայրը զբաղվում։
+What does your brother do? * Ինչո՞վ է քո եղբայրը զբաղվում։
 How do you like it? * Քեզ դա դուր եկա՞վ։
 Not very much. * Ոչ այնքան։
 I really like it. * Ես իսկապես սիրեցի դա։
 They hate it. * Նրանք ատում են դա։
 I like them a lot. * Ես սիրում եմ նրանց շատ։
-to exchang personal information * փոխանակվել անձնական տեղեկություններով
+to exchange personal information * փոխանակվել անձնական տեղեկություններով
 How are things with you? * Ինչպե՞ս են գործերդ։
 How are things? * Ինչպե՞ս են գործերդ։
 Not bad. * Վատ չեն։
@@ -879,7 +879,7 @@ free time * ազատ ժամանակ
 horse * ձի
 joke * կատակ
 piano * դաշնամուր
-show * ձյուն
+snow * ձյուն
 song * երգ
 talent * տաղանդ
 team * թիմ
@@ -907,9 +907,9 @@ to tell * պատմել
 about * մասին
 once a month * ամիսը մեկ անգամ
 twice a month * ամիսը երկու անգամ
-What sports do you like? * Ի՞նչ սպորտ ես դու սիրում։
-What sports do you play? * Ի՞նչ սպորտով ես դու զբաղվում։
-What sports do you watch? * Ի՞նչ սպորտ ես դու դիտում
+What sport do you like? * Ի՞նչ սպորտ ես դու սիրում։
+What sport do you play? * Ի՞նչ սպորտով ես դու զբաղվում։
+What sport do you watch? * Ի՞նչ սպորտ ես դու դիտում
 I love tennis. * Ես սիրում եմ թենիս։
 I play tennis. * Ես խաղում եմ թենիս։
 I watch tennis. * Ես դիտում եմ թենիս։
@@ -976,7 +976,7 @@ to order * պատվիրել
 to send * ուղղարկել
 to stay home * մնալ տանը
 to take out * դուրս տանել
-to take pictures * լուսանկարել
+to take picture * լուսանկարել
 next month * հաջորդ ամիս
 next summer * հաջորդ ամառ
 next week * հաջորդ շաբաթ
@@ -986,17 +986,17 @@ tonight * այս գիշեր
 so * շատ
 to talk about future plans * խոսել ապագա ծրագրերի մասին
 Are you going to do anything exciting this weekend? * Այս շաբաթվա վերջին պատրաստվում ե՞ք որևէ հետաքրքիր բան անել:
-What are your plans? * Ի՞նչ պլաններ ունես։
+What are your plans? * Որո՞նք են քո պլանները։
 What are you going to do? * Ի՞նչ ես պատրաստվում անել։
 Where are you going to go? * Ո՞ւր եք պատրաստվում գնալ։
 How are you going to get there? * Ինչպե՞ս եք այնտեղ գնալու։
 Who is going to be there? * Ովքե՞ր են այնտեղ լինելու։
 When is your birthday? * Ե՞րբ է քո ծննդյան օրը։
-It is September 5th. * Սեպտեմբերի 5ին։
+It is September fifth. * Սեպտեմբերի հինգին։
 to wish someone a good holiday * ինչ֊որ մեկին լավ արձակուրդներ ցանկանալ
 Happy birthday! * ծնունդդ շնորհավոր
 Have a good weekends! * ուրախ հանգստյան օրեր
-to exchang information * փոխանակվել տեղեկություններով
+to exchange information * փոխանակվել տեղեկություններով
 How about you? * Իսկ դու ի՞նչ կասես քո մասին։
 to express approval * հավանություն տալ
 That sounds like fun. * Դա շատ զվարճալի է հնչում։
@@ -1022,6 +1022,7 @@ knee * ծունկ
 leg * սրունք
 mouth * բերան
 mouth * շրթունք
+lips * շրթունքներ
 neck * վիզ
 nose * քիթ
 shoulder * ուս
@@ -1037,14 +1038,15 @@ backache * մեջքի ցավ
 cough * հազ
 earache * ականջի ցավ
 fever * տենդ
-the flu * գրիպ
+flu * գրիպ
 headache * գլխացավ
 sore throat * կոկորդի բորբոքում
 sore eyes * աչքերի բորբոքում
 stomachache * ստամոքսի ցավ
 toothache * ատամնացավ
 Medication * դեղամիջոց
-antacid * հակաթույն
+antidote * հակաթույն
+antitoxin * հակաթույն
 aspirin * ասպիրին
 cold pills * մրսածության հաբեր
 pill * հաբ
@@ -1079,7 +1081,7 @@ tired * հոգնած
 common * ընդհանուր
 wrong * սխալ
 to give * տալ
-to hurt * վնսել
+to hurt * վնասել
 to point * մատնացույց անել
 to point * նշել
 to rest * հանգստանալ
@@ -1103,7 +1105,7 @@ I am glad to hear that. * Ես ուրախ եմ դա լսել։
 Maybe I can help. * Միգուցե ես կարող եմ օգնել։
 I have an idea. * Ես գաղափար ունեմ։
 to agree with a suggestion * համաձայնվել առաջարկի հետ
-That is a great idea! * Դա լավ գաղափար է։
+That is a great idea! * Դա հիանալի գաղափար է։
 to ask for more information * ավելի շատ տեղեկություն հարցնել
 Anything else? * Որևէ այլ բա՞ն։
 avenue * պողոտա
@@ -1119,7 +1121,7 @@ movie theater * կինոթատրոն
 neighborhood * թաղամաս
 parking lot * ավտոկայանատեղի
 post office * փոստ
-rest room * զուգարան
+restroom * զուգարան
 shoe store * կոշիկի խանութ
 square * քառակուսի
 square * հրապարակ
@@ -1145,11 +1147,11 @@ on * վրա
 on the corner of * անկյունում
 on the left * ձախ կողմում
 on the right * աջ կողմում
-to ask for locations * հարցնել տեղանքի մասին
+to ask for location * հարցնել տեղանքի մասին
 I do not think so. * Ես այդպես չեմ մտածում։
 Is it far from here? * Դա այստեղից հեռո՞ւ է։
 It is right behind you. * Դա հենց քո ետևում է։
-to ask for directions * ուղղություն հարցնել
+to ask for direction * ուղղություն հարցնել
 It is on the left․ * Դա ձախ կողմում է։
 You can not miss it. * Դու չես կարող բաց թողնել դա։
 Excuse me. * Կներեք։
@@ -1200,12 +1202,11 @@ science * գիտություն
 classroom * դասասենյակ
 gym * մարզասրահ
 gym * մարզադահլիճ
-lunchroom * ճաշասենյալ
+lunchroom * ճաշասենյակ
 playground * խաղահրապարակ
-School * սպրոց
 elementary school * տարրական դպրոց
 junior high school * կրտսեր ավագ դպրոց
-high school * ապագ դպրոց
+high school * ավագ դպրոց
 college * քոլեջ
 actor * դերասան
 actress * դերասանուհի
@@ -1234,8 +1235,11 @@ Where were you born? * Որտե՞ղ ես ծնվել։
 I was born in Armenia. * Ես ծնվել եմ Հայաստանում։ 
 Were you born in the U.S.? * Դու ծնվե՞լ ես Ամերիկայում։
 What city was he born in? * Ո՞ր քաղաքում է նա ծնվել։
+What city was she born in? * Ո՞ր քաղաքում է նա ծնվել։
 What nationality was he? * Ի՞նչ ազգություն նա ունի։
+What nationality was she? * Ի՞նչ ազգություն նա ունի։
 What was he like? * Ինչպիսի՞ն էր նա։
+What was hse like? * Ինչպիսի՞ն էր նա։
 amusement park * զվարճությունների այգի
 art * արվեստ
 comedy * կատակերգություն
