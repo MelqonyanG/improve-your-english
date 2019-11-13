@@ -359,12 +359,14 @@ I am from Armenia. * Ես Հայաստանից եմ։
 What is Armenia like? * Ինչպիսի՞ն է Հայաստանը։
 Are you Japanese? * Դու ճապոնացի՞ ես։
 Is your first language English? * Անգլերենը Ձեր առաջի՞ն լեզուն է։
-Who is that? * Ո՞վ է նա։
+Who is she? * Ո՞վ է նա։
+Who is he? * Ո՞վ է նա։
 What is his name? * Ի՞նչ է նրա անունը։
 What is her name? * Ի՞նչ է նրա անունը։
 How old is he? * Քանի՞ տարեկան է նա։
 How old is she? * Քանի՞ տարեկան է նա։
 He is twenty years old. * Նա քսան տարեկան է։
+She is twenty years old. * Նա քսան տարեկան է։
 What is he like? * Ինչպիսի՞ն է նա։
 What is she like? * Ինչպիսի՞ն է նա։
 By the way * ի միջիայլոց
