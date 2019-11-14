@@ -469,7 +469,7 @@ breakfast * նախաճաշ
 lunch * ճաշ
 dinner * ընթրիք
 bike * հեծանիվ
-conference * գիտաժողավ
+conference * գիտաժողով
 movie * ֆիլմ
 pizza * պիցցա
 soccer * ամերիկյան ֆուտբոլ
