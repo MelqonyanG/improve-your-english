@@ -1096,7 +1096,6 @@ to talk about health problems * խոսել առողջական խնդիրների
 How are you? * Ինչպե՞ս ես։
 How do you feel today? * Ինչպե՞ս ես քեզ այսօր զգում։
 Not so good. * Ոչ այնքան լավ։
-What the matter? * Ինչո՞ւմն է հարցը։
 What is wrong? * Ի՞նչ է պատահել։
 I feel sick. * Ես ինձ հիվանդ եմ զգում։
 I do not feel well. * Ես լավ չեմ զգում։
