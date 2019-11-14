@@ -1240,7 +1240,7 @@ What city was she born in? * Ո՞ր քաղաքում է նա ծնվել։
 What nationality was he? * Ի՞նչ ազգություն նա ունի։
 What nationality was she? * Ի՞նչ ազգություն նա ունի։
 What was he like? * Ինչպիսի՞ն էր նա։
-What was hse like? * Ինչպիսի՞ն էր նա։
+What was she like? * Ինչպիսի՞ն էր նա։
 amusement park * զվարճությունների այգի
 art * արվեստ
 comedy * կատակերգություն
