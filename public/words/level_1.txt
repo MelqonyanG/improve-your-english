@@ -213,7 +213,7 @@ Have a good evening. * Հաճելի երեկո։
 Thanks. You, too. * Շնորհակալություն։ Դու էլ։
 Good night. * Բարի գիշեր։
 It is nice to meet you. * Ուրախ եմ Ձեզ հատ ծանոթանալու համար։
-Nice to meet you, too. * Ուրախ եմ Ձեզ հետ ծանոթանալու համար։
+Nice to meet you, too. * Ես էլ եմ ուրախ Ձեզ հետ ծանոթանալու համար։
 Checking and confirming information * Տեղեկության ստուգում և հաստատում
 What is your name? * Ի՞նչ էր Ձեր անունը։
 Yes, that is right. * Այո, դա ճիշտ է։
