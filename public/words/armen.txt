@@ -1,0 +1,174 @@
+abroad * արտասահման
+overseas * արտասահման
+internationally * արտասահման
+abrupt * կտրուկ
+sudden * կտրուկ
+acceptable * թույլատրելի
+permissible * թույլատրելի
+acclaim * գովք
+acclaim * գովելի
+praise * գովք
+praise * գովելի
+actually * իրականում
+truly * իրականում
+adverse * անբարենպաստ
+unfavorable * անբարենպաստ
+advice * խորհուրդ
+suggestion * խորհուրդ
+attractive * գրավիչ
+appealing * գրավիչ
+autonomous * անկախ
+independent * անկախ
+disapproval * անհամաձայնություն
+objection * անհամաձայնություն
+disruptive * ավերիչ
+disturbing * ավերիչ
+haphazardly * պատահական
+haphazardly * անհայտ կերպով
+arbitrarily * պատահական
+arbitrarily * անհայտ կերպով
+carelessly * պատահական
+carelessly * անհայտ կերպով
+ideal * կատարյալ
+perfect * կատարյալ
+persistent * կայուն
+constant * կայուն
+persistent * մշտական
+constant * մշտական
+persistent * համառ
+constant * համառ
+wide * լայն
+board * լայն
+advanced * զարգացած
+progressive * զարգացած
+advantage * առավելություն
+benefit * առավելություն
+advent * գալուստ
+advent * ժամանում
+arrival * գալուստ
+arrival * ժամանում
+agile * աշխույժ
+agile * ճարպիկ
+nimble * աշխույժ
+nimble * ճարպիկ
+albeit *  չնայած
+although *  չնայած
+allow * թույլ տալ
+permit * թույլ տալ
+appealng * գրավիչ
+alluring * գրավիչ
+to appeal * գրավել
+to appeal * խնդրել
+to appeal * դիմել
+to appeal * բողոկարկել
+celebrated * հայտնի
+renowned * հայտնի
+contemporary * ժամանակակից
+current * ժամանակակից
+distribute * բաշխել
+dispense * բաշխել
+encourage * խրախուսել
+encourage * ոգևորել
+inspire * ոգևորել
+inspire * խրախուսել
+energetic * կենսուրախ
+vigorous * կենսուրախ
+frail * փխրուն
+fragile * փխրուն
+refine * կատարելագործել
+perfect(verb) * կատարելագործել
+worthwhile * արժե
+worthwhile * պարգևատրող
+rewording * արժե
+rewording * պարգևատրող
+tremendous * հսկայական
+tremendous * ցնցող
+noughty * չարաճճի
+to be shy * չարաճճի
+distinguish * տարբերակել
+addicted * կախվածություն
+addicted * կախված
+unaware * անտեղյակ
+imprinting * կրկնօրինակել
+attache * կցել
+attachment * կցում
+bond * կապ
+irreversible * անդառնալի
+remarkble * ուշագրավ
+remarkble * արժեքավոր
+achievement * նվաճում
+reject * մերժել
+illterate * անգրագետ
+abvious * ակնհայտ
+mature * հասուն 
+ripe * հասած(միրգ)
+trail * արահետ
+trail * հետք
+pave * հարթել
+smooth * հարթ
+smooth * հանգիստ
+weed * մոլախոտ
+outcome * արդյունք
+thereby * դրանով
+thereby * այսպիսով
+choir * երգչախումբ
+spill * թափել
+spill * լցնել
+skull * գանգ
+either side * երկու կողմերը
+escape * փախուստ
+proprietary * սեփականության իրավունք
+infer * հանգել
+infer * եզրակացնել
+tended * միտված
+tended * հակված
+appropriate * տեղին
+appropriate * համապատասխան
+imply * ի նկատի ունենալ
+imply * ենթադրել
+trigger * ձգան
+trigger * մղել
+consuption * սպառում 
+syllabus * դասացուցակ
+cheerful * զվարթ
+turn * հերթ
+raven * ագռավ
+literal * բառացի
+emphasis * շեշտադրում
+emphasis * ընդգծում
+engage * զբաղեցնել
+relevant * համապատասխան
+relevant * ակտուալ
+affection * սեր
+affection * կախվածություն
+abjective * նպատակ
+indeed * իրոք
+indeed * իսկապես
+to patch * համոզել որ գնել
+to flock * շատվորով լցվել
+to flock * հավաքվել
+flock * երամ
+diverse * բազմազան
+insight * միտք
+insight * խորհաթափանծություն
+comercial * գովազդ
+durable * դիմացքուն 
+upscale * թանկարժեք
+high-end * մոդայիկ
+upscale * մոդայիկ
+high-end * թանկարժեք
+generation * սերունդ
+reveal * բացահայտել
+glory * փառք
+possession * սեփականություն
+ostentations * շեղող
+ostentations * ցուցամոլական
+augmentation of * խթանում
+augmentation of * աճ
+divinely * աստվածային
+cultivation * մշակում
+cultivation * աճեցում
+conspicuous * աչքի ընկնող
+trace * հետք
+settler * բնակիչ
+settler * նորաբնիկ
