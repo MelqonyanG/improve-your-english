@@ -20,7 +20,7 @@ const theme = createMuiTheme({
   }
 });
 
-const SELECTS = ['level_1', 'level_2', 'level_3', 'level_4', 'level_5', 'level_6', 'phrases', 'irregular_verbs', 'another', 'all']; 
+const SELECTS = ['level_1', 'level_2', 'level_3', 'level_4', 'level_5', 'level_6', 'phrases', 'irregular_verbs', 'another', 'all', 'armen']; 
 function getLabelName(label){
   const parts = label.split("_");
   return parts[0].toUpperCase() + (parts[1] ? ` ${parts[1]}`: "");
