@@ -172,3 +172,4 @@ conspicuous * աչքի ընկնող
 trace * հետք
 settler * բնակիչ
 settler * նորաբնիկ
+encounter * առընչվել
