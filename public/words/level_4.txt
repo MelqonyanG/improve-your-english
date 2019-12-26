@@ -737,7 +737,7 @@ commerce * առևտուր
 behavior * վարքագիծ
 cancer * քաղցկեղ
 courtesy * քաղաքակրթություն
-courtesy * նրբբագեղություն
+courtesy * նրբագեղություն
 choir * երգչախումբ
 curriculum * ուսումնական պլան
 outdoor * բացօթյա
