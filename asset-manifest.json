@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/improve-your-english/static/js/main.74174a43.chunk.js",
-    "main.js.map": "/improve-your-english/static/js/main.74174a43.chunk.js.map",
+    "main.js": "/improve-your-english/static/js/main.873dff92.chunk.js",
+    "main.js.map": "/improve-your-english/static/js/main.873dff92.chunk.js.map",
     "runtime-main.js": "/improve-your-english/static/js/runtime-main.87b57f46.js",
     "runtime-main.js.map": "/improve-your-english/static/js/runtime-main.87b57f46.js.map",
-    "static/js/2.508f5a46.chunk.js": "/improve-your-english/static/js/2.508f5a46.chunk.js",
-    "static/js/2.508f5a46.chunk.js.map": "/improve-your-english/static/js/2.508f5a46.chunk.js.map",
+    "static/js/2.46240663.chunk.js": "/improve-your-english/static/js/2.46240663.chunk.js",
+    "static/js/2.46240663.chunk.js.map": "/improve-your-english/static/js/2.46240663.chunk.js.map",
     "index.html": "/improve-your-english/index.html",
-    "precache-manifest.5f4e3e72bf7473c9baa5801e0388d973.js": "/improve-your-english/precache-manifest.5f4e3e72bf7473c9baa5801e0388d973.js",
+    "precache-manifest.26c2c099ead558e1aab3770644a983db.js": "/improve-your-english/precache-manifest.26c2c099ead558e1aab3770644a983db.js",
     "service-worker.js": "/improve-your-english/service-worker.js"
   },
   "entrypoints": [
     "static/js/runtime-main.87b57f46.js",
-    "static/js/2.508f5a46.chunk.js",
-    "static/js/main.74174a43.chunk.js"
+    "static/js/2.46240663.chunk.js",
+    "static/js/main.873dff92.chunk.js"
   ]
 }
