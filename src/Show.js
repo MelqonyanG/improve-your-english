@@ -48,7 +48,7 @@ export default function StickyHeadTable(props) {
   const classes = useStyles();
   const num = Math.floor(window.innerHeight / 128) + 1; 
   const [page, setPage] = React.useState(0);
-  const [rowsPerPage, setRowsPerPage] = React.useState(num);
+  const [rowsPerPage, setRowsPerPage] = React.useState(8);
   const {words, direction, wrong, correct} = props;
   const rows = createData(words, direction, wrong, correct);
   const columns = createColumns(direction);
