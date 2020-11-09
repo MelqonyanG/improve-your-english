@@ -6,6 +6,7 @@ import Tab from '@material-ui/core/Tab';
 import Typography from '@material-ui/core/Typography';
 import Box from '@material-ui/core/Box';
 import Actions from './Actions';
+import Listening_levels from './Listening_levels';
 import Tips from './Tips';
 
 const theme = createMuiTheme({
@@ -20,7 +21,7 @@ const theme = createMuiTheme({
   }
 });
 
-const SELECTS = ['level_1', 'level_2', 'level_3', 'level_4', 'level_5', 'level_6', 'phrases', 'irregular_verbs', 'another', 'all', 'armen']; 
+const SELECTS = ['level_1', 'level_2', 'level_3', 'level_4', 'level_5', 'level_6', 'phrases', 'irregular_verbs', 'another', 'all', 'armen', 'listening'];
 function getLabelName(label){
   const parts = label.split("_");
   return parts[0].toUpperCase() + (parts[1] ? ` ${parts[1]}`: "");
@@ -96,9 +97,12 @@ export default function AppBar() {
             SELECTS.map((label, index) => <Tab key={label} label={getLabelName(label)} {...a11yProps(index)} />)
           }
         </Tabs>
-        <TabPanel value={value} index={value}>
+        {
+            SELECTS[value] === 'listening'? <Listening_levels/> : <TabPanel value={value} index={value}>
           <Actions level={SELECTS[value]} />
         </TabPanel>
+        }
+
       </div>
     </MuiThemeProvider>
   );
