@@ -54,7 +54,6 @@ export default function SelectedListItem() {
   const classes = useStyles();
   const [selectedIndex, setSelectedIndex] = React.useState(0);
   const [test, setTest] = React.useState(null);
-  const [check, setCheck] = React.useState(false);
   const [text, settext] = React.useState(null);
   const [response, setResponse] = React.useState('');
   const [playbackRate, setPlaybackRate] = React.useState(100);
@@ -70,6 +69,13 @@ export default function SelectedListItem() {
   const handleListItemClick = (event, index) => {
     setSelectedIndex(index);
   };
+
+  const handleCancel = () => {
+    setTest(null);
+    settext(null);
+    setResponse(null);
+    setPlaybackRate(100);
+  }
 
   const validatedText = (text, answer) => {
     let result = "";
@@ -112,7 +118,7 @@ export default function SelectedListItem() {
         test?
           <Grid container>
             <Grid item md={12} xs={12} style={{textAlign: "center"}}>
-              <CancelIcon onClick={()=>{setTest(null)}} style={{fontSize: 50, cursor: 'pointer'}} />
+              <CancelIcon onClick={handleCancel} style={{fontSize: 50, cursor: 'pointer'}} />
             </Grid>
             <Grid item md={12} xs={12} style={{backgroundImage: "linear-gradient(rgb(218 247 239), rgb(224 243 234))", color: 'black', textAlign: "center"}} >
             <Typography variant="h4" gutterBottom>
@@ -135,6 +141,7 @@ export default function SelectedListItem() {
                 <ReactPlayer
                   url={`https://melqonyang.github.io/improve-your-english/listening/${LEVELS[selectedIndex].split(" ")[1]}/recordings/${test.toLocaleLowerCase().replaceAll(" ", "_")}.mp3`}
                   playbackRate={playbackRate/100}
+                  playing={true}
                   controls={true}
                   height="50px"
                   style={{paddingLeft: 200}}
