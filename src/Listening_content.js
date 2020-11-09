@@ -7,6 +7,8 @@ import ListItemText from "@material-ui/core/ListItemText";
 import ListItemAvatar from "@material-ui/core/ListItemAvatar";
 import Avatar from "@material-ui/core/Avatar";
 import Typography from "@material-ui/core/Typography";
+import Button from '@material-ui/core/Button';
+import QueueMusicIcon from '@material-ui/icons/QueueMusic';
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -17,7 +19,10 @@ const useStyles = makeStyles((theme) => ({
   },
   inline: {
     display: "inline"
-  }
+  },
+  button: {
+    backgroundColor: '#de7a7a'
+  },
 }));
 
 const TOPICS = {
@@ -51,7 +56,7 @@ export default function AlignItemsList(props) {
         <div key={topic}>
           <ListItem alignItems="flex-start">
             <ListItemAvatar>
-              <Avatar alt={topic} src={`public/listening/A1/images/${topic.toLocaleLowerCase().replaceAll(" ", "_")}.jpg`} />
+              <Avatar alt={topic} src={`https://melqonyang.github.io/improve-your-english/listening/A1/images/${topic.toLocaleLowerCase().replaceAll(" ", "_")}.jpg`} />
             </ListItemAvatar>
             <ListItemText
               primary="Brunch this weekend?"
@@ -59,16 +64,24 @@ export default function AlignItemsList(props) {
                 <React.Fragment>
                   <Typography
                     component="span"
-                    variant="body2"
+                    variant="subtitle1"
                     className={classes.inline}
                     color="textPrimary"
                   >
-                  {`/static/${topic.toLocaleLowerCase().replaceAll(" ", "_")}`}
-                    {topic}
+                    <b>{topic}</b>
                   </Typography>
                 </React.Fragment>
               }
             />
+            <Button
+                variant="contained"
+                color="secondary"
+                className={classes.button}
+                startIcon={<QueueMusicIcon />}
+                onClick={()=>{props.setTest(topic)}}
+              >
+                Test
+              </Button>
           </ListItem>
           <Divider variant="inset" component="li" />
         </div>
