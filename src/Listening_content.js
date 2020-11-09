@@ -109,7 +109,7 @@ export default function AlignItemsList(props) {
         <div key={topic}>
           <ListItem alignItems="flex-start">
             <ListItemAvatar>
-              <Avatar alt={topic} src={`https://melqonyang.github.io/improve-your-english/listening/A1/images/${topic.toLocaleLowerCase().replaceAll(" ", "_")}.jpg`} />
+              <Avatar alt={topic} src={`https://melqonyang.github.io/improve-your-english/listening/${level}/images/${topic.toLocaleLowerCase().replaceAll(" ", "_")}.jpg`} />
             </ListItemAvatar>
             <ListItemText
               primary="Brunch this weekend?"
