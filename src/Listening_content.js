@@ -29,7 +29,16 @@ const TOPICS = {
     "A1": [
         "A request from your boss",
         "A voicemail message",
-        "Booking a table"
+        "Booking a table",
+        "Business cards",
+        "Finding the library",
+        "Meeting a new team member",
+        "Meeting other students",
+        "Meeting people at a dinner",
+        "Ordering in a cafe",
+        "Organising a group project",
+        "Shopping for clothes",
+        "The first English class"
     ],
     "A2": [
 
