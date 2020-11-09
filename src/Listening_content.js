@@ -41,16 +41,60 @@ const TOPICS = {
         "The first English class"
     ],
     "A2": [
-
+        "A morning briefing",
+        "An invitation to a party",
+        "Changing a meeting time",
+        "Changing plans",
+        "Facts and figures",
+        "Four conversations",
+        "Instructions for an assignment",
+        "Leaving a message",
+        "Missing a class",
+        "Transport announcements",
+        "Understanding an explanation",
+        "Who's who in the office"
     ],
     "B1": [
-
+        "A phone call from a customer",
+        "A student discussion",
+        "A team meeting about diversity",
+        "A weather forecast",
+        "An interview about listening skills",
+        "An introduction to a lecture",
+        "Arriving late to class",
+        "At the chemist",
+        "Chatting about a series",
+        "Making a decision",
+        "Meeting an old friend",
+        "Work–life balance"
     ],
     "B2": [
-
+        "A business interview",
+        "A design presentation",
+        "A digital detox podcast",
+        "A lecture about an experiment",
+        "A talk about motivation",
+        "Business news",
+        "Creating a study group",
+        "Film reviews",
+        "Getting advice",
+        "Joining a gym",
+        "Office party planning",
+        "Talking about rumours"
     ],
     "C1": [
-
+        "A job interview",
+        "A project management meeting",
+        "An interview about two books",
+        "Birthday parties",
+        "Catching up after a trip",
+        "Challenges at work",
+        "Innovation in business",
+        "Introverts – redressing the balance",
+        "Renting a house",
+        "Tech addiction",
+        "The helix",
+        "The history of hand gestures"
     ]
 }
 
