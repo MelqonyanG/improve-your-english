@@ -1,0 +1,13 @@
+OK, before we continue, does anybody have a question? Oh, lots of questions, I see. OK, we'll go one at a time. Yes?
+Student: Thank you. You talked about Fibonacci numbers in the lecture. Sorry, I don't understand. Can you explain?
+Professor: Of course. What do you want to know?
+OK … I hope this isn't a silly question, but what does Fibonacci actually mean?
+Professor: No question is ever silly – it's always good to ask. OK, it's the name of a person. Fibonacci was a European mathematician in the Middle Ages.
+Student: Ah, OK. Thanks. So, we know he was a person, but what are the Fibonacci numbers? I don't get it.
+Professor: The Fibonacci numbers are a sequence of numbers. They go 1, 1, 2, 3, 5, 8 and so on. Do you see the sequence? Do you see how it works?
+Student: I'm not sure.
+OK. This is how it works. The first number is 1, then 1 again, then 2. The third number is the first number plus the second number. The fourth number is the second number plus the third number: 1 plus 2 is 3. The fifth number is the third number, 2, plus the fourth number, 3. So the fifth number in a Fibonacci sequence is 5.
+Student: Ah! I think I understand now. But what about their importance? You said these were very important.
+Professor: Yes, let me explain. This sequence of numbers is important because we see it in many things. Fibonacci numbers are common in geometry, they are common in nature, for example in plants. We see the sequence everywhere.
+Student: Could you give us some more examples?
+Professor: OK ... well, we don't have time right now but I can bring more examples in for next class, OK?
